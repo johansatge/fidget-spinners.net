@@ -71,5 +71,9 @@ else
       </ul>
     </div>
     <?php echo $page; ?>
+    <script src="assets/js/scripts.js"></script>
+    <script>
+      App.init()
+    </script>
   </body>
 </html>

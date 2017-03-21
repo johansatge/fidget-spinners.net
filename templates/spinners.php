@@ -1,7 +1,10 @@
 <div class="main">
+  <input class="js-search" value="" type="text">
   <?php foreach($models as $model) : ?>
-    <div class="item">
-      <img class="pic" src="assets/images/<?php echo $model['brand']['id'] . '/' . $model['file']; ?>" alt="<?php echo $model['name']; ?>">
+    <div class="item js-item" data-search="<?php echo strtolower($model['brand']['name']) . ' ' . strtolower($model['name']) ?> ">
+      <a href="assets/images/<?php echo $model['brand']['id'] . '/' . $model['file']; ?>">
+        <img class="pic" src="assets/images/<?php echo $model['brand']['id'] . '/' . str_replace('.jpg', '_thumb.jpg', $model['file']); ?>" alt="<?php echo $model['name']; ?>">
+      </a>
       <div class="info">
         <a class="brand" href="<?php echo $model['brand']['url']; ?>" target="_blank">
           <?php echo $model['brand']['name']; ?>

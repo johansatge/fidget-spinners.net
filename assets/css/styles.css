@@ -85,7 +85,8 @@ html, body
 .main .item
 {
   width: 250px;
-  display: inline-block;
+  display: block;
+  float: left;
   margin: 0 30px 30px 0;
   overflow: hidden;
 }
