@@ -1,6 +1,6 @@
 <?php if (php_sapi_name() != 'cli') exit('No');
 
-$brands = glob('assets/images/*', GLOB_ONLYDIR);
+$brands = glob('assets/images/spinners/*', GLOB_ONLYDIR);
 foreach($brands as $brand)
 {
   $models = glob($brand . '/*.jpg');
