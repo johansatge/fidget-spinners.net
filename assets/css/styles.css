@@ -1,0 +1,127 @@
+html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img
+{
+  margin: 0;
+  border: 0;
+  font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+html, body
+{
+  background: rgba(245, 234, 214, 0.3);
+}
+
+.topbar
+{
+  position: relative;
+  background: #ffffff;
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  font-size: 16px;
+}
+
+.topbar h1
+{
+  display: inline-block;
+  margin: 0 0 0 40px;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.topbar ul
+{
+  list-style-type: none;
+  position: absolute;
+  top: 0;
+  right: 40px;
+}
+
+.topbar ul li
+{
+  display: inline-block;
+  margin: 0 0 0 20px;
+}
+
+.topbar ul li a,
+.topbar ul li a:visited
+{
+  text-decoration: none;
+  color: #343434;
+}
+
+.topbar ul li.current a
+{
+  border-bottom: 1px solid #343434;
+}
+
+.main
+{
+  position: relative;
+  margin: 60px 0 30px -550px;
+  width: 1135px;
+  left: 50%;
+}
+
+.main .filters
+{
+  width: 100%;
+  background: #ffffff;
+  border-radius: 3px;
+  height: 50px;
+  line-height: 50px;
+  margin: 0 0 50px 0;
+}
+
+/*.main
+{
+  position: relative;
+  z-index: 1;
+  margin: 76px 0 30px -410px;
+  width: 850px;
+  left: 50%;
+}*/
+
+.main .item
+{
+  width: 250px;
+  display: inline-block;
+  margin: 0 30px 30px 0;
+  overflow: hidden;
+}
+
+.main .item .pic
+{
+  display: block;
+  width: 100%;
+  border-radius: 3px;
+}
+
+.main .item .info
+{
+  padding: 10px 0 0 0;
+  line-height: 24px;
+}
+
+.main .item .brand,
+.main .item .brand:visited
+{
+  display: block;
+  color: #9c9c9c;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.main .item .model
+{
+  display: block;
+  font-size: 16px;
+  color: #343434;
+}
+
+.main .item .price
+{
+  display: block;
+  font-size: 14px;
+  color: #9c9c9c;
+}
