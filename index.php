@@ -48,7 +48,6 @@ else
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" type="text/css" media="all">
     <link href="assets/css/styles.css" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/png" href="assets/css/images/favicon.png?v1">
     <meta name="viewport" content="width=device-width">
