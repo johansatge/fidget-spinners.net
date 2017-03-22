@@ -21,18 +21,17 @@ if (empty($route))
   }
   ob_start();
   require 'templates/spinners.php';
-  $current = 'spinners';
   $page = ob_get_clean();
+  $current = 'spinners';
+  $title = 'Fidget Spinners';
 }
 else if ($route == 'faq')
 {
+  ob_start();
+  require 'templates/faq.php';
+  $page = ob_get_clean();
   $current = 'faq';
-  $page = '@todo FAQ';
-}
-else if ($route == 'contact')
-{
-  $current = 'contact';
-  $page = '@todo contact';
+  $title = 'Fidget Spinners | Faq';
 }
 else
 {
@@ -47,9 +46,9 @@ else
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title><?php echo $title; ?></title>
     <link href="assets/css/styles.css" rel="stylesheet" type="text/css">
-    <link rel="icon" type="image/png" href="assets/css/images/favicon.png?v1">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <meta name="viewport" content="width=device-width">
   </head>
   <body>
@@ -65,7 +64,7 @@ else
           <a href="faq">FAQ</a>
         </li>
         <li class="<?php echo $current == 'contact' ? 'current' : ''; ?>">
-          <a href="contact">Contact</a>
+          <a href="mailto: info [at] fidget-spinners.net">Contact</a>
         </li>
       </ul>
     </div>

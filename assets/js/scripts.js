@@ -12,7 +12,7 @@
     var items = document.querySelectorAll('.js-item');
     [].forEach.call(items, function(item) {
       var itemValue = item.getAttribute('data-search');
-      item.style.display = itemValue.search(search) > -1 ? 'block' : 'none';
+      item.style.display = search.length === 0 || itemValue.search(search) > -1 ? 'block' : 'none';
     });
   };
 
