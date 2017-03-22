@@ -19,6 +19,10 @@ if (empty($route))
       $models[] = $model;
     }
   }
+  usort($models, function($a, $b)
+  {
+    return $a['added'] < $b['added'];
+  });
   ob_start();
   require 'templates/spinners.php';
   $page = ob_get_clean();
@@ -55,6 +59,7 @@ else
     <div class="topbar">
       <h1>
         Fidget Spinners.
+        <span>A big list of nice spinners</span>
       </h1>
       <ul>
         <li class="<?php echo $current == 'spinners' ? 'current' : ''; ?>">

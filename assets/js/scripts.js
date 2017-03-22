@@ -4,7 +4,12 @@
   var module = {}
 
   module.init = function() {
-    document.querySelector('.js-search').addEventListener('input', _onSearch);
+    var search = document.querySelector('.js-search');
+    search.addEventListener('input', _onSearch);
+    document.querySelector('.js-sort-select').addEventListener('change', _onSort);
+
+    _onSort();
+    search.focus();
   };
 
   var _onSearch = function(evt) {
@@ -15,6 +20,12 @@
       item.style.display = search.length === 0 || itemValue.search(search) > -1 ? 'block' : 'none';
     });
   };
+
+  var _onSort = function() {
+    var select = document.querySelector('.js-sort-select');
+    var label = document.querySelector('.js-sort-label');
+    label.innerHTML = select.options[select.selectedIndex].innerHTML;
+  }
 
   window.App = module;
 
