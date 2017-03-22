@@ -10,8 +10,8 @@ foreach($brands as $brand)
     echo 'Generating ' . $model . "\n";
     list($width, $height) = getimagesize($model);
     $base_image = imagecreatefromjpeg($model);
-    $resized_image = imagecreatetruecolor(220, 220);
-    imagecopyresampled($resized_image, $base_image, 0, 0, 0, 0, 220, 220, $width, $height);
+    $resized_image = imagecreatetruecolor(200, 200);
+    imagecopyresampled($resized_image, $base_image, 0, 0, 0, 0, 200, 200, $width, $height);
     imagejpeg($resized_image, str_replace('.jpg', '_thumb.jpg', $model), 100);
   }
 }
