@@ -1,0 +1,18 @@
+{
+  "name": "fidget-spinners.net",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "filesize": "^3.5.6",
+    "html-minifier": "^3.4.2",
+    "osx-notifier": "^0.2.2"
+  },
+  "scripts": {
+    "watch": "chokidar src/**/* -c 'npm run build'",
+    "build": "node src/build.js"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}

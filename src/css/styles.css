@@ -189,15 +189,22 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   color: #9c9c9c;
 }
 
-.faq
+.main .faq
 {
-  max-width: 970px;
-  padding: 60px 40px 0 40px;
-  margin: 0 auto 0 auto;
-  font-size: 15px;
+  width: 100%;
+  padding: 50px 30px 50px 0;
+  box-sizing: border-box;
 }
 
-.faq h2
+.main .faq h2
+{
+  color: #000000;
+  font-weight: bold;
+  font-size: 22px;
+  margin: 0 0 30px 0;
+}
+
+.main .faq h3
 {
   color: #000000;
   font-weight: bold;
@@ -205,9 +212,10 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   margin: 0 0 10px 0;
 }
 
-.faq p
+.main .faq p
 {
   color: #343434;
+  font-size: 15px;
   line-height: 20px;
   margin: 0 0 30px 0;
   text-align: justify;
