@@ -24,24 +24,26 @@
       s-17-7.626-17-17S14.61,6,23.984,6z">
     </svg>
   </div>
-  <?php foreach($models as $model) : ?>
-    <div class="item js-item" data-search="<?php echo strtolower($model['brand']['name']) . ' ' . strtolower($model['name']) ?> ">
-      <a href="assets/images/spinners/<?php echo $model['brand']['id'] . '/' . $model['file']; ?>">
-        <img class="pic" src="assets/images/spinners/<?php echo $model['brand']['id'] . '/' . str_replace('.jpg', '_thumb.jpg', $model['file']); ?>" alt="<?php echo $model['name']; ?>">
-      </a>
-      <div class="info">
-        <a class="brand" href="<?php echo $model['brand']['url']; ?>" target="_blank">
-          <?php echo $model['brand']['name']; ?>
+  <div class="items">
+    <?php foreach($models as $model) : ?>
+      <div class="item js-item" data-search="<?php echo strtolower($model['brand']['name']) . ' ' . strtolower($model['name']) ?> ">
+        <a href="assets/images/spinners/<?php echo $model['brand']['id'] . '/' . $model['file']; ?>">
+          <img class="pic" src="assets/images/spinners/<?php echo $model['brand']['id'] . '/' . str_replace('.jpg', '_thumb.jpg', $model['file']); ?>" alt="<?php echo $model['name']; ?>">
         </a>
-        <span class="model">
-          <?php echo $model['name']; ?>
-        </span>
-        <?php if ($model['price'] != '?') : ?>
-          <span class="price">
-            <?php echo $model['price']; ?>$
+        <div class="info">
+          <a class="brand" href="<?php echo $model['brand']['url']; ?>" target="_blank">
+            <?php echo $model['brand']['name']; ?>
+          </a>
+          <span class="model">
+            <?php echo $model['name']; ?>
           </span>
-        <?php endif; ?>
+          <?php if ($model['price'] != '?') : ?>
+            <span class="price">
+              <?php echo $model['price']; ?>$
+            </span>
+          <?php endif; ?>
+        </div>
       </div>
-    </div>
-  <?php endforeach; ?>
+    <?php endforeach; ?>
+  </div>
 </div>

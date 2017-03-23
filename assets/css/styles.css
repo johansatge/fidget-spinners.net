@@ -139,31 +139,37 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   opacity: 0;
 }
 
-.main .item
+.main .items
 {
+  vertical-align: top;
+  font-size: 0;
+}
+
+.main .items .item
+{
+  vertical-align: top;
   width: 200px;
-  display: block;
-  float: left;
+  display: inline-block;
   margin: 0 30px 30px 0;
   overflow: hidden;
   color: #000000;
 }
 
-.main .item .pic
+.main .items .item .pic
 {
   display: block;
   width: 100%;
   border-radius: 3px;
 }
 
-.main .item .info
+.main .items .item .info
 {
   padding: 10px 0 0 0;
   line-height: 22px;
 }
 
-.main .item .brand,
-.main .item .brand:visited
+.main .items .item .brand,
+.main .items .item .brand:visited
 {
   display: block;
   color: #9c9c9c;
@@ -171,13 +177,13 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   text-decoration: none;
 }
 
-.main .item .model
+.main .items .item .model
 {
   display: block;
   font-size: 15px;
 }
 
-.main .item .price
+.main .items .item .price
 {
   display: block;
   color: #9c9c9c;
