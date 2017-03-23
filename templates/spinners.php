@@ -11,8 +11,9 @@
       </svg>
       <select class="js-sort-select">
         <option value="">Sort by company</option>
-        <option value="">Sort by date added</option>
-        <option value="">Sort by price</option>
+        <option value="" selected>Sort by date added</option>
+        <option value="">Sort by price ($ → $$)</option>
+        <option value="">Sort by price ($$ → $)</option>
       </select>
     </span>
     <input class="js-search search" value="" type="text" placeholder="Search a model or brand...">
