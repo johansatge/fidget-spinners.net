@@ -24,7 +24,10 @@
           <a href="#faq">FAQ</a>
         </li>
         <li>
-          <a href="mailto: info [at] fidget-spinners.net">Contact</a>
+          <a href="#contact">Contact</a>
+        </li>
+        <li>
+          <a href="https://github.com/johansatge/fidget-spinners.net/blob/master/contributing.md">Contribute</a>
         </li>
       </ul>
     </div>
@@ -58,7 +61,12 @@
         <% models.map((model) => { %>
           <div class="item js-item" data-search="<%= model.brand.name.toLowerCase() + ' ' + model.name.toLowerCase() %>">
             <a href="images/spinners/<%= model.brand.id + '/' + model.file %>">
-              <img class="pic" src="images/spinners/<%= model.brand.id + '/' + model.file.replace('.jpg', '_thumb.jpg') %>" alt="<%= model.name %>">
+              <img
+                class="pic js-lazy"
+                data-src-lazy="images/spinners/<%= model.brand.id + '/' + model.file.replace('.jpg', '_thumb.jpg') %>"
+                src="images/placeholder.png"
+                alt="<%= model.name %>"
+              >
             </a>
             <div class="info">
               <a class="brand" href="<%= model.brand.url %>" target="_blank">
@@ -99,6 +107,9 @@
           Ut id lacinia elit. Vivamus sed tortor dictum, dictum purus at, dictum enim.
           Nullam vitae volutpat ante. Pellentesque nisi felis, imperdiet eu urna vel, consequat aliquet metus.
         </p>
+      </div>
+      <div class="contact" id="contact">
+        @todo email + message (check the FAQ, check the features on Github)
       </div>
     </div>
     <!--<script src="assets/js/scripts.js"></script>-->
