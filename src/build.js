@@ -17,6 +17,15 @@ for(const brandID in brands) {
     models.push(model)
   })
 }
+shuffle(models)
+
+// http://stackoverflow.com/a/6274381
+const shuffle = (a) => {
+  for (let i = a.length; i; i-= 1) {
+    let j = Math.floor(Math.random() * i);
+    [a[i - 1], a[j]] = [a[j], a[i - 1]];
+  }
+}
 
 const indexTemplate = fs.readFileSync('src/ejs/main.ejs', 'utf8')
 const css = fs.readFileSync('src/css/styles.css', 'utf8')
@@ -34,7 +43,7 @@ const minifiedHTML = minify(html, {
   html5                      : true,
   minifyCSS                  : true,
   minifyJS                   : true,
-  removeAttributeQuotes      : true,
+  removeAttributeQuotes      : false,
   removeComments             : true,
   removeEmptyAttributes      : true,
   removeScriptTypeAttributes : true,

@@ -31,7 +31,7 @@
     <div class="main">
       <div class="filters">
         <span class="sort">
-          <span class="js-sort-label label"></span>
+          <span class="js-sort-label label">Sort by...</span>
           <svg class="sort-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.819 444.819" xml:space="preserve">
             <path d="M434.252,114.203l-21.409-21.416c-7.419-7.04-16.084-10.561-25.975-10.561c-10.095,0-18.657,3.521-25.7,10.561
             L222.41,231.549L83.653,92.791c-7.042-7.04-15.606-10.561-25.697-10.561c-9.896,0-18.559,3.521-25.979,10.561l-21.128,21.416
@@ -40,10 +40,13 @@
             C444.819,130.287,441.295,121.629,434.252,114.203z">
           </svg>
           <select class="js-sort-select">
-            <option value="">Sort by company</option>
-            <option value="" selected>Sort by date added</option>
-            <option value="">Sort by price ($ → $$)</option>
-            <option value="">Sort by price ($$ → $)</option>
+            <option value="">Sort by...</option>
+            <option value="added_newest">Sort by date added (Newest first)</option>
+            <option value="added_oldest">Sort by date added (Oldest first)</option>
+            <option value="price_asc">Sort by price ($ → $$)</option>
+            <option value="price_desc">Sort by price ($$ → $)</option>
+            <option value="name_az">Sort by name (A → Z)</option>
+            <option value="name_za">Sort by name (Z → A)</option>
           </select>
         </span>
         <input class="js-search search" value="" type="text" placeholder="Search a model or brand...">
@@ -57,10 +60,17 @@
       <div class="items-noresults js-items-noresults">
         No results found.
       </div>
-      <div class="items">
+      <div class="items js-items">
         <% models.map((model) => { %>
-          <div class="item js-item" data-search="<%= model.brand.name.toLowerCase() + ' ' + model.name.toLowerCase() %>">
-            <a class="pic-wrapper" href="images/spinners/<%= model.brand.id + '/' + model.file %>">
+          <div
+            class="item js-item"
+            data-company="<%= model.brand.name %>"
+            data-name="<%= model.name %>"
+            data-price="<%= model.price %>"
+            data-added="<%= model.added %>"
+            data-search="<%= model.brand.name.toLowerCase() + ' ' + model.name.toLowerCase() %>"
+          >
+            <a class="pic-wrapper" href="images/spinners/<%= model.brand.id + '/' + model.file %>" target="_blank">
               <img
                 class="pic js-lazy js-lazy-hidden"
                 data-src-lazy="images/spinners/<%= model.brand.id + '/' + model.file.replace('.jpg', '_thumb.jpg') %>"
@@ -75,7 +85,7 @@
               <span class="model">
                 <%= model.name %>
               </span>
-              <% if (model.price != '?') { %>
+              <% if (model.price != '-1') { %>
                 <span class="price">
                   <%= model.price %>$
                 </span>

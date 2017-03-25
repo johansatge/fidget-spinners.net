@@ -1,1868 +1,1805 @@
 {
-    "2r_designs": {
-        "url": "http://2rdesigns.net/",
-        "name": "2R Designs",
-        "models": [
-            {
-                "name": "Axiom",
-                "file": "axiom.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Boomerang 2",
-                "file": "boomerang_2.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Brass Boomerang Mini Pro",
-                "file": "brass_boomerang_mini_pro.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Brass Boomerang Mini Std",
-                "file": "brass_boomerang_mini_std.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stainless Steel Boomerang Mini Pro",
-                "file": "stainless_steel_boomerang_mini_pro.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Titanium Boomerang Mini Pro",
-                "file": "titanium_boomerang_mini_pro.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "3dpedc": {
-        "url": "http://3dpedc.bigcartel.com/",
-        "name": "3dPEDC",
-        "models": [
-            {
-                "name": "Ratabat",
-                "file": "ratabat.jpg",
-                "price": "45",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "ables_planetary_spinners": {
-        "url": "http://ablesplanetaryspinners.bigcartel.com/",
-        "name": "Ables Planetary Spinners",
-        "models": [
-            {
-                "name": "Customized 21mm FrankenworkX Antiqued brass diamond knurl grips with inner knurled band and swirl",
-                "file": "20170311_133510.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips turbine with inner knurl",
-                "file": "20170309_123017.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Antiqued FrankenworX 21mm knurled grips",
-                "file": "20170301_144702.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips deep dish large diamond pattern",
-                "file": "20170227_120815.jpg",
-                "price": "120",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips deep dish with slant turbine pattern",
-                "file": "20170227_123229.jpg",
-                "price": "120",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Antiqued or blackened FrankenworX 19mm stepped and knurled grips",
-                "file": "17092901_1610779625618019_1684200709_o.jpg",
-                "price": "63",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips slant turbine pattern",
-                "file": "20170227_120533.jpg",
-                "price": "100",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "FrankenworX 19mm Narrow Lip Knurled Grips Antiqued or Blackened",
-                "file": "20170227_120353.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips large turbine pattern",
-                "file": "20170222_124815.jpg",
-                "price": "100",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips large diamond pattern",
-                "file": "20170217_165027.jpg",
-                "price": "100",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips double swirled large diamond pattern",
-                "file": "20170221_115253.jpg",
-                "price": "100",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "APS Custom FrankenworX 18.8mm wide lip grips double swirled and blackened large diamond pattern",
-                "file": "20170221_115313.jpg",
-                "price": "110",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "anatolian_mods": {
-        "url": "https://anatolianmods.com",
-        "name": "Anatolian Mods",
-        "models": [
-            {
-                "name": "Dual Leaf V2",
-                "file": "dual_leaf_v2.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Dual Rota",
-                "file": "dual_rota.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Duarl Garz",
-                "file": "duarl_garz.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tri Leaf V2",
-                "file": "tri_leaf_v2.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tri Moon",
-                "file": "tri_moon.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "bastion_gear": {
-        "url": "https://www.bastiongear.com/collections/spinners",
-        "name": "Bastion Gear",
-        "models": [
-            {
-                "name": "Gold Large",
-                "file": "gold_large.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Gold Small",
-                "file": "gold_small.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Silver Large",
-                "file": "silver_large.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Silver Small",
-                "file": "silver_small.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "blackhillsprecision": {
-        "url": "https://www.etsy.com/shop/BlackHillsPrecision",
-        "name": "BlackHillsPrecision",
-        "models": [
-            {
-                "name": "Radioactive Isotope Brass",
-                "file": "radioactive_isotope_brass.jpg",
-                "price": "130",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Radioactive Isotope Brass And Brass",
-                "file": "radioactive_isotope_brass_and_brass.jpg",
-                "price": "135",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Radioactive Isotope Coppervein Powercoated Aluminum",
-                "file": "radioactive_isotope_coppervein_powercoated_aluminum.jpg",
-                "price": "70",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Radioactive Isotope Powdercoated Aluminum",
-                "file": "radioactive_isotope_powdercoated_aluminum.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Radioactive Isotope Brass Hybrid Ceramic",
-                "file": "radioactive_isotope_brass_hybrid_ceramic.jpg",
-                "price": "70",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "cogent_industries": {
-        "url": "http://www.cogentindustries.com/spinner/",
-        "name": "Cogent Industries",
-        "models": [
-            {
-                "name": "Titanium",
-                "file": "titanium.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "columbia_river_precision": {
-        "url": "https://columbiariverprecision.com/collections/crp-spinners",
-        "name": "Columbia River Precision",
-        "models": [
-            {
-                "name": "Consigliere",
-                "file": "consigliere.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Cyclone",
-                "file": "cyclone.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Moxie",
-                "file": "moxie.jpg",
-                "price": "120",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Og",
-                "file": "og.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Revolver",
-                "file": "revolver.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ripsaw",
-                "file": "ripsaw.jpg",
-                "price": "140",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "concepts2creations": {
-        "url": "https://concepts2creations.com/products/spinner-fidget-toy",
-        "name": "Concepts2Creations",
-        "models": [
-            {
-                "name": "Sonic Wave",
-                "file": "sonic_wave.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Spinner Fidget Toy",
-                "file": "spinner_fidget_toy.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "dark_apogee_designs": {
-        "url": "http://www.darkapogeedesigns.com/",
-        "name": "Dark Apogee Designs",
-        "models": [
-            {
-                "name": "Genesis Brass",
-                "file": "genesis_brass.jpg",
-                "price": "155",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Genesis Stainless",
-                "file": "genesis_stainless.jpg",
-                "price": "155",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Genesis Titanium",
-                "file": "genesis_titanium.jpg",
-                "price": "200",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "diddysdaddio": {
-        "url": "http://diddysdaddio.bigcartel.com/",
-        "name": "diddysDaddio",
-        "models": [
-            {
-                "name": "JaggerSpinner V1",
-                "file": "jaggerspinnerv1.jpg",
-                "price": "85",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "DiddySpinner V2",
-                "file": "diddyspinnerv2.jpg",
-                "price": "85",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "ef_design": {
-        "url": "http://efdesign.bigcartel.com/products",
-        "name": "EF Design",
-        "models": [
-            {
-                "name": "Benjamin Antique Brass Steel",
-                "file": "benjamin_antique_brass_steel.jpg",
-                "price": "130",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Benjamin Polished Brass Steel",
-                "file": "benjamin_polished_brass_steel.jpg",
-                "price": "130",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Fidknu Antique",
-                "file": "fidknu_antique.jpg",
-                "price": "110",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Fidknu Brass",
-                "file": "fidknu_brass.jpg",
-                "price": "110",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Fidknu Chrome Plated",
-                "file": "fidknu_chrome_plated.jpg",
-                "price": "110",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Hypno Antique Brass",
-                "file": "hypno_antique_brass.jpg",
-                "price": "90",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Hypno Us Silver Plated",
-                "file": "hypno_us_silver_plated.jpg",
-                "price": "85",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Porcupine Antique Brass",
-                "file": "mini_porcupine_antique_brass.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Porcupine Chrome Plated",
-                "file": "mini_porcupine_chrome_plated.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Porcupine Gold Plated",
-                "file": "mini_porcupine_gold_plated.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Porcupine 24k Gold Plated",
-                "file": "porcupine_24k_gold_plated.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Porcupine Antique Brass",
-                "file": "porcupine_antique_brass.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Porcupine Chrome Plated",
-                "file": "porcupine_chrome_plated.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Triage Chrome Plated",
-                "file": "triage_chrome_plated.jpg",
-                "price": "110",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "fidgethq": {
-        "url": "https://fidgethq.com",
-        "name": "Fidget HQ",
-        "models": [
-            {
-                "name": "Zenduo",
-                "file": "zenduo.jpg",
-                "price": "80",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Zentri",
-                "file": "zentri.jpg",
-                "price": "90",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "fiddy": {
-        "url": "https://www.etsy.com/shop/FidgetSpinner",
-        "name": "Fiddy",
-        "models": [
-            {
-                "name": "Metal F",
-                "file": "metal_f.jpg",
-                "price": "30",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Metal H",
-                "file": "metal_h.jpg",
-                "price": "30",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "fidgetgear": {
-        "url": "https://www.etsy.com/shop/FidgetGear",
-        "name": "FidgetGear",
-        "models": [
-            {
-                "name": "Rotobow",
-                "file": "rotobow.jpg",
-                "price": "59",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Rotobow Copper",
-                "file": "rotobow_copper.jpg",
-                "price": "69",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Rotobow Nano",
-                "file": "rotobow_nano.jpg",
-                "price": "49",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "flyawaytoys": {
-        "url": "https://www.etsy.com/shop/FlyawayToys",
-        "name": "FlyawayToys",
-        "models": [
-            {
-                "name": "Builder",
-                "file": "builder.jpg",
-                "price": "49",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Falcon",
-                "file": "falcon.jpg",
-                "price": "35",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Maelstrom",
-                "file": "maelstrom.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Falcon",
-                "file": "mini_falcon.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Maelstrom",
-                "file": "mini_maelstrom.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "fromrussiawithknives": {
-        "url": "https://fromrussiawithknives.com/category/pepyakka-spinner/",
-        "name": "FromRussiaWithKnives",
-        "models": [
-            {
-                "name": "Ckf Pepyakka 3",
-                "file": "ckf_pepyakka_3.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ckf Pepyakka Nvk Bl",
-                "file": "ckf_pepyakka_nvk_bl.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ckf Pepyakka Nvk Gld",
-                "file": "ckf_pepyakka_nvk_gld.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ckf Pepyakka Nvk Rzp",
-                "file": "ckf_pepyakka_nvk_rzp.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ckf Pepyakka Nvk Vlt",
-                "file": "ckf_pepyakka_nvk_vlt.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Pepyakka 2",
-                "file": "pepyakka_2.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "hog_doggins": {
-        "url": "http://hogdoggins.bigcartel.com/",
-        "name": "Hog Doggins",
-        "models": [
-            {
-                "name": "Bastard Ballbuster",
-                "file": "bastard_ballbuster.jpg",
-                "price": "200",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Cupro Bastard Ballbuster",
-                "file": "cupro_bastard_ballbuster.jpg",
-                "price": "290",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Naval Brass Ballbuster",
-                "file": "naval_brass_ballbuster.jpg",
-                "price": "149",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Naval Brass Ballbuster 4",
-                "file": "naval_brass_ballbuster_4.jpg",
-                "price": "169",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Naval Brass Ballbuster 6",
-                "file": "naval_brass_ballbuster_6.jpg",
-                "price": "189",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "kepler_technology": {
-        "url": "https://spinetic-spinners.com/product-category/metal-spinners/kepler-technology/",
-        "name": "Kepler Technology",
-        "models": [
-            {
-                "name": "Dapper Brass",
-                "file": "dapper_brass.jpg",
-                "price": "25",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Dapper Copper",
-                "file": "dapper_copper.jpg",
-                "price": "28",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Dapper Stainless Steel",
-                "file": "dapper_stainless_steel.jpg",
-                "price": "30",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "koncio_mods": {
-        "url": "https://www.koncio-mods.com/spinners",
-        "name": "Koncio Mods",
-        "models": [
-            {
-                "name": "Celtic Spinner S",
-                "file": "celtic_spinner_s.jpg",
-                "price": "90",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Scarab Black",
-                "file": "scarab_black.jpg",
-                "price": "65",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Scarab Rustic Gloss Copper",
-                "file": "scarab_rustic_gloss_copper.jpg",
-                "price": "65",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "lingua_machining_solutions_llc": {
-        "url": "https://www.kickstarter.com/projects/699680073/cognito-hand-spinner-by-lms",
-        "name": "Lingua Machining Solutions, LLC",
-        "models": [
-          {
-              "name": "Aluminum Cognito",
-              "file": "aluminum.jpg",
-              "price": "55",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tellurium Copper Cognito",
-              "file": "tellurium_copper.jpg",
-              "price": "80",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Brass Cognito",
-              "file": "brass.jpg",
-              "price": "80",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Engraved Copper Cognito",
-              "file": "engraved_copper.jpg",
-              "price": "98",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Titanium Cognito",
-              "file": "titanium.jpg",
-              "price": "130",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Stainless Cognito",
-              "file": "stainless.jpg",
-              "price": "130",
-                "added": "2017-03-20"
-          }
-        ]
-    },
-    "mad_monkey_innovations": {
-        "url": "https://www.instagram.com/madmonkeyinnovations/",
-        "name": "Mad Monkey Innovations",
-        "models": [
-            {
-                "name": "Rotr",
-                "file": "rotr.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "mechforce": {
-        "url": "https://www.mechforce-usa.com/collections/edc",
-        "name": "Mechforce",
-        "models": [
-            {
-                "name": "Hurricane Gold",
-                "file": "hurricane_gold.jpg",
-                "price": "130",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Hurricane Graphite Black",
-                "file": "hurricane_graphite_black.jpg",
-                "price": "130",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Hurricane Stonewhashed Gray",
-                "file": "hurricane_stonewhashed_gray.jpg",
-                "price": "120",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "medieval_spinners": {
-        "url": "https://www.medievalspinners.com/",
-        "name": "Medieval Spinners",
-        "models": [
-            {
-                "name": "Brass FS-8",
-                "file": "brass_fs8.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Copper FS-8",
-                "file": "copper_fs8.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "FS-9",
-                "file": "fs9.jpg",
-                "price": "165",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Nuke",
-                "file": "nuke.jpg",
-                "price": "185",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "metallic_revolutions": {
-        "url": "https://www.facebook.com/groups/metallicrevolutions/",
-        "name": "Metallic Revolutions",
-        "models": [
-            {
-                "name": "Spinner",
-                "file": "spinner.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "noblespin": {
-        "url": "https://noblespin.com/",
-        "name": "NobleSpin",
-        "models": [
-            {
-                "name": "Ash Nebulous",
-                "file": "ash_nebulous.jpg",
-                "price": "69",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Black Pearl Vantage",
-                "file": "black_pearl_vantage.jpg",
-                "price": "99",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Black Pearl Virtu",
-                "file": "black_pearl_virtu.jpg",
-                "price": "79",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Bronze Vantage",
-                "file": "bronze_vantage.jpg",
-                "price": "69",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ember Nebulous",
-                "file": "ember_nebulous.jpg",
-                "price": "69",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Golden Stainless Vantage",
-                "file": "golden_stainless_vantage.jpg",
-                "price": "99",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Golden Vantage",
-                "file": "golden_vantage.jpg",
-                "price": "99",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Golden Virtu",
-                "file": "golden_virtu.jpg",
-                "price": "79",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Rainbow Vantage",
-                "file": "rainbow_vantage.jpg",
-                "price": "99",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Rainbow Virtu",
-                "file": "rainbow_virtu.jpg",
-                "price": "79",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stainless Golden Virtu",
-                "file": "stainless_golden_virtu.jpg",
-                "price": "79",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stainless Virtu",
-                "file": "stainless_virtu.jpg",
-                "price": "79",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "nto_designs": {
-        "url": "http://www.ntodesignsinc.com/product/ternion-revspin-edc/",
-        "name": "NTO Designs",
-        "models": [
-            {
-                "name": "Brass Ternion",
-                "file": "brass_ternion.jpg",
-                "price": "130",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Copper Ternion",
-                "file": "copper_ternion.jpg",
-                "price": "140",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Lil Brass Dog",
-                "file": "lil_brass_dog.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Rebar [Cuzn] RevSpin",
-                "file": "rebar_cuzn_revspin.jpg",
-                "price": "100",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Rebar [Cuzn] RevSpin [SS] Edition",
-                "file": "rebar_cuzn_revspin_ss_edition.jpg",
-                "price": "110",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tactical RevSpin",
-                "file": "tactical_revspin.jpg",
-                "price": "180",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ternion RevSpin",
-                "file": "ternion_revspin.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ternion Soft Touch Colors",
-                "file": "ternion_soft_touch_colors.jpg",
-                "price": "55",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ternion Soft Touch Faceoff",
-                "file": "ternion_soft_touch_faceoff.jpg",
-                "price": "79",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "od_spinner": {
-        "url": "https://www.facebook.com/groups/965322010278723",
-        "name": "OD Spinner",
-        "models": [
-            {
-                "name": "Black OD",
-                "file": "black_od.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Navy OD",
-                "file": "navy_od.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "pozdnyakoff": {
-        "url": "https://www.instagram.com/pozdnyakoff/",
-        "name": "pozdnyakoff",
-        "models": [
-            {
-                "name": "Brass",
-                "file": "brass.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Unnamed 1",
-                "file": "unnamed_1.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Unnamed 2",
-                "file": "unnamed_2.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "random_fabrications": {
-        "url": "http://randomfabrications.bigcartel.com",
-        "name": "Random Fabrications",
-        "models": [
-            {
-                "name": "Portal Brass",
-                "file": "portal_brass.jpg",
-                "price": "115",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Portal SS",
-                "file": "portal_ss.jpg",
-                "price": "115",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Portal Ti",
-                "file": "portal_ti.jpg",
-                "price": "140",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "rapid_prototyping_machining_swag_shop": {
-        "url": "http://rpmcorp.bigcartel.com/",
-        "name": "Rapid Prototyping Machining Swag Shop",
-        "models": [
-            {
-                "name": "Aluminum 'Bronze Camo' Double F",
-                "file": "aluminum_bronze_camo_double_f.jpg",
-                "price": "75",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum 'Blood Bath' Double F",
-                "file": "aluminum_blood_bath_double_f.jpg",
-                "price": "75",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum 'Galaxy Bath' Double F",
-                "file": "aluminum_galaxy_double_f.jpg",
-                "price": "80",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum 'Matte Black' Double F",
-                "file": "aluminum_matte_black_double_f.jpg",
-                "price": "70",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum Double F",
-                "file": "aluminum_double_f.jpg",
-                "price": "55",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum 'Quad Color' Double F",
-                "file": "aluminum_quad_color_double_f.jpg",
-                "price": "80",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum 'Galaxy Color' Triple F",
-                "file": "aluminum_galaxy_triple_f.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Aluminum Triple F",
-                "file": "aluminum_triple_f.jpg",
-                "price": "75",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "real_gear_spinners": {
-        "url": "http://www.realgearspinners.com/",
-        "name": "Real Gear Spinners",
-        "models": [
-            {
-                "name": "3 Gear",
-                "file": "3_gear.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "9 Gear",
-                "file": "9_gear.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Gear",
-                "file": "mini_gear.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "reaper_machining": {
-        "url": "http://reapermachining.bigcartel.com/",
-        "name": "Reaper Machining",
-        "models": [
-            {
-                "name": "Bipolar Mini Brass",
-                "file": "bipolar_mini_brass.jpg",
-                "price": "65",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Brass 3way",
-                "file": "brass_3way.jpg",
-                "price": "105",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Brass Bipolar",
-                "file": "brass_bipolar.jpg",
-                "price": "95",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Copper 3way",
-                "file": "copper_3way.jpg",
-                "price": "115",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Copper Bipolar",
-                "file": "copper_bipolar.jpg",
-                "price": "100",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Brass 3way",
-                "file": "mini_brass_3way.jpg",
-                "price": "70",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Copper 3way",
-                "file": "mini_copper_3way.jpg",
-                "price": "75",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Copper Bipolar",
-                "file": "mini_copper_bipolar.jpg",
-                "price": "70",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "revolve_makers": {
-        "url": "https://www.revolvemakers.com/alpha/",
-        "name": "Revolve Makers",
-        "models": [
-            {
-                "name": "Alpha",
-                "file": "alpha.jpg",
-                "price": "200",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Bathgate Artifact",
-                "file": "bathgate_artifact.jpg",
-                "price": "700",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "rotablade": {
-        "url": "https://www.rotablade.com/",
-        "name": "Rotablade",
-        "models": [
-            {
-                "name": "Stubby Titanium",
-                "file": "stubby_titanium.jpg",
-                "price": "142",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stubby Stainless Steel",
-                "file": "stubby_stainless_steel.jpg",
-                "price": "117",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stubby Brass",
-                "file": "stubby_brass.jpg",
-                "price": "117",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stubby Copper",
-                "file": "stubby_copper.jpg",
-                "price": "117",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Pendulum MK2",
-                "file": "pendulum_mk2.jpg",
-                "price": "166",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tritium Stubby",
-                "file": "tritium_stubby.jpg",
-                "price": "241",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tri-Stubby Stainless Steel",
-                "file": "tri_stubby_stainless_steel.jpg",
-                "price": "136",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tri-Stubby Titanium",
-                "file": "tri_stubby_titanium.jpg",
-                "price": "148",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "scullspinner": {
-        "url": "https://www.instagram.com/arkadiylukashenko/",
-        "name": "ScullSpinner",
-        "models": [
-            {
-                "name": "Celtic Button",
-                "file": "celtic_button.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Scull Spinner",
-                "file": "scull_spinner.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "spaded_designs": {
-        "url": "https://spaded.org/",
-        "name": "Spaded Designs",
-        "models": [
-            {
-                "name": "Brass Blackjack",
-                "file": "brass_blackjack.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Bronze Blackjack",
-                "file": "bronze_blackjack.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Copper Blackjack",
-                "file": "copper_blackjack.jpg",
-                "price": "120",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stainless Blackjack",
-                "file": "stainless_blackjack.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Titanium Blackjack",
-                "file": "titanium_blackjack.jpg",
-                "price": "190",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "spencers_metal_art": {
-        "url": "https://www.facebook.com/Spencers-Metal-Art-1645530879108314/",
-        "name": "Spencer's Metal Art",
-        "models": [
-          {
-              "name": "Stator",
-              "file": "stator.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Stator",
-              "file": "tri_stator.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          }
-        ]
-    },
-    "spinetic_spinners": {
-          "url": "https://spinetic-spinners.com/product-category/metal-spinners/spinetic-spinners-designs/",
-        "name": "Spinetic Spinners",
-        "models": [
-            {
-                "name": "X Brass",
-                "file": "x_brass.jpg",
-                "price": "35",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "X Copper",
-                "file": "x_copper.jpg",
-                "price": "37",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "X Stainless Steel",
-                "file": "x_stainless_steel.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Y Brass",
-                "file": "y_brass.jpg",
-                "price": "35",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Y Copper",
-                "file": "y_copper.jpg",
-                "price": "37",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Y Stainless Steel",
-                "file": "y_stainless_steel.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "spinner_manila_ph": {
-        "url": "https://www.facebook.com/groups/1267326333317473/",
-        "name": "Spinner Manila Ph",
-        "models": [
-            {
-                "name": "Berserk",
-                "file": "berserk.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Phenom",
-                "file": "phenom.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "spinner_vietnam": {
-        "url": "https://spinner.vn",
-        "name": "Spinner Vietnam",
-        "models": [
-          {
-              "name": "Stainless Steel Hyperstone Lite MPF",
-              "file": "stainless_steel_hyperstone_lite_mpf.jpg",
-              "price": "96",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Brass Hyperstone Lite MPF",
-              "file": "brass_hyperstone_lite_mpf.jpg",
-              "price": "79",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Stainless Steel Hyperstone MF",
-              "file": "stainless_steel_hyperstone_mf.jpg",
-              "price": "96",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Brass Hyperstone Lite MF",
-              "file": "brass_hyperstone_lite_mf.jpg",
-              "price": "79",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Stainless Steel Hyperstone Lite MF",
-              "file": "stainless_steel_hyperstone_lite_mf.jpg",
-              "price": "96",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Stainless Steel Hyperstone Lite MF Heating Treatment",
-              "file": "stainless_steel_hyperstone_lite_mf_heating_treatment.jpg",
-              "price": "96",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Copper Hyperstone Lite MF",
-              "file": "copper_hyperstone_lite_mf.jpg",
-              "price": "88",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Brass Hyperstone MPF Vintage Limited Edition",
-              "file": "brass_hyperstone_mpf_vintage_limited_edition.jpg",
-              "price": "79",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Brass Hyperstone MPF",
-              "file": "brass_hyperstone_mpf.jpg",
-              "price": "79",
-                "added": "2017-03-20"
-          }
-        ]
-    },
-    "spintoyco": {
-        "url": "https://www.etsy.com/ca/shop/SpinToyCo",
-        "name": "SpinToyCo",
-        "models": [
-            {
-                "name": "Typhoon",
-                "file": "typhoon.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "shenzhen_starss_technology": {
-        "url": "http://starsstech.com/",
-        "name": "Shenzhen Starss Technology",
-        "models": [
-          {
-              "name": "Dual Gunmetal",
-              "file": "dual_gunmetal.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Dual Silver",
-              "file": "dual_silver.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Black Rainbow",
-              "file": "tri_black_rainbow.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Black SS v2",
-              "file": "tri_black_ss_v2.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Black SS",
-              "file": "tri_black_ss.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Blue SS",
-              "file": "tri_blue_ss.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Gold SS v2",
-              "file": "tri_gold_ss_v2.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Gold SS",
-              "file": "tri_gold_ss.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Red SS v2",
-              "file": "tri_red_ss_v2.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          },
-          {
-              "name": "Tri Red SS",
-              "file": "tri_red_ss.jpg",
-              "price": "?",
-                "added": "2017-03-20"
-          }
-        ]
-    },
-    "syner_edc": {
-        "url": "https://syneredc.com/",
-        "name": "Syner EDC",
-        "models": [
-            {
-                "name": "Black Anodized Aluminum",
-                "file": "black_anodized_aluminum.jpg",
-                "price": "32",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Simple Tumbled Aluminum",
-                "file": "simple_tumbled_aluminum.jpg",
-                "price": "30",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Triple Mini Brass",
-                "file": "triple_mini.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Triple Threat",
-                "file": "triple_threat.jpg",
-                "price": "45",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "tec_accessories": {
-        "url": "https://www.tecaccessories.com/products/orbiter",
-        "name": "TEC Accessories",
-        "models": [
-            {
-                "name": "Orbiter",
-                "file": "orbiter.jpg",
-                "price": "65",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "the_awe_factor": {
-        "url": "https://www.facebook.com/groups/590631454332330",
-        "name": "THE AWE FACTOR",
-        "models": [
-            {
-                "name": "Spinnicky",
-                "file": "spinnicky.jpg",
-                "price": "?",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "the_last_room_standing": {
-        "url": "http://www.lastroomstanding.com/",
-        "name": "The Last Room Standing",
-        "models": [
-            {
-                "name": "Axis Micro Brass",
-                "file": "axis_micro_brass.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Axis Micro Copper",
-                "file": "axis_micro_copper.jpg",
-                "price": "180",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Axis Micro SS",
-                "file": "axis_micro_ss.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Axis Micro Stainless Steel",
-                "file": "axis_micro_stainless_steel.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Proto Axis Micro SS",
-                "file": "proto_axis_micro_ss.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "thraxx": {
-        "url": "https://thraxxedc.com",
-        "name": "Thraxx",
-        "models": [
-            {
-                "name": "Brass Thraxx",
-                "file": "brass_thraxx_spinner.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Copper Thraxx",
-                "file": "copper_thraxx_spinner.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "SS Thraxx",
-                "file": "ss_thraxx_spinner.jpg",
-                "price": "125",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ti Thraxx",
-                "file": "ti_thraxx_spinner.jpg",
-                "price": "175",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "torqbar": {
-        "url": "http://www.torqbar.com/",
-        "name": "Torqbar",
-        "models": [
-            {
-                "name": "Brass",
-                "file": "brass.jpg",
-                "price": "139",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Stainless Steel",
-                "file": "stainless_steel.jpg",
-                "price": "179",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tellurium Copper",
-                "file": "tellurium_copper.jpg",
-                "price": "149",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Titanium",
-                "file": "titanium.jpg",
-                "price": "200",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "trublu_mfg": {
-        "url": "http://trublumfg.com",
-        "name": "TruBlu MFG",
-        "models": [
-            {
-                "name": "Cross Spinner",
-                "file": "cross_spinner.jpg",
-                "price": "60",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Crossbone Spinner",
-                "file": "crossbone_spinner.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Sprocket Spinner",
-                "file": "sprocket_spinner.jpg",
-                "price": "55",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Triblade Spinner",
-                "file": "triblade_spinner.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Spinner",
-                "file": "stainless_steel_mini_spinner.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "tyler_crozier": {
-        "url": "https://www.kickstarter.com/projects/323659125/hammerhead-stainless-steel-spinner",
-        "name": "Tyler Crozier",
-        "models": [
-            {
-                "name": "Hammerhead Spinner",
-                "file": "hammerhead_spinner.jpg",
-                "price": "30",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "united_machinig_llc": {
-        "url": "https://www.unitedmachiningllc.com/products/united-bow-tie-fidget-spinner",
-        "name": "United Machinig LLC",
-        "models": [
-            {
-                "name": "United Bow Tie",
-                "file": "united_bow_tie.jpg",
-                "price": "75",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "United Northstar Brass",
-                "file": "united_northstar_brass.jpg",
-                "price": "135",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "United Northstar Copper",
-                "file": "united_northstar_copper.jpg",
-                "price": "140",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "United Northstar Stainless Steel",
-                "file": "united_northstar_stainless_steel.jpg",
-                "price": "165",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "United Northstar Titanium",
-                "file": "united_northstar_titanium.jpg",
-                "price": "175",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "vorso": {
-        "url": "https://www.vorsospin.com/collections/flat-top",
-        "name": "Vorso",
-        "models": [
-            {
-                "name": "Flat Top Brass",
-                "file": "flat_top_brass.jpg",
-                "price": "197",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Flat Top Copper",
-                "file": "flat_top_copper.jpg",
-                "price": "197",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Flat Top Grip",
-                "file": "flat_top_grip.jpg",
-                "price": "55",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Flat Top Stainless",
-                "file": "flat_top_stainless.jpg",
-                "price": "148",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "yardwerx": {
-        "url": "http://yardwerx.bigcartel.com/",
-        "name": "Yardwerx",
-        "models": [
-            {
-                "name": "Brass Zik",
-                "file": "brass_zik.jpg",
-                "price": "45",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Dab",
-                "file": "dab.jpg",
-                "price": "25",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Dab Brass Edition",
-                "file": "dab_brass_edition.jpg",
-                "price": "35",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Dab Gold Line Ceramic",
-                "file": "dab_gold_line_ceramic.jpg",
-                "price": "30",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Fizill Bottle Opener",
-                "file": "fizill_bottle_opener.jpg",
-                "price": "40",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Zik Gold Line Ceramic",
-                "file": "zik_gold_line_ceramic.jpg",
-                "price": "36",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ill",
-                "file": "ill.jpg",
-                "price": "28",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ill Custom Shop",
-                "file": "ill_custom_shop.jpg",
-                "price": "50",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Ill Gold Line Ceramic",
-                "file": "ill_gold_line_ceramic.jpg",
-                "price": "33",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Zik",
-                "file": "zik.jpg",
-                "price": "31",
-                "added": "2017-03-20"
-            }
-        ]
-    },
-    "zerofeud_llc": {
-        "url": "https://zerofeud.myshopify.com/",
-        "name": "ZeroFeud LLC",
-        "models": [
-            {
-                "name": "Compass Aluminum Anodized",
-                "file": "compass_aluminum_anodized.jpg",
-                "price": "55",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Brass 2x Tumble",
-                "file": "compass_brass_2x_tumble.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Copper 2x Tumble",
-                "file": "compass_copper_2x_tumble.jpg",
-                "price": "160",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Mini Brass 2x Tumble",
-                "file": "compass_mini_brass_2x_tumble.jpg",
-                "price": "140",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Mini Copper 2x Tumble",
-                "file": "compass_mini_copper_2x_tumble.jpg",
-                "price": "150",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Mini Stainless Steel Brushed Flats",
-                "file": "compass_mini_stainless_steel_brushed_flats.jpg",
-                "price": "165",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Mini Stainless Steel Machine Finish",
-                "file": "compass_mini_stainless_steel_machine_finish.jpg",
-                "price": "160",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Compass Titanium Blasted 2x Tumble",
-                "file": "compass_titanium_blasted_2x_tumble.jpg",
-                "price": "180",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "GAW GCR Spinner",
-                "file": "gaw_gcr_spinner.jpg",
-                "price": "200",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Mini Compass Titanium Blasted 2x Tumble",
-                "file": "mini_compass_titanium_blasted_2x_tumble.jpg",
-                "price": "180",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tri Compass Brass Blasted 2x Tumble 2nds",
-                "file": "tri_compass_brass_blasted_2x_tumble_2nds.jpg",
-                "price": "160",
-                "added": "2017-03-20"
-            },
-            {
-                "name": "Tri Compass Titanium Blasted 2x Tumble",
-                "file": "tri_compass_titanium_blasted_2x_tumble.jpg",
-                "price": "180",
-                "added": "2017-03-20"
-            }
-        ]
-    }
+  "2r_designs": {
+    "url": "http://2rdesigns.net/",
+    "name": "2R Designs",
+    "models": [{
+        "name": "Axiom",
+        "file": "axiom.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Boomerang 2",
+        "file": "boomerang_2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Boomerang Mini Pro",
+        "file": "brass_boomerang_mini_pro.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Boomerang Mini Std",
+        "file": "brass_boomerang_mini_std.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Steel Boomerang Mini Pro",
+        "file": "stainless_steel_boomerang_mini_pro.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Titanium Boomerang Mini Pro",
+        "file": "titanium_boomerang_mini_pro.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "3dpedc": {
+    "url": "http://3dpedc.bigcartel.com/",
+    "name": "3dPEDC",
+    "models": [{
+      "name": "Ratabat",
+      "file": "ratabat.jpg",
+      "price": "45",
+      "added": "2017-03-20"
+    }]
+  },
+  "ables_planetary_spinners": {
+    "url": "http://ablesplanetaryspinners.bigcartel.com/",
+    "name": "Ables Planetary Spinners",
+    "models": [{
+        "name": "Customized 21mm FrankenworkX Antiqued brass diamond knurl grips with inner knurled band and swirl",
+        "file": "20170311_133510.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips turbine with inner knurl",
+        "file": "20170309_123017.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Antiqued FrankenworX 21mm knurled grips",
+        "file": "20170301_144702.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips deep dish large diamond pattern",
+        "file": "20170227_120815.jpg",
+        "price": "120",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips deep dish with slant turbine pattern",
+        "file": "20170227_123229.jpg",
+        "price": "120",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Antiqued or blackened FrankenworX 19mm stepped and knurled grips",
+        "file": "17092901_1610779625618019_1684200709_o.jpg",
+        "price": "63",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips slant turbine pattern",
+        "file": "20170227_120533.jpg",
+        "price": "100",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "FrankenworX 19mm Narrow Lip Knurled Grips Antiqued or Blackened",
+        "file": "20170227_120353.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips large turbine pattern",
+        "file": "20170222_124815.jpg",
+        "price": "100",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips large diamond pattern",
+        "file": "20170217_165027.jpg",
+        "price": "100",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips double swirled large diamond pattern",
+        "file": "20170221_115253.jpg",
+        "price": "100",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "APS Custom FrankenworX 18.8mm wide lip grips double swirled and blackened large diamond pattern",
+        "file": "20170221_115313.jpg",
+        "price": "110",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "anatolian_mods": {
+    "url": "https://anatolianmods.com",
+    "name": "Anatolian Mods",
+    "models": [{
+        "name": "Dual Leaf V2",
+        "file": "dual_leaf_v2.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dual Rota",
+        "file": "dual_rota.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Duarl Garz",
+        "file": "duarl_garz.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Leaf V2",
+        "file": "tri_leaf_v2.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Moon",
+        "file": "tri_moon.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "bastion_gear": {
+    "url": "https://www.bastiongear.com/collections/spinners",
+    "name": "Bastion Gear",
+    "models": [{
+        "name": "Gold Large",
+        "file": "gold_large.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Gold Small",
+        "file": "gold_small.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Silver Large",
+        "file": "silver_large.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Silver Small",
+        "file": "silver_small.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "blackhillsprecision": {
+    "url": "https://www.etsy.com/shop/BlackHillsPrecision",
+    "name": "BlackHillsPrecision",
+    "models": [{
+        "name": "Radioactive Isotope Brass",
+        "file": "radioactive_isotope_brass.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Radioactive Isotope Brass And Brass",
+        "file": "radioactive_isotope_brass_and_brass.jpg",
+        "price": "135",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Radioactive Isotope Coppervein Powercoated Aluminum",
+        "file": "radioactive_isotope_coppervein_powercoated_aluminum.jpg",
+        "price": "70",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Radioactive Isotope Powdercoated Aluminum",
+        "file": "radioactive_isotope_powdercoated_aluminum.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Radioactive Isotope Brass Hybrid Ceramic",
+        "file": "radioactive_isotope_brass_hybrid_ceramic.jpg",
+        "price": "70",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "cogent_industries": {
+    "url": "http://www.cogentindustries.com/spinner/",
+    "name": "Cogent Industries",
+    "models": [{
+      "name": "Titanium",
+      "file": "titanium.jpg",
+      "price": "-1",
+      "added": "2017-03-20"
+    }]
+  },
+  "columbia_river_precision": {
+    "url": "https://columbiariverprecision.com/collections/crp-spinners",
+    "name": "Columbia River Precision",
+    "models": [{
+        "name": "Consigliere",
+        "file": "consigliere.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Cyclone",
+        "file": "cyclone.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Moxie",
+        "file": "moxie.jpg",
+        "price": "120",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Og",
+        "file": "og.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Revolver",
+        "file": "revolver.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ripsaw",
+        "file": "ripsaw.jpg",
+        "price": "140",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "concepts2creations": {
+    "url": "https://concepts2creations.com/products/spinner-fidget-toy",
+    "name": "Concepts2Creations",
+    "models": [{
+        "name": "Sonic Wave",
+        "file": "sonic_wave.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Spinner Fidget Toy",
+        "file": "spinner_fidget_toy.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "dark_apogee_designs": {
+    "url": "http://www.darkapogeedesigns.com/",
+    "name": "Dark Apogee Designs",
+    "models": [{
+        "name": "Genesis Brass",
+        "file": "genesis_brass.jpg",
+        "price": "155",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Genesis Stainless",
+        "file": "genesis_stainless.jpg",
+        "price": "155",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Genesis Titanium",
+        "file": "genesis_titanium.jpg",
+        "price": "200",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "diddysdaddio": {
+    "url": "http://diddysdaddio.bigcartel.com/",
+    "name": "diddysDaddio",
+    "models": [{
+        "name": "JaggerSpinner V1",
+        "file": "jaggerspinnerv1.jpg",
+        "price": "85",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "DiddySpinner V2",
+        "file": "diddyspinnerv2.jpg",
+        "price": "85",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "ef_design": {
+    "url": "http://efdesign.bigcartel.com/products",
+    "name": "EF Design",
+    "models": [{
+        "name": "Benjamin Antique Brass Steel",
+        "file": "benjamin_antique_brass_steel.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Benjamin Polished Brass Steel",
+        "file": "benjamin_polished_brass_steel.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Fidknu Antique",
+        "file": "fidknu_antique.jpg",
+        "price": "110",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Fidknu Brass",
+        "file": "fidknu_brass.jpg",
+        "price": "110",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Fidknu Chrome Plated",
+        "file": "fidknu_chrome_plated.jpg",
+        "price": "110",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Hypno Antique Brass",
+        "file": "hypno_antique_brass.jpg",
+        "price": "90",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Hypno Us Silver Plated",
+        "file": "hypno_us_silver_plated.jpg",
+        "price": "85",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Porcupine Antique Brass",
+        "file": "mini_porcupine_antique_brass.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Porcupine Chrome Plated",
+        "file": "mini_porcupine_chrome_plated.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Porcupine Gold Plated",
+        "file": "mini_porcupine_gold_plated.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Porcupine 24k Gold Plated",
+        "file": "porcupine_24k_gold_plated.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Porcupine Antique Brass",
+        "file": "porcupine_antique_brass.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Porcupine Chrome Plated",
+        "file": "porcupine_chrome_plated.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Triage Chrome Plated",
+        "file": "triage_chrome_plated.jpg",
+        "price": "110",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "fidgethq": {
+    "url": "https://fidgethq.com",
+    "name": "Fidget HQ",
+    "models": [{
+        "name": "Zenduo",
+        "file": "zenduo.jpg",
+        "price": "80",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Zentri",
+        "file": "zentri.jpg",
+        "price": "90",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "fiddy": {
+    "url": "https://www.etsy.com/shop/FidgetSpinner",
+    "name": "Fiddy",
+    "models": [{
+        "name": "Metal F",
+        "file": "metal_f.jpg",
+        "price": "30",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Metal H",
+        "file": "metal_h.jpg",
+        "price": "30",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "fidgetgear": {
+    "url": "https://www.etsy.com/shop/FidgetGear",
+    "name": "FidgetGear",
+    "models": [{
+        "name": "Rotobow",
+        "file": "rotobow.jpg",
+        "price": "59",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Rotobow Copper",
+        "file": "rotobow_copper.jpg",
+        "price": "69",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Rotobow Nano",
+        "file": "rotobow_nano.jpg",
+        "price": "49",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "flyawaytoys": {
+    "url": "https://www.etsy.com/shop/FlyawayToys",
+    "name": "FlyawayToys",
+    "models": [{
+        "name": "Builder",
+        "file": "builder.jpg",
+        "price": "49",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Falcon",
+        "file": "falcon.jpg",
+        "price": "35",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Maelstrom",
+        "file": "maelstrom.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Falcon",
+        "file": "mini_falcon.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Maelstrom",
+        "file": "mini_maelstrom.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "fromrussiawithknives": {
+    "url": "https://fromrussiawithknives.com/category/pepyakka-spinner/",
+    "name": "FromRussiaWithKnives",
+    "models": [{
+        "name": "Ckf Pepyakka 3",
+        "file": "ckf_pepyakka_3.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ckf Pepyakka Nvk Bl",
+        "file": "ckf_pepyakka_nvk_bl.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ckf Pepyakka Nvk Gld",
+        "file": "ckf_pepyakka_nvk_gld.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ckf Pepyakka Nvk Rzp",
+        "file": "ckf_pepyakka_nvk_rzp.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ckf Pepyakka Nvk Vlt",
+        "file": "ckf_pepyakka_nvk_vlt.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Pepyakka 2",
+        "file": "pepyakka_2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "hog_doggins": {
+    "url": "http://hogdoggins.bigcartel.com/",
+    "name": "Hog Doggins",
+    "models": [{
+        "name": "Bastard Ballbuster",
+        "file": "bastard_ballbuster.jpg",
+        "price": "200",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Cupro Bastard Ballbuster",
+        "file": "cupro_bastard_ballbuster.jpg",
+        "price": "290",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Naval Brass Ballbuster",
+        "file": "naval_brass_ballbuster.jpg",
+        "price": "149",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Naval Brass Ballbuster 4",
+        "file": "naval_brass_ballbuster_4.jpg",
+        "price": "169",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Naval Brass Ballbuster 6",
+        "file": "naval_brass_ballbuster_6.jpg",
+        "price": "189",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "kepler_technology": {
+    "url": "https://spinetic-spinners.com/product-category/metal-spinners/kepler-technology/",
+    "name": "Kepler Technology",
+    "models": [{
+        "name": "Dapper Brass",
+        "file": "dapper_brass.jpg",
+        "price": "25",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dapper Copper",
+        "file": "dapper_copper.jpg",
+        "price": "28",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dapper Stainless Steel",
+        "file": "dapper_stainless_steel.jpg",
+        "price": "30",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "koncio_mods": {
+    "url": "https://www.koncio-mods.com/spinners",
+    "name": "Koncio Mods",
+    "models": [{
+        "name": "Celtic Spinner S",
+        "file": "celtic_spinner_s.jpg",
+        "price": "90",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Scarab Black",
+        "file": "scarab_black.jpg",
+        "price": "65",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Scarab Rustic Gloss Copper",
+        "file": "scarab_rustic_gloss_copper.jpg",
+        "price": "65",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "lingua_machining_solutions_llc": {
+    "url": "https://www.kickstarter.com/projects/699680073/cognito-hand-spinner-by-lms",
+    "name": "Lingua Machining Solutions, LLC",
+    "models": [{
+        "name": "Aluminum Cognito",
+        "file": "aluminum.jpg",
+        "price": "55",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tellurium Copper Cognito",
+        "file": "tellurium_copper.jpg",
+        "price": "80",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Cognito",
+        "file": "brass.jpg",
+        "price": "80",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Engraved Copper Cognito",
+        "file": "engraved_copper.jpg",
+        "price": "98",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Titanium Cognito",
+        "file": "titanium.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Cognito",
+        "file": "stainless.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "mad_monkey_innovations": {
+    "url": "https://www.instagram.com/madmonkeyinnovations/",
+    "name": "Mad Monkey Innovations",
+    "models": [{
+      "name": "Rotr",
+      "file": "rotr.jpg",
+      "price": "-1",
+      "added": "2017-03-20"
+    }]
+  },
+  "mechforce": {
+    "url": "https://www.mechforce-usa.com/collections/edc",
+    "name": "Mechforce",
+    "models": [{
+        "name": "Hurricane Gold",
+        "file": "hurricane_gold.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Hurricane Graphite Black",
+        "file": "hurricane_graphite_black.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Hurricane Stonewhashed Gray",
+        "file": "hurricane_stonewhashed_gray.jpg",
+        "price": "120",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "medieval_spinners": {
+    "url": "https://www.medievalspinners.com/",
+    "name": "Medieval Spinners",
+    "models": [{
+        "name": "Brass FS-8",
+        "file": "brass_fs8.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper FS-8",
+        "file": "copper_fs8.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "FS-9",
+        "file": "fs9.jpg",
+        "price": "165",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Nuke",
+        "file": "nuke.jpg",
+        "price": "185",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "metallic_revolutions": {
+    "url": "https://www.facebook.com/groups/metallicrevolutions/",
+    "name": "Metallic Revolutions",
+    "models": [{
+      "name": "Spinner",
+      "file": "spinner.jpg",
+      "price": "-1",
+      "added": "2017-03-20"
+    }]
+  },
+  "noblespin": {
+    "url": "https://noblespin.com/",
+    "name": "NobleSpin",
+    "models": [{
+        "name": "Ash Nebulous",
+        "file": "ash_nebulous.jpg",
+        "price": "69",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Black Pearl Vantage",
+        "file": "black_pearl_vantage.jpg",
+        "price": "99",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Black Pearl Virtu",
+        "file": "black_pearl_virtu.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Bronze Vantage",
+        "file": "bronze_vantage.jpg",
+        "price": "69",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ember Nebulous",
+        "file": "ember_nebulous.jpg",
+        "price": "69",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Golden Stainless Vantage",
+        "file": "golden_stainless_vantage.jpg",
+        "price": "99",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Golden Vantage",
+        "file": "golden_vantage.jpg",
+        "price": "99",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Golden Virtu",
+        "file": "golden_virtu.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Rainbow Vantage",
+        "file": "rainbow_vantage.jpg",
+        "price": "99",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Rainbow Virtu",
+        "file": "rainbow_virtu.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Golden Virtu",
+        "file": "stainless_golden_virtu.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Virtu",
+        "file": "stainless_virtu.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "nto_designs": {
+    "url": "http://www.ntodesignsinc.com/product/ternion-revspin-edc/",
+    "name": "NTO Designs",
+    "models": [{
+        "name": "Brass Ternion",
+        "file": "brass_ternion.jpg",
+        "price": "130",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper Ternion",
+        "file": "copper_ternion.jpg",
+        "price": "140",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Lil Brass Dog",
+        "file": "lil_brass_dog.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Rebar [Cuzn] RevSpin",
+        "file": "rebar_cuzn_revspin.jpg",
+        "price": "100",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Rebar [Cuzn] RevSpin [SS] Edition",
+        "file": "rebar_cuzn_revspin_ss_edition.jpg",
+        "price": "110",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tactical RevSpin",
+        "file": "tactical_revspin.jpg",
+        "price": "180",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ternion RevSpin",
+        "file": "ternion_revspin.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ternion Soft Touch Colors",
+        "file": "ternion_soft_touch_colors.jpg",
+        "price": "55",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ternion Soft Touch Faceoff",
+        "file": "ternion_soft_touch_faceoff.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "od_spinner": {
+    "url": "https://www.facebook.com/groups/965322010278723",
+    "name": "OD Spinner",
+    "models": [{
+        "name": "Black OD",
+        "file": "black_od.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Navy OD",
+        "file": "navy_od.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "pozdnyakoff": {
+    "url": "https://www.instagram.com/pozdnyakoff/",
+    "name": "pozdnyakoff",
+    "models": [{
+        "name": "Brass",
+        "file": "brass.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Unnamed 1",
+        "file": "unnamed_1.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Unnamed 2",
+        "file": "unnamed_2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "random_fabrications": {
+    "url": "http://randomfabrications.bigcartel.com",
+    "name": "Random Fabrications",
+    "models": [{
+        "name": "Portal Brass",
+        "file": "portal_brass.jpg",
+        "price": "115",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Portal SS",
+        "file": "portal_ss.jpg",
+        "price": "115",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Portal Ti",
+        "file": "portal_ti.jpg",
+        "price": "140",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "rapid_prototyping_machining_swag_shop": {
+    "url": "http://rpmcorp.bigcartel.com/",
+    "name": "Rapid Prototyping Machining Swag Shop",
+    "models": [{
+        "name": "Aluminum 'Bronze Camo' Double F",
+        "file": "aluminum_bronze_camo_double_f.jpg",
+        "price": "75",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum 'Blood Bath' Double F",
+        "file": "aluminum_blood_bath_double_f.jpg",
+        "price": "75",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum 'Galaxy Bath' Double F",
+        "file": "aluminum_galaxy_double_f.jpg",
+        "price": "80",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum 'Matte Black' Double F",
+        "file": "aluminum_matte_black_double_f.jpg",
+        "price": "70",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum Double F",
+        "file": "aluminum_double_f.jpg",
+        "price": "55",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum 'Quad Color' Double F",
+        "file": "aluminum_quad_color_double_f.jpg",
+        "price": "80",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum 'Galaxy Color' Triple F",
+        "file": "aluminum_galaxy_triple_f.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum Triple F",
+        "file": "aluminum_triple_f.jpg",
+        "price": "75",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "real_gear_spinners": {
+    "url": "http://www.realgearspinners.com/",
+    "name": "Real Gear Spinners",
+    "models": [{
+        "name": "3 Gear",
+        "file": "3_gear.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "9 Gear",
+        "file": "9_gear.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Gear",
+        "file": "mini_gear.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "reaper_machining": {
+    "url": "http://reapermachining.bigcartel.com/",
+    "name": "Reaper Machining",
+    "models": [{
+        "name": "Bipolar Mini Brass",
+        "file": "bipolar_mini_brass.jpg",
+        "price": "65",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass 3way",
+        "file": "brass_3way.jpg",
+        "price": "105",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Bipolar",
+        "file": "brass_bipolar.jpg",
+        "price": "95",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper 3way",
+        "file": "copper_3way.jpg",
+        "price": "115",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper Bipolar",
+        "file": "copper_bipolar.jpg",
+        "price": "100",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Brass 3way",
+        "file": "mini_brass_3way.jpg",
+        "price": "70",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Copper 3way",
+        "file": "mini_copper_3way.jpg",
+        "price": "75",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Copper Bipolar",
+        "file": "mini_copper_bipolar.jpg",
+        "price": "70",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "revolve_makers": {
+    "url": "https://www.revolvemakers.com/alpha/",
+    "name": "Revolve Makers",
+    "models": [{
+        "name": "Alpha",
+        "file": "alpha.jpg",
+        "price": "200",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Bathgate Artifact",
+        "file": "bathgate_artifact.jpg",
+        "price": "700",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "rotablade": {
+    "url": "https://www.rotablade.com/",
+    "name": "Rotablade",
+    "models": [{
+        "name": "Stubby Titanium",
+        "file": "stubby_titanium.jpg",
+        "price": "142",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stubby Stainless Steel",
+        "file": "stubby_stainless_steel.jpg",
+        "price": "117",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stubby Brass",
+        "file": "stubby_brass.jpg",
+        "price": "117",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stubby Copper",
+        "file": "stubby_copper.jpg",
+        "price": "117",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Pendulum MK2",
+        "file": "pendulum_mk2.jpg",
+        "price": "166",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tritium Stubby",
+        "file": "tritium_stubby.jpg",
+        "price": "241",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri-Stubby Stainless Steel",
+        "file": "tri_stubby_stainless_steel.jpg",
+        "price": "136",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri-Stubby Titanium",
+        "file": "tri_stubby_titanium.jpg",
+        "price": "148",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "scullspinner": {
+    "url": "https://www.instagram.com/arkadiylukashenko/",
+    "name": "ScullSpinner",
+    "models": [{
+        "name": "Celtic Button",
+        "file": "celtic_button.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Scull Spinner",
+        "file": "scull_spinner.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "spaded_designs": {
+    "url": "https://spaded.org/",
+    "name": "Spaded Designs",
+    "models": [{
+        "name": "Brass Blackjack",
+        "file": "brass_blackjack.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Bronze Blackjack",
+        "file": "bronze_blackjack.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper Blackjack",
+        "file": "copper_blackjack.jpg",
+        "price": "120",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Blackjack",
+        "file": "stainless_blackjack.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Titanium Blackjack",
+        "file": "titanium_blackjack.jpg",
+        "price": "190",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "spencers_metal_art": {
+    "url": "https://www.facebook.com/Spencers-Metal-Art-1645530879108314/",
+    "name": "Spencer's Metal Art",
+    "models": [{
+        "name": "Stator",
+        "file": "stator.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Stator",
+        "file": "tri_stator.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "spinetic_spinners": {
+    "url": "https://spinetic-spinners.com/product-category/metal-spinners/spinetic-spinners-designs/",
+    "name": "Spinetic Spinners",
+    "models": [{
+        "name": "X Brass",
+        "file": "x_brass.jpg",
+        "price": "35",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "X Copper",
+        "file": "x_copper.jpg",
+        "price": "37",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "X Stainless Steel",
+        "file": "x_stainless_steel.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Y Brass",
+        "file": "y_brass.jpg",
+        "price": "35",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Y Copper",
+        "file": "y_copper.jpg",
+        "price": "37",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Y Stainless Steel",
+        "file": "y_stainless_steel.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "spinner_manila_ph": {
+    "url": "https://www.facebook.com/groups/1267326333317473/",
+    "name": "Spinner Manila Ph",
+    "models": [{
+        "name": "Berserk",
+        "file": "berserk.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Phenom",
+        "file": "phenom.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "spinner_vietnam": {
+    "url": "https://spinner.vn",
+    "name": "Spinner Vietnam",
+    "models": [{
+        "name": "Stainless Steel Hyperstone Lite MPF",
+        "file": "stainless_steel_hyperstone_lite_mpf.jpg",
+        "price": "96",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Hyperstone Lite MPF",
+        "file": "brass_hyperstone_lite_mpf.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Steel Hyperstone MF",
+        "file": "stainless_steel_hyperstone_mf.jpg",
+        "price": "96",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Hyperstone Lite MF",
+        "file": "brass_hyperstone_lite_mf.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Steel Hyperstone Lite MF",
+        "file": "stainless_steel_hyperstone_lite_mf.jpg",
+        "price": "96",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Steel Hyperstone Lite MF Heating Treatment",
+        "file": "stainless_steel_hyperstone_lite_mf_heating_treatment.jpg",
+        "price": "96",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper Hyperstone Lite MF",
+        "file": "copper_hyperstone_lite_mf.jpg",
+        "price": "88",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Hyperstone MPF Vintage Limited Edition",
+        "file": "brass_hyperstone_mpf_vintage_limited_edition.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Brass Hyperstone MPF",
+        "file": "brass_hyperstone_mpf.jpg",
+        "price": "79",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "spintoyco": {
+    "url": "https://www.etsy.com/ca/shop/SpinToyCo",
+    "name": "SpinToyCo",
+    "models": [{
+      "name": "Typhoon",
+      "file": "typhoon.jpg",
+      "price": "-1",
+      "added": "2017-03-20"
+    }]
+  },
+  "shenzhen_starss_technology": {
+    "url": "http://starsstech.com/",
+    "name": "Shenzhen Starss Technology",
+    "models": [{
+        "name": "Dual Gunmetal",
+        "file": "dual_gunmetal.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dual Silver",
+        "file": "dual_silver.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Black Rainbow",
+        "file": "tri_black_rainbow.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Black SS v2",
+        "file": "tri_black_ss_v2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Black SS",
+        "file": "tri_black_ss.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Blue SS",
+        "file": "tri_blue_ss.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Gold SS v2",
+        "file": "tri_gold_ss_v2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Gold SS",
+        "file": "tri_gold_ss.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Red SS v2",
+        "file": "tri_red_ss_v2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Red SS",
+        "file": "tri_red_ss.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "syner_edc": {
+    "url": "https://syneredc.com/",
+    "name": "Syner EDC",
+    "models": [{
+        "name": "Black Anodized Aluminum",
+        "file": "black_anodized_aluminum.jpg",
+        "price": "32",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Simple Tumbled Aluminum",
+        "file": "simple_tumbled_aluminum.jpg",
+        "price": "30",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Triple Mini Brass",
+        "file": "triple_mini.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Triple Threat",
+        "file": "triple_threat.jpg",
+        "price": "45",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "tec_accessories": {
+    "url": "https://www.tecaccessories.com/products/orbiter",
+    "name": "TEC Accessories",
+    "models": [{
+      "name": "Orbiter",
+      "file": "orbiter.jpg",
+      "price": "65",
+      "added": "2017-03-20"
+    }]
+  },
+  "the_awe_factor": {
+    "url": "https://www.facebook.com/groups/590631454332330",
+    "name": "THE AWE FACTOR",
+    "models": [{
+      "name": "Spinnicky",
+      "file": "spinnicky.jpg",
+      "price": "-1",
+      "added": "2017-03-20"
+    }]
+  },
+  "the_last_room_standing": {
+    "url": "http://www.lastroomstanding.com/",
+    "name": "The Last Room Standing",
+    "models": [{
+        "name": "Axis Micro Brass",
+        "file": "axis_micro_brass.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Axis Micro Copper",
+        "file": "axis_micro_copper.jpg",
+        "price": "180",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Axis Micro SS",
+        "file": "axis_micro_ss.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Axis Micro Stainless Steel",
+        "file": "axis_micro_stainless_steel.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Proto Axis Micro SS",
+        "file": "proto_axis_micro_ss.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "thraxx": {
+    "url": "https://thraxxedc.com",
+    "name": "Thraxx",
+    "models": [{
+        "name": "Brass Thraxx",
+        "file": "brass_thraxx_spinner.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Copper Thraxx",
+        "file": "copper_thraxx_spinner.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "SS Thraxx",
+        "file": "ss_thraxx_spinner.jpg",
+        "price": "125",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ti Thraxx",
+        "file": "ti_thraxx_spinner.jpg",
+        "price": "175",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "torqbar": {
+    "url": "http://www.torqbar.com/",
+    "name": "Torqbar",
+    "models": [{
+        "name": "Brass",
+        "file": "brass.jpg",
+        "price": "139",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Stainless Steel",
+        "file": "stainless_steel.jpg",
+        "price": "179",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tellurium Copper",
+        "file": "tellurium_copper.jpg",
+        "price": "149",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Titanium",
+        "file": "titanium.jpg",
+        "price": "200",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "trublu_mfg": {
+    "url": "http://trublumfg.com",
+    "name": "TruBlu MFG",
+    "models": [{
+        "name": "Cross Spinner",
+        "file": "cross_spinner.jpg",
+        "price": "60",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Crossbone Spinner",
+        "file": "crossbone_spinner.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Sprocket Spinner",
+        "file": "sprocket_spinner.jpg",
+        "price": "55",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Triblade Spinner",
+        "file": "triblade_spinner.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Spinner",
+        "file": "stainless_steel_mini_spinner.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "tyler_crozier": {
+    "url": "https://www.kickstarter.com/projects/323659125/hammerhead-stainless-steel-spinner",
+    "name": "Tyler Crozier",
+    "models": [{
+      "name": "Hammerhead Spinner",
+      "file": "hammerhead_spinner.jpg",
+      "price": "30",
+      "added": "2017-03-20"
+    }]
+  },
+  "united_machinig_llc": {
+    "url": "https://www.unitedmachiningllc.com/products/united-bow-tie-fidget-spinner",
+    "name": "United Machinig LLC",
+    "models": [{
+        "name": "United Bow Tie",
+        "file": "united_bow_tie.jpg",
+        "price": "75",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "United Northstar Brass",
+        "file": "united_northstar_brass.jpg",
+        "price": "135",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "United Northstar Copper",
+        "file": "united_northstar_copper.jpg",
+        "price": "140",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "United Northstar Stainless Steel",
+        "file": "united_northstar_stainless_steel.jpg",
+        "price": "165",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "United Northstar Titanium",
+        "file": "united_northstar_titanium.jpg",
+        "price": "175",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "vorso": {
+    "url": "https://www.vorsospin.com/collections/flat-top",
+    "name": "Vorso",
+    "models": [{
+        "name": "Flat Top Brass",
+        "file": "flat_top_brass.jpg",
+        "price": "197",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Flat Top Copper",
+        "file": "flat_top_copper.jpg",
+        "price": "197",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Flat Top Grip",
+        "file": "flat_top_grip.jpg",
+        "price": "55",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Flat Top Stainless",
+        "file": "flat_top_stainless.jpg",
+        "price": "148",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "yardwerx": {
+    "url": "http://yardwerx.bigcartel.com/",
+    "name": "Yardwerx",
+    "models": [{
+        "name": "Brass Zik",
+        "file": "brass_zik.jpg",
+        "price": "45",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dab",
+        "file": "dab.jpg",
+        "price": "25",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dab Brass Edition",
+        "file": "dab_brass_edition.jpg",
+        "price": "35",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Dab Gold Line Ceramic",
+        "file": "dab_gold_line_ceramic.jpg",
+        "price": "30",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Fizill Bottle Opener",
+        "file": "fizill_bottle_opener.jpg",
+        "price": "40",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Zik Gold Line Ceramic",
+        "file": "zik_gold_line_ceramic.jpg",
+        "price": "36",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ill",
+        "file": "ill.jpg",
+        "price": "28",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ill Custom Shop",
+        "file": "ill_custom_shop.jpg",
+        "price": "50",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Ill Gold Line Ceramic",
+        "file": "ill_gold_line_ceramic.jpg",
+        "price": "33",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Zik",
+        "file": "zik.jpg",
+        "price": "31",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "zerofeud_llc": {
+    "url": "https://zerofeud.myshopify.com/",
+    "name": "ZeroFeud LLC",
+    "models": [{
+        "name": "Compass Aluminum Anodized",
+        "file": "compass_aluminum_anodized.jpg",
+        "price": "55",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Brass 2x Tumble",
+        "file": "compass_brass_2x_tumble.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Copper 2x Tumble",
+        "file": "compass_copper_2x_tumble.jpg",
+        "price": "160",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Mini Brass 2x Tumble",
+        "file": "compass_mini_brass_2x_tumble.jpg",
+        "price": "140",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Mini Copper 2x Tumble",
+        "file": "compass_mini_copper_2x_tumble.jpg",
+        "price": "150",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Mini Stainless Steel Brushed Flats",
+        "file": "compass_mini_stainless_steel_brushed_flats.jpg",
+        "price": "165",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Mini Stainless Steel Machine Finish",
+        "file": "compass_mini_stainless_steel_machine_finish.jpg",
+        "price": "160",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Compass Titanium Blasted 2x Tumble",
+        "file": "compass_titanium_blasted_2x_tumble.jpg",
+        "price": "180",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "GAW GCR Spinner",
+        "file": "gaw_gcr_spinner.jpg",
+        "price": "200",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Compass Titanium Blasted 2x Tumble",
+        "file": "mini_compass_titanium_blasted_2x_tumble.jpg",
+        "price": "180",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Compass Brass Blasted 2x Tumble 2nds",
+        "file": "tri_compass_brass_blasted_2x_tumble_2nds.jpg",
+        "price": "160",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Tri Compass Titanium Blasted 2x Tumble",
+        "file": "tri_compass_titanium_blasted_2x_tumble.jpg",
+        "price": "180",
+        "added": "2017-03-20"
+      }
+    ]
+  }
 }
