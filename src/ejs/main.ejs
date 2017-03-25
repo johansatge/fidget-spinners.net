@@ -40,8 +40,9 @@
         </svg>
         <select class="js-sort-select">
           <option value="">Sort by...</option>
-          <option value="added_newest">Sort by date added (Newest first)</option>
-          <option value="added_oldest">Sort by date added (Oldest first)</option>
+          <option value="brand">Sort by brand</option>
+          <option value="added_newest">Sort by date added (↘)</option>
+          <option value="added_oldest">Sort by date added (↗)</option>
           <option value="price_asc">Sort by price ($ → $$)</option>
           <option value="price_desc">Sort by price ($$ → $)</option>
           <option value="name_az">Sort by name (A → Z)</option>
@@ -63,7 +64,7 @@
       <% items.map((item) => { %>
         <div
           class="item js-item"
-          data-company="<%= item.brand.name %>"
+          data-brand="<%= item.brand.name %>"
           data-name="<%= item.name %>"
           data-price="<%= item.price %>"
           data-added="<%= item.added %>"

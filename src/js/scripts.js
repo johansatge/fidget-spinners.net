@@ -42,6 +42,9 @@
     [].forEach.call(document.querySelectorAll('.js-item'), function(item) {
       sortedItems.push(item)
     })
+    if (select.value === 'brand') {
+      sortedItems = sortedItems.sort(_sortByBrand);
+    }
     if (select.value === 'price_asc') {
       sortedItems = sortedItems.sort(_sortByPriceAsc);
     }
@@ -68,6 +71,15 @@
       _onLazyLoad()
     }
   };
+
+  var _sortByBrand = function(a, b) {
+    var aBrand = a.getAttribute('data-Brand');
+    var bBrand = b.getAttribute('data-Brand');
+    if (aBrand === bBrand) {
+      return _sortByNameAZ(a, b);
+    }
+    return aBrand > bBrand ? 1 : (aBrand < bBrand ? -1 : 0);
+  }
 
   var _sortByPriceAsc = function(a, b) {
     var aPrice = parseInt(a.getAttribute('data-price'));
