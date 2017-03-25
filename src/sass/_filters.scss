@@ -1,12 +1,14 @@
 .filters
 {
   position: relative;
-  width: 920px;
-  left: 50%;
-  height: 34px;
-  margin: 0 0 30px -460px;
-  padding: 0 15px 0 15px;
+  margin: 0 auto 0 auto;
+  max-width: 960px;
+  padding: 0 30px 30px 30px;
   box-sizing: border-box;
+
+  @media screen and (max-width: 700px) {
+    padding: 0 20px 20px 20px;
+  }
 
   .search
   {
@@ -20,6 +22,13 @@
     border: 1px solid #343434;
     text-indent: 5px;
     font-size: 13px;
+    box-sizing: border-box;
+
+    @media screen and (max-width: 570px) {
+      float: none;
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
   }
 
   .search-icon
@@ -27,20 +36,29 @@
     position: absolute;
     z-index: 2;
     width: 16px;
-    top: 10px;
-    right: 30px;
+    top: 8px;
+    right: 40px;
+
+    @media screen and (max-width: 700px) {
+      right: 30px;
+    }
   }
 
   .sort
   {
     position: relative;
+    display: block;
     z-index: 1;
-    float: left;
     width: 250px;
     height: 32px;
     border-radius: 3px;
     border: 1px solid #343434;
     font-size: 13px;
+    box-sizing: border-box;
+
+    @media screen and (max-width: 570px) {
+      width: 100%;
+    }
 
     .label
     {
@@ -54,7 +72,7 @@
       position: absolute;
       z-index: 1;
       width: 14px;
-      top: 10px;
+      top: 8px;
       right: 10px;
     }
 
@@ -68,6 +86,7 @@
       top: 0;
       left: 0;
       opacity: 0;
+      -webkit-appearance: none;
     }
   }
 }

@@ -42,6 +42,10 @@ function buildCSS() {
     const css = sass.render({
       file: 'src/sass/main.scss',
     }, (error, result) => {
+      if (error) {
+        console.error(error.message)
+        process.exit(1)
+      }
       resolve(result.css.toString())
     })
   })
