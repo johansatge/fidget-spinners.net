@@ -4,7 +4,7 @@
   margin: 0 0 30px -460px;
   width: 920px;
   left: 50%;
-  padding: 0 15px 50px 15px;
+  padding: 0 15px 30px 15px;
   box-sizing: border-box;
 
   h2
@@ -30,5 +30,12 @@
     line-height: 20px;
     margin: 0 0 30px 0;
     text-align: justify;
+
+    a,
+    a:visited
+    {
+      text-decoration: none;
+      border-bottom: 1px solid #343434;
+    }
   }
 }
