@@ -26,9 +26,6 @@
         <li>
           <a href="#contact">Contact</a>
         </li>
-        <li>
-          <a href="https://github.com/johansatge/fidget-spinners.net/blob/master/contributing.md">Contribute</a>
-        </li>
       </ul>
     </div>
     <div class="main">
@@ -57,12 +54,15 @@
           s-17-7.626-17-17S14.61,6,23.984,6z">
         </svg>
       </div>
+      <div class="items-noresults js-items-noresults">
+        No results found.
+      </div>
       <div class="items">
         <% models.map((model) => { %>
           <div class="item js-item" data-search="<%= model.brand.name.toLowerCase() + ' ' + model.name.toLowerCase() %>">
-            <a href="images/spinners/<%= model.brand.id + '/' + model.file %>">
+            <a class="pic-wrapper" href="images/spinners/<%= model.brand.id + '/' + model.file %>">
               <img
-                class="pic js-lazy"
+                class="pic js-lazy js-lazy-hidden"
                 data-src-lazy="images/spinners/<%= model.brand.id + '/' + model.file.replace('.jpg', '_thumb.jpg') %>"
                 src="images/placeholder.png"
                 alt="<%= model.name %>"
@@ -86,7 +86,7 @@
       </div>
       <div class="faq" id="faq">
         <h2>FAQ</h2>
-        <h3>What is this site?</h3>
+        <h3>What are those weird tiny objects? What is this site?</h3>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Maecenas viverra elit nec elit mattis, non tincidunt enim vulputate.
@@ -106,6 +106,10 @@
           Maecenas viverra elit nec elit mattis, non tincidunt enim vulputate.
           Ut id lacinia elit. Vivamus sed tortor dictum, dictum purus at, dictum enim.
           Nullam vitae volutpat ante. Pellentesque nisi felis, imperdiet eu urna vel, consequat aliquet metus.
+        </p>
+        <h3>I want to help! What should I do?</h3>
+        <p>
+
         </p>
       </div>
       <div class="contact" id="contact">

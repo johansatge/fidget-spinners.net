@@ -61,7 +61,7 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
 .main
 {
   position: relative;
-  margin: 60px 0 30px -445px;
+  margin: 60px 0 30px -460px;
   width: 920px;
   left: 50%;
 }
@@ -72,7 +72,7 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   width: 100%;
   height: 34px;
   margin: 0 0 30px 0;
-  padding: 0 30px 0 0;
+  padding: 0 15px 0 15px;
   box-sizing: border-box;
 }
 
@@ -139,6 +139,18 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   opacity: 0;
 }
 
+.main .items-noresults
+{
+  text-align: center;
+  padding: 40px 0 40px 0;
+  margin: 0 15px 0 15px;
+  font-size: 15px;
+  color: #343434;
+  background: #efefef;
+  border-radius: 3px;
+  display: none;
+}
+
 .main .items
 {
   vertical-align: top;
@@ -150,16 +162,29 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
   vertical-align: top;
   width: 200px;
   display: inline-block;
-  margin: 0 30px 30px 0;
+  margin: 0 15px 30px 15px;
   overflow: hidden;
   color: #000000;
 }
 
-.main .items .item .pic
+.main .items .item .pic-wrapper
+{
+  display: block;
+  background: #efefef;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.main .items .item .pic-wrapper .pic
 {
   display: block;
   width: 100%;
-  border-radius: 3px;
+  transition: opacity 500ms;
+}
+
+.main .items .item .pic-wrapper .pic.js-lazy-hidden
+{
+  opacity: 0;
 }
 
 .main .items .item .info
@@ -192,7 +217,7 @@ html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
 .main .faq
 {
   width: 100%;
-  padding: 50px 30px 50px 0;
+  padding: 50px 15px 50px 15px;
   box-sizing: border-box;
 }
 
