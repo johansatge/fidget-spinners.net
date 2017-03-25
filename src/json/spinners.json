@@ -591,6 +591,89 @@
       }
     ]
   },
+  "intrinsic_spintech": {
+    "url": "http://intrinsicst.bigcartel.com/",
+    "name": "Intrinsic Spintech",
+    "models": [{
+        "name": "Big Baby 001",
+        "file": "big_baby_001.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 002",
+        "file": "big_baby_002.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 003",
+        "file": "big_baby_003.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 004",
+        "file": "big_baby_004.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 005",
+        "file": "big_baby_005.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 006",
+        "file": "big_baby_006.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 007",
+        "file": "big_baby_007.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 008",
+        "file": "big_baby_008.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 009",
+        "file": "big_baby_009.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 010",
+        "file": "big_baby_010.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 011",
+        "file": "big_baby_011.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Big Baby 012",
+        "file": "big_baby_012.jpg",
+        "price": "65",
+        "added": "2017-03-25"
+      },
+      {
+        "name": "Ataraxic Gen 1 Aluminum",
+        "file": "ataraxic_gen_1.jpg",
+        "price": "95",
+        "added": "2017-03-25"
+      }
+    ]
+  },
   "kepler_technology": {
     "url": "https://spinetic-spinners.com/product-category/metal-spinners/kepler-technology/",
     "name": "Kepler Technology",

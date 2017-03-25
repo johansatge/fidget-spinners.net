@@ -1,8 +1,10 @@
-<?php if (php_sapi_name() != 'cli') exit('No');
+<?php
 
-$brands = glob('assets/images/spinners/*', GLOB_ONLYDIR);
-foreach($brands as $brand)
+array_shift($argv);
+foreach($argv as $argv)
 {
+  $brand = rtrim(getcwd(), '/') . '/public/images/spinners/' . $argv;
+  echo 'Looking for images in ' . $brand . '/*.jpg' . "\n";
   $models = glob($brand . '/*.jpg');
   foreach($models as $model)
   {
