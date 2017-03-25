@@ -80,7 +80,7 @@ function buildHTML(items, css, js) {
       removeScriptTypeAttributes : true,
       useShortDoctype            : true,
     })
-    fs.writeFileSync('public/index.html', minifiedHTML, 'utf8')
+    fs.writeFileSync('index.html', minifiedHTML, 'utf8')
     resolve(html)
   })
 }

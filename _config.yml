@@ -1,1 +1,5 @@
-source: public
+exclude:
+  - src
+  - package.json
+  - readme.md
+  - license.md
