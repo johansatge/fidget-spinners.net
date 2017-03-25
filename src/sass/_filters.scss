@@ -14,33 +14,56 @@
   {
     position: relative;
     z-index: 1;
-    float: right;
     width: 250px;
-    height: 32px;
-    -webkit-appearance: none;
-    border-radius: 3px;
-    border: 1px solid #343434;
-    text-indent: 5px;
-    font-size: 13px;
-    box-sizing: border-box;
+    float: right;
 
     @media screen and (max-width: 570px) {
       float: none;
       width: 100%;
       margin: 0 0 10px 0;
     }
+
+    input
+    {
+      width: 100%;
+      height: 32px;
+      -webkit-appearance: none;
+      border-radius: 3px;
+      border: 1px solid #343434;
+      text-indent: 5px;
+      font-size: 13px;
+      box-sizing: border-box;
+    }
+
+    .icon
+    {
+      position: absolute;
+      z-index: 2;
+      width: 16px;
+      top: 8px;
+      right: 10px;
+    }
   }
 
-  .search-icon
+  .count
   {
+    display: block;
     position: absolute;
-    z-index: 2;
-    width: 16px;
-    top: 8px;
-    right: 40px;
+    top: 0;
+    right: 295px;
+    font-size: 13px;
+    line-height: 34px;
+    color: #9c9c9c;
 
-    @media screen and (max-width: 700px) {
-      right: 30px;
+    @media screen and (max-width:700px) {
+      right: 285px;
+    }
+
+    @media screen and (max-width: 570px) {
+      position: relative;
+      right: auto;
+      text-align: right;
+      line-height: normal;
     }
   }
 
@@ -49,7 +72,7 @@
     position: relative;
     display: block;
     z-index: 1;
-    width: 250px;
+    width: 180px;
     height: 32px;
     border-radius: 3px;
     border: 1px solid #343434;
@@ -58,12 +81,13 @@
 
     @media screen and (max-width: 570px) {
       width: 100%;
+      margin: 0 0 10px 0;
     }
 
     .label
     {
       padding: 0 5px 0 5px;
-      line-height: 34px;
+      line-height: 32px;
       font-size: 13px;
     }
 

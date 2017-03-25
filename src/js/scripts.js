@@ -17,6 +17,7 @@
   var _onSearch = function(evt) {
     var search = evt.currentTarget.value.toLowerCase();
     var noResults = document.querySelector('.js-items-noresults');
+    var count = document.querySelector('.js-count')
     var visibleItems = 0;
     [].forEach.call(document.querySelectorAll('.js-item'), function(item) {
       var itemValue = item.getAttribute('data-search');
@@ -29,6 +30,7 @@
       }
     });
     noResults.style.display = visibleItems === 0 ? 'block' : 'none';
+    count.innerHTML = count.getAttribute('data-template').replace('$1', visibleItems);
     if (!isLazyLoadDone) {
       _onLazyLoad()
     }

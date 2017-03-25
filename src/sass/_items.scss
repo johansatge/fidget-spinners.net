@@ -9,7 +9,7 @@
   box-sizing: border-box;
 
   @media screen and (max-width: 960px) {
-    padding: 0 10px 10px 10px;
+    padding: 0 15px 10px 15px;
   }
 
   @media screen and (max-width: 700px) {
@@ -26,6 +26,14 @@
     background: #efefef;
     border-radius: 3px;
     display: none;
+
+    @media screen and (max-width: 960px) {
+      font-size: 13px;
+    }
+
+    @media screen and (max-width: 700px) {
+      padding: 30px 0 30px 0;
+    }
   }
 
   .item
