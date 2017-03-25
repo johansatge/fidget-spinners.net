@@ -1,0 +1,74 @@
+.items-noresults
+{
+  text-align: center;
+  padding: 40px 0 40px 0;
+  margin: 0 15px 0 15px;
+  font-size: 15px;
+  color: #343434;
+  background: #efefef;
+  border-radius: 3px;
+  display: none;
+}
+
+.items
+{
+  vertical-align: top;
+  font-size: 0;
+
+  .item
+  {
+    vertical-align: top;
+    width: 200px;
+    display: inline-block;
+    margin: 0 15px 30px 15px;
+    overflow: hidden;
+    color: #000000;
+
+    .pic-wrapper
+    {
+      display: block;
+      background: #efefef;
+      border-radius: 3px;
+      overflow: hidden;
+
+      .pic
+      {
+        display: block;
+        width: 100%;
+        transition: opacity 500ms;
+      }
+
+      .pic.js-lazy-hidden
+      {
+        opacity: 0;
+      }
+    }
+
+    .info
+    {
+      padding: 10px 0 0 0;
+      line-height: 22px;
+    }
+
+    .brand,
+    .brand:visited
+    {
+      display: block;
+      color: #9c9c9c;
+      font-size: 13px;
+      text-decoration: none;
+    }
+
+    .name
+    {
+      display: block;
+      font-size: 15px;
+    }
+
+    .price
+    {
+      display: block;
+      color: #9c9c9c;
+    }
+  }
+}

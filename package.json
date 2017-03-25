@@ -6,6 +6,7 @@
     "ejs": "^2.5.6",
     "filesize": "^3.5.6",
     "html-minifier": "^3.4.2",
+    "node-sass": "^4.5.1",
     "osx-notifier": "^0.2.2"
   },
   "scripts": {

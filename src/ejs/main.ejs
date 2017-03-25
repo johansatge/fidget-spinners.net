@@ -61,33 +61,33 @@
         No results found.
       </div>
       <div class="items js-items">
-        <% models.map((model) => { %>
+        <% items.map((item) => { %>
           <div
             class="item js-item"
-            data-company="<%= model.brand.name %>"
-            data-name="<%= model.name %>"
-            data-price="<%= model.price %>"
-            data-added="<%= model.added %>"
-            data-search="<%= model.brand.name.toLowerCase() + ' ' + model.name.toLowerCase() %>"
+            data-company="<%= item.brand.name %>"
+            data-name="<%= item.name %>"
+            data-price="<%= item.price %>"
+            data-added="<%= item.added %>"
+            data-search="<%= item.brand.name.toLowerCase() + ' ' + item.name.toLowerCase() %>"
           >
-            <a class="pic-wrapper" href="images/spinners/<%= model.brand.id + '/' + model.file %>" target="_blank">
+            <a class="pic-wrapper" href="images/spinners/<%= item.brand.id + '/' + item.file %>" target="_blank">
               <img
                 class="pic js-lazy js-lazy-hidden"
-                data-src-lazy="images/spinners/<%= model.brand.id + '/' + model.file.replace('.jpg', '_thumb.jpg') %>"
+                data-src-lazy="images/spinners/<%= item.brand.id + '/' + item.file.replace('.jpg', '_thumb.jpg') %>"
                 src="images/placeholder.png"
-                alt="<%= model.name %>"
+                alt="<%= item.name %>"
               >
             </a>
             <div class="info">
-              <a class="brand" href="<%= model.brand.url %>" target="_blank">
-                <%= model.brand.name %>
+              <a class="brand" href="<%= item.brand.url %>" target="_blank">
+                <%= item.brand.name %>
               </a>
-              <span class="model">
-                <%= model.name %>
+              <span class="name">
+                <%= item.name %>
               </span>
-              <% if (model.price != '-1') { %>
+              <% if (item.price != '-1') { %>
                 <span class="price">
-                  <%= model.price %>$
+                  <%= item.price %>$
                 </span>
               <% } %>
             </div>

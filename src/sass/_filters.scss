@@ -1,0 +1,72 @@
+.filters
+{
+  position: relative;
+  width: 100%;
+  height: 34px;
+  margin: 0 0 30px 0;
+  padding: 0 15px 0 15px;
+  box-sizing: border-box;
+
+  .search
+  {
+    position: relative;
+    z-index: 1;
+    float: right;
+    width: 250px;
+    height: 32px;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    border: 1px solid #343434;
+    text-indent: 5px;
+    font-size: 13px;
+  }
+
+  .search-icon
+  {
+    position: absolute;
+    z-index: 2;
+    width: 16px;
+    top: 10px;
+    right: 30px;
+  }
+
+  .sort
+  {
+    position: relative;
+    z-index: 1;
+    float: left;
+    width: 250px;
+    height: 32px;
+    border-radius: 3px;
+    border: 1px solid #343434;
+    font-size: 13px;
+
+    .label
+    {
+      padding: 0 5px 0 5px;
+      line-height: 34px;
+      font-size: 13px;
+    }
+
+    .sort-icon
+    {
+      position: absolute;
+      z-index: 1;
+      width: 14px;
+      top: 10px;
+      right: 10px;
+    }
+
+    select
+    {
+      position: absolute;
+      z-index: 2;
+      display: block;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      opacity: 0;
+    }
+  }
+}

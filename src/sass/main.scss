@@ -1,0 +1,21 @@
+html, body, div, h1, h2, h3, h4, span, p, ul, li, a, img, input
+{
+  margin: 0;
+  border: 0;
+  font-family: "Courier New", Courier, Arial, Helvetica, sans-serif;
+  color: #343434;
+  font-size: 15px;
+}
+
+.main
+{
+  position: relative;
+  margin: 0 0 30px -460px;
+  width: 920px;
+  left: 50%;
+}
+
+@import 'topbar';
+@import 'filters';
+@import 'items';
+@import 'faq';
