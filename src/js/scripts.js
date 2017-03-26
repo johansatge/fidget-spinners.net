@@ -140,6 +140,7 @@
       return;
     }
     var windowHeight = window.innerHeight;
+    var isRetina = window.retina || window.devicePixelRation > 1;
     [].forEach.call(images, function(image) {
       var boundings = image.getBoundingClientRect();
       var needsLazyLoad = false;
@@ -151,8 +152,9 @@
       }
       if (needsLazyLoad) {
         image.addEventListener('load', _onLazyLoaded);
-        image.src = image.getAttribute('data-src-lazy')
+        image.src = image.getAttribute(isRetina ? 'data-src-lazy-2x' : 'data-src-lazy')
         image.removeAttribute('data-src-lazy')
+        image.removeAttribute('data-src-lazy-2x')
       }
     });
   }
