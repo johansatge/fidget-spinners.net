@@ -1,7 +1,7 @@
 (function(window, document) {
 
-  var module = {}
-  var isLazyLoadDone = false
+  var module = {};
+  var isLazyLoadDone = false;
 
   module.init = function() {
     var search = document.querySelector('.js-search');
@@ -9,8 +9,8 @@
     document.querySelector('.js-sort-select').addEventListener('change', _onSort);
     window.addEventListener('scroll', _onLazyLoad);
     window.addEventListener('resize', _onLazyLoad);
+    window.addEventListener('load', _onLazyLoad);
 
-    _onLazyLoad();
     search.focus();
   };
 
@@ -32,7 +32,7 @@
     noResults.style.display = visibleItems === 0 ? 'block' : 'none';
     count.innerHTML = count.getAttribute('data-template').replace('$1', visibleItems);
     if (!isLazyLoadDone) {
-      _onLazyLoad()
+      _onLazyLoad();
     }
   };
 
@@ -42,7 +42,7 @@
     label.innerHTML = select.options[select.selectedIndex].innerHTML;
     var sortedItems = [];
     [].forEach.call(document.querySelectorAll('.js-item'), function(item) {
-      sortedItems.push(item)
+      sortedItems.push(item);
     })
     if (select.value === 'brand') {
       sortedItems = sortedItems.sort(_sortByBrand);
@@ -70,7 +70,7 @@
       items.appendChild(item);
     });
     if (!isLazyLoadDone) {
-      _onLazyLoad()
+      _onLazyLoad();
     }
   };
 
@@ -134,27 +134,27 @@
   var _onLazyLoad = function() {
     var images = document.querySelectorAll('.js-lazy[data-src-lazy]');
     if (images.length === 0) {
-      isLazyLoadDone = true
+      isLazyLoadDone = true;
       window.removeEventListener('scroll', _onLazyLoad);
       window.removeEventListener('resize', _onLazyLoad);
       return;
     }
     var windowHeight = window.innerHeight;
-    var isRetina = window.retina || window.devicePixelRation > 1;
+    var isRetina = window.retina || window.devicePixelRatio > 1;
     [].forEach.call(images, function(image) {
       var boundings = image.getBoundingClientRect();
       var needsLazyLoad = false;
       if (boundings.top > 0 && boundings.top < windowHeight) {
-        needsLazyLoad = true
+        needsLazyLoad = true;
       }
       if (boundings.top + boundings.height > 0 && boundings.top + boundings.height < windowHeight) {
-        needsLazyLoad = true
+        needsLazyLoad = true;
       }
       if (needsLazyLoad) {
         image.addEventListener('load', _onLazyLoaded);
-        image.src = image.getAttribute(isRetina ? 'data-src-lazy-2x' : 'data-src-lazy')
-        image.removeAttribute('data-src-lazy')
-        image.removeAttribute('data-src-lazy-2x')
+        image.src = image.getAttribute(isRetina ? 'data-src-lazy-2x' : 'data-src-lazy');
+        image.removeAttribute('data-src-lazy');
+        image.removeAttribute('data-src-lazy-2x');
       }
     });
   }
