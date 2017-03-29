@@ -4,6 +4,7 @@ const minify   = require('html-minifier').minify
 const notify   = require('osx-notifier')
 const filesize = require('filesize')
 const sass     = require('node-sass')
+const webpack  = require('webpack')
 const shuffle  = (a) => {
   // http://stackoverflow.com/a/6274381
   for (let i = a.length; i; i-= 1) {
@@ -11,6 +12,7 @@ const shuffle  = (a) => {
     [a[i - 1], a[j]] = [a[j], a[i - 1]];
   }
 }
+const webpackConfig = require('./webpack.config.js')
 
 Promise.all([importItems(), buildCSS(), buildJS()])
   .then(([items, css, js]) => {
@@ -53,9 +55,15 @@ function buildCSS() {
 
 function buildJS() {
   return new Promise((resolve, reject) => {
-    fs.readFile('src/js/scripts.js', 'utf8', (error, data) => {
-      resolve(data)
-    })
+    webpack(webpackConfig, (error, stats) => {
+      if (error) {
+        console.error(error.message)
+        process.exit(1)
+      }
+      fs.readFile('src/js/bundle.js', 'utf8', (error, data) => {
+        resolve(data)
+      })
+    });
   })
 }
 
@@ -73,7 +81,7 @@ function buildHTML(items, css, js) {
       conservativeCollapse       : true,
       html5                      : true,
       minifyCSS                  : true,
-      minifyJS                   : true,
+      minifyJS                   : false,
       removeAttributeQuotes      : false,
       removeComments             : true,
       removeEmptyAttributes      : true,
