@@ -15,7 +15,7 @@
     "webpack": "^2.3.2"
   },
   "scripts": {
-    "watch": "chokidar src/**/* -c 'npm run build'",
+    "watch": "chokidar --ignore=src/js/main.bundle.js src/**/* -c 'npm run build'",
     "build": "node src/build.js"
   },
   "engines": {

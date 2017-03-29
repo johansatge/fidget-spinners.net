@@ -60,7 +60,7 @@ function buildJS() {
         console.error(error.message)
         process.exit(1)
       }
-      fs.readFile('src/js/bundle.js', 'utf8', (error, data) => {
+      fs.readFile('src/js/main.bundle.js', 'utf8', (error, data) => {
         resolve(data)
       })
     });

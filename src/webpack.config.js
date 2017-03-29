@@ -2,10 +2,10 @@ const path           = require('path')
 const UglifyJSPlugin = require('uglifyjs-webpack-plugin')
 
 module.exports = {
-  entry  : path.join(__dirname, 'js', 'scripts.js'),
+  entry  : path.join(__dirname, 'js', 'main.js'),
   output : {
     path          : path.join(__dirname, 'js'),
-    filename      : 'bundle.js',
+    filename      : 'main.bundle.js',
     library       : 'App',
     libraryTarget : 'var',
   },
