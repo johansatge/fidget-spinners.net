@@ -226,6 +226,16 @@
       }
     ]
   },
+  "bottlebib": {
+    "url": "https://www.etsy.com/shop/Bottlebib",
+    "name": "Bottlebib",
+    "models": [{
+      "name": "Brass Monkey",
+      "file": "brass_monkey.jpg",
+      "price": "31",
+      "added": "2017-03-29"
+    }]
+  },
   "cogent_industries": {
     "url": "http://www.cogentindustries.com/spinner/",
     "name": "Cogent Industries",
