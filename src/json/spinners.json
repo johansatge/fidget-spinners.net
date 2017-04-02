@@ -287,6 +287,23 @@
       }
     ]
   },
+  "compoform": {
+    "url": "https://www.facebook.com/wallrus76",
+    "name": "Compoform",
+    "models": [{
+        "name": "Relic",
+        "file": "relic.jpg",
+        "price": "112",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "Hydra",
+        "file": "hydra.jpg",
+        "price": "122",
+        "added": "2017-04-02"
+      }
+    ]
+  },
   "concepts2creations": {
     "url": "https://concepts2creations.com/products/spinner-fidget-toy",
     "name": "Concepts2Creations",
@@ -733,7 +750,8 @@
   "lingua_machining_solutions_llc": {
     "url": "https://www.kickstarter.com/projects/699680073/cognito-hand-spinner-by-lms",
     "name": "Lingua Machining Solutions, LLC",
-    "models": [{
+    "models": [
+      {
         "name": "Aluminum Cognito",
         "file": "aluminum.jpg",
         "price": "55",
@@ -768,6 +786,36 @@
         "file": "stainless.jpg",
         "price": "130",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Aluminum Cognito Jr",
+        "file": "aluminum_jr.jpg",
+        "price": "29",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "Copper Cognito Jr",
+        "file": "copper_jr.jpg",
+        "price": "69",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "Brass Cognito Jr",
+        "file": "brass_jr.jpg",
+        "price": "59",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "Titanium Cognito Jr",
+        "file": "titanium_jr.jpg",
+        "price": "79",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "Stainless Cognito Jr",
+        "file": "stainless_jr.jpg",
+        "price": "79",
+        "added": "2017-04-02"
       }
     ]
   },
@@ -1892,6 +1940,35 @@
         "file": "tri_compass_titanium_blasted_2x_tumble.jpg",
         "price": "180",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "zeroonefive": {
+    "url": "https://www.etsy.com/shop/ZeroOneFive",
+    "name": "ZeroOneFive",
+    "models": [{
+        "name": "015 Boston Tri Spinner Brass",
+        "file": "015_boston_tri_spinner_brass.jpg",
+        "price": "85",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "015 Boston Spinner Matte Black Steel",
+        "file": "015_boston_spinner_matte_black_steel.jpg",
+        "price": "40",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "015 Boston Tri Spinner Matte Black Steel",
+        "file": "015_boston_tri_spinner_matte_black_steel.jpg",
+        "price": "50",
+        "added": "2017-04-02"
+      },
+      {
+        "name": "015 Boston Spinner Brass",
+        "file": "015_boston_spinner_brass.jpg",
+        "price": "75",
+        "added": "2017-04-02"
       }
     ]
   }

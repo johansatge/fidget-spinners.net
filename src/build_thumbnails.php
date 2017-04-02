@@ -9,6 +9,7 @@ foreach($argv as $argv)
   foreach($models as $model)
   {
     if (preg_match('#_thumb\.jpg$#', $model)) continue;
+    if (preg_match('#_thumb\@2x.jpg$#', $model)) continue;
     echo 'Generating ' . $model . "\n";
     build_thumbnail($model, str_replace('.jpg', '_thumb.jpg', $model), 200, 200);
     build_thumbnail($model, str_replace('.jpg', '_thumb@2x.jpg', $model), 400, 400);
