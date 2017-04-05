@@ -456,14 +456,20 @@
     "models": [{
         "name": "Zenduo",
         "file": "zenduo.jpg",
-        "price": "80",
+        "price": "35",
         "added": "2017-03-20"
       },
       {
         "name": "Zentri",
         "file": "zentri.jpg",
-        "price": "90",
+        "price": "45",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Kong 3-in-1",
+        "file": "kong.jpg",
+        "price": "20",
+        "added": "2017-04-05"
       }
     ]
   },
