@@ -89,11 +89,14 @@ Its structure looks like this:
 
 Each spinner has associated images, stored in `images/spinners/company_name`:
 
-* `images/spinners/company_name/spinner1.jpg` → Full-size image (`500x500` square)
+* `images/spinners/company_name/spinner1.jpg` → Full-size image (`500x500` or `800x800` square)
 * `images/spinners/company_name/spinner1_thumb@2x.jpg` → Retina thumbnail (`400x400` square)
 * `images/spinners/company_name/spinner1_thumb.jpg` → Full-size image (`200x200` square)
 
 Update the `json` file and rebuild the HTML to see the result.
+
+> To automatically generate thumbnails for a given brand, the [build_thumbnails.php](src/build_thumbnails.php) tool is available (to be converted to a NPM script).
+> It needs [jpegoptim](https://github.com/tjko/jpegoptim) to work.
 
 ## License
 
