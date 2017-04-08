@@ -513,6 +513,23 @@
       }
     ]
   },
+  "fidgetry": {
+    "url": "https://www.fidgetry.co.uk",
+    "name": "Fidgetry",
+    "models": [{
+        "name": "Spinet",
+        "file": "spinet.jpg",
+        "price": "50",
+        "added": "2017-04-08"
+      },
+      {
+        "name": "Spinet Gold",
+        "file": "spinet_gold.jpg",
+        "price": "80",
+        "added": "2017-04-08"
+      }
+    ]
+  },
   "flyawaytoys": {
     "url": "https://www.etsy.com/shop/FlyawayToys",
     "name": "FlyawayToys",
@@ -971,6 +988,18 @@
         "file": "stainless_virtu.jpg",
         "price": "79",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Stonewash Black Virtu",
+        "file": "stonewash_black_virtu.jpg",
+        "price": "79",
+        "added": "2017-04-08"
+      },
+      {
+        "name": "Stratus",
+        "file": "stratus.jpg",
+        "price": "29",
+        "added": "2017-04-08"
       }
     ]
   },
@@ -1556,6 +1585,24 @@
       }
     ]
   },
+  "stealthspinners": {
+    "url": "https://stealthspinners.com/",
+    "name": "Stealth Spinners",
+    "models": [
+      {
+        "name": "Aventador",
+        "file": "aventador.jpg",
+        "price": "55",
+        "added": "2017-04-08"
+      },
+      {
+        "name": "B2 Bomber",
+        "file": "b2.jpg",
+        "price": "50",
+        "added": "2017-04-08"
+      }
+    ]
+  },
   "syner_edc": {
     "url": "https://syneredc.com/",
     "name": "Syner EDC",
@@ -1775,6 +1822,35 @@
         "file": "united_northstar_titanium.jpg",
         "price": "175",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "vc_edc": {
+    "url": "https://www.vc-edc.com/",
+    "name": "VC EDC",
+    "models": [{
+        "name": "Cog V1.2",
+        "file": "cog_v12.jpg",
+        "price": "47",
+        "added": "2017-04-08"
+      },
+      {
+        "name": "Mini Triton",
+        "file": "mini_triton.jpg",
+        "price": "50",
+        "added": "2017-04-08"
+      },
+      {
+        "name": "VC Spinner",
+        "file": "vc_spinner.jpg",
+        "price": "40",
+        "added": "2017-04-08"
+      },
+      {
+        "name": "Clover Spinner",
+        "file": "clover_spinner.jpg",
+        "price": "45",
+        "added": "2017-04-08"
       }
     ]
   },
