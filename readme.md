@@ -60,7 +60,7 @@ It will:
 
 ## Adding or updating a spinner
 
-The spinners list is stored in the [`src/json/spinners.json`](src/json/spinners.json) file.
+The spinners list is stored in the [`spinners/spinners.json`](spinners/spinners.json) file.
 
 Its structure looks like this:
 
@@ -87,11 +87,11 @@ Its structure looks like this:
 }
 ```
 
-Each spinner has associated images, stored in `images/spinners/company_name`:
+Each spinner has associated images, stored in `spinners/images/company_name`:
 
-* `images/spinners/company_name/spinner1.jpg` → Full-size image (`500x500` or `800x800` square)
-* `images/spinners/company_name/spinner1_thumb@2x.jpg` → Retina thumbnail (`400x400` square)
-* `images/spinners/company_name/spinner1_thumb.jpg` → Full-size image (`200x200` square)
+* `spinners/images/company_name/spinner1.jpg` → Full-size image (`500x500` or `800x800` square)
+* `spinners/images/company_name/spinner1_thumb@2x.jpg` → Retina thumbnail (`400x400` square)
+* `spinners/images/company_name/spinner1_thumb.jpg` → Full-size image (`200x200` square)
 
 Update the `json` file and rebuild the HTML to see the result.
 
