@@ -83,11 +83,11 @@
           data-added="<%= item.added %>"
           data-search="<%= item.brand.name.toLowerCase() + ' ' + item.name.toLowerCase() %>"
         >
-          <a class="pic-wrapper" href="images/spinners/<%= item.brand.id + '/' + item.file %>" target="_blank">
+          <a class="pic-wrapper" href="<%= item.images.full %>" target="_blank">
             <img
               class="pic js-lazy js-lazy-hidden"
-              data-src-lazy="images/spinners/<%= item.brand.id + '/' + item.file.replace('.jpg', '_thumb.jpg') %>"
-              data-src-lazy-2x="images/spinners/<%= item.brand.id + '/' + item.file.replace('.jpg', '_thumb@2x.jpg') %>"
+              data-src-lazy="<%= item.images.thumb %>"
+              data-src-lazy-2x="<%= item.images.thumb2x %>"
               src="images/placeholder.png"
               alt="<%= item.brand.name %> - <%= item.name %>"
             >

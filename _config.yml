@@ -1,6 +1,0 @@
-exclude:
-  - src
-  - CNAME
-  - package.json
-  - readme.md
-  - license.md
