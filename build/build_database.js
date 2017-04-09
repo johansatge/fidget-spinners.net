@@ -1,7 +1,5 @@
-const fs       = require('fs')
-const glob     = require('glob')
-const hasha    = require('hasha')
-const shuffle  = (a) => {
+const fs      = require('fs')
+const shuffle = (a) => {
   // http://stackoverflow.com/a/6274381
   for (let i = a.length; i; i-= 1) {
     let j = Math.floor(Math.random() * i);

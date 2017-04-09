@@ -3,7 +3,7 @@
 array_shift($argv);
 foreach($argv as $argv)
 {
-  $brand = rtrim(getcwd(), '/') . '/images/spinners/' . $argv;
+  $brand = rtrim(getcwd(), '/') . '/spinners/images/' . $argv;
   echo 'Looking for images in ' . $brand . '/*.jpg' . "\n";
   $models = glob($brand . '/*.jpg');
   foreach($models as $model)

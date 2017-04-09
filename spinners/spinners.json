@@ -1854,6 +1854,47 @@
       }
     ]
   },
+  "venomdd": {
+    "url": "https://www.venomdd.com",
+    "name": "Venom Defense & Design",
+    "models": [{
+        "name": "Aluminum IFDGT",
+        "file": "ifdgt_aluminum.jpg",
+        "price": "30",
+        "added": "2017-04-09"
+      },
+      {
+        "name": "Brass IFDGT",
+        "file": "ifdgt_brass.jpg",
+        "price": "40",
+        "added": "2017-04-09"
+      },
+      {
+        "name": "Copper IFDGT",
+        "file": "ifdgt_copper.jpg",
+        "price": "50",
+        "added": "2017-04-09"
+      },
+      {
+        "name": "Stainless Steel IFDGT",
+        "file": "ifdgt_stainless.jpg",
+        "price": "60",
+        "added": "2017-04-09"
+      },
+      {
+        "name": "Titanium IFDGT",
+        "file": "ifdgt_titanium.jpg",
+        "price": "70",
+        "added": "2017-04-09"
+      },
+      {
+        "name": "Apex",
+        "file": "apex.jpg",
+        "price": "139",
+        "added": "2017-04-09"
+      }
+    ]
+  },
   "vorso": {
     "url": "https://www.vorsospin.com/collections/flat-top",
     "name": "Vorso",
