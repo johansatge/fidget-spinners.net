@@ -17,7 +17,7 @@
   "scripts": {
     "watch": "chokidar --ignore=src/js/main.bundle.js src/**/* --command='npm run build'",
     "build": "rm -r dist;mkdir dist && cp -r src/images dist/images && cp -r spinners/images dist/images/spinners && node build/build.js && php build/build_versioned_assets.php;rm src/js/main.bundle.js",
-    "deploy": "npm run build && rsync --archive --verbose --chmod=u=rwX,g=rX --exclude=.DS_Store dist/ $(head -n 1 .cdn)"
+    "deploy": "npm run build && rsync --archive --checksum --verbose --chmod=u=rwX,g=rX --exclude=.DS_Store dist/ $(head -n 1 .cdn)"
   },
   "engines": {
     "node": ">=6"

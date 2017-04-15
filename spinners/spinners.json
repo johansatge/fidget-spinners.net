@@ -552,6 +552,41 @@
       }
     ]
   },
+  "fingersspinner": {
+    "url": "https://www.etsy.com/shop/Fingersspinner",
+    "name": "Fingers Spinner",
+    "models": [{
+        "name": "The Song Spinner (Rhea)",
+        "file": "song_spinner_rhea.jpg",
+        "price": "48",
+        "added": "2017-04-15"
+      },
+      {
+        "name": "The Song Spinner (Kronos)",
+        "file": "song_spinner_kronos.jpg",
+        "price": "48",
+        "added": "2017-04-15"
+      },
+      {
+        "name": "The Song Spinner (Hyperion)",
+        "file": "song_spinner_hyperion.jpg",
+        "price": "48",
+        "added": "2017-04-15"
+      },
+      {
+        "name": "The Song Spinner (Ocean)",
+        "file": "song_spinner_ocean.jpg",
+        "price": "48",
+        "added": "2017-04-15"
+      },
+      {
+        "name": "The Song Spinner (Kay)",
+        "file": "song_spinner_kay.jpg",
+        "price": "48",
+        "added": "2017-04-15"
+      }
+    ]
+  },
   "flyawaytoys": {
     "url": "https://www.etsy.com/shop/FlyawayToys",
     "name": "FlyawayToys",
@@ -1101,6 +1136,17 @@
       }
     ]
   },
+  "onedropyoyos": {
+    "url": "http://onedropyoyos.com/edc/spinners/",
+    "name": "One Drop Yoyos",
+    "models": [{
+        "name": "Trillium",
+        "file": "trillium.jpg",
+        "price": "-1",
+        "added": "2017-04-16"
+      }
+    ]
+  },
   "pozdnyakoff": {
     "url": "https://www.instagram.com/pozdnyakoff/",
     "name": "pozdnyakoff",
@@ -1127,6 +1173,17 @@
         "file": "maze.jpg",
         "price": "-1",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "radiusmethod": {
+    "url": "https://radiusmethod.com/",
+    "name": "Radius Method",
+    "models": [{
+        "name": "Split-Brain Double",
+        "file": "split_brain_double.jpg",
+        "price": "200",
+        "added": "2017-04-16"
       }
     ]
   },
@@ -1631,6 +1688,23 @@
       }
     ]
   },
+  "steampunkspinners": {
+    "url": "http://steampunkspinners.com/",
+    "name": "Steampunk Spinners",
+    "models": [{
+        "name": "Cthulhu",
+        "file": "cthulhu.jpg",
+        "price": "79",
+        "added": "2017-04-16"
+      },
+      {
+        "name": "PHAT BOY Copper",
+        "file": "phat_boy_copper.jpg",
+        "price": "175",
+        "added": "2017-04-16"
+      }
+    ]
+  },
   "syner_edc": {
     "url": "https://syneredc.com/",
     "name": "Syner EDC",
@@ -1741,6 +1815,17 @@
         "file": "ti_thraxx_spinner.jpg",
         "price": "175",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "titanringdesigns": {
+    "url": "http://titanringdesigns.com/",
+    "name": "Titan Ring Designs",
+    "models": [{
+        "name": "TiSpin Prop",
+        "file": "tispin_prop.jpg",
+        "price": "500",
+        "added": "2017-04-16"
       }
     ]
   },
@@ -2025,6 +2110,17 @@
         "file": "zik.jpg",
         "price": "31",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "yellow_day_energy": {
+    "url": "http://www.yellowdayenergy.com/",
+    "name": "Yellow Day Energy",
+    "models": [{
+        "name": "The Helix",
+        "file": "the_helix.jpg",
+        "price": "120",
+        "added": "2017-04-16"
       }
     ]
   },
