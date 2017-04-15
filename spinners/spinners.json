@@ -236,6 +236,28 @@
       "added": "2017-03-29"
     }]
   },
+  "busyminds": {
+    "url": "https://zerofeud.myshopify.com",
+    "name": "BusyMinds",
+    "models": [{
+      "name": "Cortex Mini",
+      "file": "cortex_mini.jpg",
+      "price": "55",
+      "added": "2017-04-15"
+    },
+    {
+      "name": "Cortex Stainless Steel",
+      "file": "cortex_stainless_steel.jpg",
+      "price": "55",
+      "added": "2017-04-15"
+    },
+    {
+      "name": "Cortex Brass",
+      "file": "cortex_brass.jpg",
+      "price": "50",
+      "added": "2017-04-15"
+    }]
+  },
   "cogent_industries": {
     "url": "http://www.cogentindustries.com/spinner/",
     "name": "Cogent Industries",
@@ -1083,10 +1105,10 @@
     "url": "https://www.instagram.com/pozdnyakoff/",
     "name": "pozdnyakoff",
     "models": [{
-        "name": "Brass",
-        "file": "brass.jpg",
+        "name": "Corsair",
+        "file": "corsair.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "added": "2017-04-15"
       },
       {
         "name": "Unnamed 1",
@@ -1097,6 +1119,12 @@
       {
         "name": "Unnamed 2",
         "file": "unnamed_2.jpg",
+        "price": "-1",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Maze",
+        "file": "maze.jpg",
         "price": "-1",
         "added": "2017-03-20"
       }
@@ -1921,6 +1949,17 @@
         "file": "flat_top_stainless.jpg",
         "price": "148",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "vosofferyn": {
+    "url": "http://vosofferyn.bigcartel.com/",
+    "name": "Vosofferyn",
+    "models": [{
+        "name": "Vosano VKS",
+        "file": "vosano_vks.jpg",
+        "price": "320",
+        "added": "2017-04-15"
       }
     ]
   },
