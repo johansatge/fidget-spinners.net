@@ -15,11 +15,9 @@
     "webpack": "^2.3.2"
   },
   "scripts": {
-    "watch": "chokidar --ignore=src/js/main.bundle.js src/**/* -c 'npm run build'",
+    "watch": "chokidar --ignore=src/js/main.bundle.js src/**/* --command='npm run build'",
     "build": "rm -r dist;mkdir dist && cp -r src/images dist/images && cp -r spinners/images dist/images/spinners && node build/build.js && php build/build_versioned_assets.php;rm src/js/main.bundle.js",
-    "deploy:assets": "s3cmd sync ./dist/ s3://fidget-spinners.net/ --recursive --delete-removed --exclude=.DS_Store --exclude=index.html --add-header='Cache-Control: max-age=2592000, public'",
-    "deploy:index": "s3cmd sync ./dist/index.html s3://fidget-spinners.net/ --cf-invalidate --cf-invalidate-default-index --add-header='Cache-Control: max-age=600, public'",
-    "deploy": "npm run build && npm run deploy:assets && npm run deploy:index"
+    "deploy": "npm run build && rsync --archive --verbose --chmod=u=rwX,g=rX --exclude=.DS_Store dist/ $(head -n 1 .cdn)"
   },
   "engines": {
     "node": ">=6"

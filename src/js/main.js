@@ -36,6 +36,12 @@ const onSearch = (evt) => {
   }
 }
 
+const updateSelect = () => {
+  const select = document.querySelector('.js-sort-select')
+  const label = document.querySelector('.js-sort-label')
+  label.innerHTML = select.options[select.selectedIndex].innerHTML
+}
+
 const onSort = () => {
   const select = document.querySelector('.js-sort-select')
   const label = document.querySelector('.js-sort-label')

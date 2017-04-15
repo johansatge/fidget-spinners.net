@@ -14,7 +14,7 @@
   {
     position: relative;
     z-index: 1;
-    width: 250px;
+    width: 240px;
     float: right;
 
     @media screen and (max-width: 570px) {
@@ -50,13 +50,13 @@
     display: block;
     position: absolute;
     top: 0;
-    right: 295px;
+    right: 285px;
     font-size: 13px;
     line-height: 34px;
     color: #9c9c9c;
 
     @media screen and (max-width:700px) {
-      right: 285px;
+      right: 275px;
     }
 
     @media screen and (max-width: 570px) {
@@ -72,7 +72,7 @@
     position: relative;
     display: block;
     z-index: 1;
-    width: 180px;
+    width: 195px;
     height: 32px;
     border-radius: 3px;
     border: 1px solid #343434;
@@ -95,8 +95,8 @@
     {
       position: absolute;
       z-index: 1;
-      width: 14px;
-      top: 8px;
+      width: 12px;
+      top: 10px;
       right: 10px;
     }
 

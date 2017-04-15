@@ -47,7 +47,7 @@
         </svg>
       </div>
       <span class="sort">
-        <span class="js-sort-label label">Sort by...</span>
+        <span class="js-sort-label label">By date: most recent</span>
         <svg class="sort-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.819 444.819" xml:space="preserve">
           <path d="M434.252,114.203l-21.409-21.416c-7.419-7.04-16.084-10.561-25.975-10.561c-10.095,0-18.657,3.521-25.7,10.561
           L222.41,231.549L83.653,92.791c-7.042-7.04-15.606-10.561-25.697-10.561c-9.896,0-18.559,3.521-25.979,10.561l-21.128,21.416
@@ -56,14 +56,14 @@
           C444.819,130.287,441.295,121.629,434.252,114.203z">
         </svg>
         <select class="js-sort-select">
-          <option value="">Sort...</option>
+          <option disabled>Sort...</option>
           <option value="brand">By brand</option>
-          <option value="added_newest">By date added (↘)</option>
-          <option value="added_oldest">By date added (↗)</option>
-          <option value="price_asc">By price ($ → $$)</option>
-          <option value="price_desc">By price ($$ → $)</option>
-          <option value="name_az">By name (A → Z)</option>
-          <option value="name_za">By name (Z → A)</option>
+          <option value="added_newest" selected>By date: most recent</option>
+          <option value="added_oldest">By date: oldest</option>
+          <option value="price_asc">By price: ascending</option>
+          <option value="price_desc">By price: descending</option>
+          <option value="name_az">By name: ascending</option>
+          <option value="name_za">By name: descending</option>
         </select>
       </span>
       <span class="count js-count" data-template="$1 models">

@@ -27,7 +27,12 @@ function buildDatabase(files) {
         models.push(model)
       })
     }
-    shuffle(models)
+    models.sort((a, b) => {
+      if (a.added === b.added) {
+        return a.name > b.name ? 1 : (a.name < b.name ? -1 : 0)
+      }
+      return a.added < b.added ? 1 : (a.added > b.added ? -1 : 0)
+    })
     resolve(models)
   })
 }
