@@ -226,6 +226,29 @@
       }
     ]
   },
+  "brothersconcepts": {
+    "url": "https://www.etsy.com/shop/BrothersConcepts",
+    "name": "BrothersConcepts",
+    "models": [{
+        "name": "Jaunt",
+        "file": "jaunt.jpg",
+        "price": "-1",
+        "added": "2017-04-17"
+      },
+      {
+        "name": "Jaunt Light",
+        "file": "jaunt_light.jpg",
+        "price": "-1",
+        "added": "2017-04-17"
+      },
+      {
+        "name": "Jog",
+        "file": "jog.jpg",
+        "price": "-1",
+        "added": "2017-04-17"
+      }
+    ]
+  },
   "bottlebib": {
     "url": "https://www.etsy.com/shop/Bottlebib",
     "name": "Bottlebib",
@@ -827,6 +850,17 @@
       }
     ]
   },
+  "lckt": {
+    "url": "http://lckt.bigcartel.com/",
+    "name": "Lake County Knife &amp; Tool",
+    "models": [{
+        "name": "The Flippin' Spinner",
+        "file": "flippin_spinner.jpg",
+        "price": "45",
+        "added": "2017-04-17"
+      }
+    ]
+  },
   "lingua_machining_solutions_llc": {
     "url": "https://www.kickstarter.com/projects/699680073/cognito-hand-spinner-by-lms",
     "name": "Lingua Machining Solutions, LLC",
@@ -1133,6 +1167,35 @@
         "file": "navy_od.jpg",
         "price": "-1",
         "added": "2017-03-20"
+      }
+    ]
+  },
+  "orecrafts": {
+    "url": "https://orecrafts.com/",
+    "name": "Ore Crafts",
+    "models": [{
+        "name": "Hexagon Standart Black",
+        "file": "hexagon_standart_black.jpg",
+        "price": "32",
+        "added": "2017-04-17"
+      },
+      {
+        "name": "Hexagon Elegance",
+        "file": "hexagon_elegance.jpg",
+        "price": "32",
+        "added": "2017-04-17"
+      },
+      {
+        "name": "Apex Standart Black",
+        "file": "apex_standart_black.jpg",
+        "price": "32",
+        "added": "2017-04-17"
+      },
+      {
+        "name": "Apex Elegance",
+        "file": "apex_elegance.jpg",
+        "price": "32",
+        "added": "2017-04-17"
       }
     ]
   },
