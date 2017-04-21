@@ -127,6 +127,16 @@
       }
     ]
   },
+  "alpha_bot_industries": {
+    "url": "https://alphabotindustries.com",
+    "name": "Alpha-Bot Industries",
+    "models": [{
+      "name": "Valkyrie",
+      "file": "valkyrie.jpg",
+      "price": "49",
+      "added": "2017-04-21"
+    }]
+  },
   "anatolian_mods": {
     "url": "https://anatolianmods.com",
     "name": "Anatolian Mods",
@@ -139,12 +149,12 @@
       {
         "name": "Dual Rota",
         "file": "dual_rota.jpg",
-        "price": "-1",
+        "price": "60",
         "added": "2017-03-20"
       },
       {
-        "name": "Duarl Garz",
-        "file": "duarl_garz.jpg",
+        "name": "Dual Garz",
+        "file": "dual_garz.jpg",
         "price": "40",
         "added": "2017-03-20"
       },
@@ -159,6 +169,42 @@
         "file": "tri_moon.jpg",
         "price": "50",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Elliptic",
+        "file": "elliptic.jpg",
+        "price": "60",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Propeller V2",
+        "file": "propeller_v2.jpg",
+        "price": "60",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Tri Vent",
+        "file": "tri_vent.jpg",
+        "price": "40",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Triquetra Silver Plated",
+        "file": "triquetra_silver_plated.jpg",
+        "price": "50",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Triquetra Brass V2",
+        "file": "triquetra_brass_v2.jpg",
+        "price": "60",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Hecate",
+        "file": "hecate.jpg",
+        "price": "70",
+        "added": "2017-04-21"
       }
     ]
   },
@@ -279,6 +325,22 @@
       "file": "cortex_brass.jpg",
       "price": "50",
       "added": "2017-04-15"
+    }]
+  },
+  "cierrecart": {
+    "url": "https://www.instagram.com/cierrecart/",
+    "name": "Christopher Errecart",
+    "models": [{
+      "name": "Unnamed",
+      "file": "unnamed_1.jpg",
+      "price": "-1",
+      "added": "2017-04-21"
+    },
+    {
+      "name": "Unnamed",
+      "file": "unnamed_2.jpg",
+      "price": "75",
+      "added": "2017-04-21"
     }]
   },
   "cogent_industries": {
@@ -611,7 +673,7 @@
     ]
   },
   "flyawaytoys": {
-    "url": "https://www.etsy.com/shop/FlyawayToys",
+    "url": "https://flyawaytoys.com",
     "name": "FlyawayToys",
     "models": [{
         "name": "Builder",
@@ -628,20 +690,32 @@
       {
         "name": "Maelstrom",
         "file": "maelstrom.jpg",
-        "price": "-1",
+        "price": "119",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Falcon",
         "file": "mini_falcon.jpg",
-        "price": "-1",
+        "price": "59",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Maelstrom",
         "file": "mini_maelstrom.jpg",
-        "price": "-1",
+        "price": "119",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Interceptor 2",
+        "file": "interceptor_2.jpg",
+        "price": "89",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Tsunami",
+        "file": "tsunami.jpg",
+        "price": "59",
+        "added": "2017-04-21"
       }
     ]
   },
