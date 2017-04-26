@@ -1284,6 +1284,28 @@
       }
     ]
   },
+  "pentaspin": {
+    "url": "https://www.facebook.com/PentaSpin-1626451807655233/",
+    "name": "PentaSpin",
+    "models": [{
+      "name": "Brass Deputy",
+      "file": "brass_deputy.jpg",
+      "price": "-1",
+      "added": "2017-04-26"
+    },
+    {
+      "name": "Brass Spur",
+      "file": "brass_spur.jpg",
+      "price": "-1",
+      "added": "2017-04-26"
+    },
+    {
+      "name": "Stainless Steel Sheriff",
+      "file": "stainless_steel_sheriff.jpg",
+      "price": "-1",
+      "added": "2017-04-26"
+    }]
+  },
   "pozdnyakoff": {
     "url": "https://www.instagram.com/pozdnyakoff/",
     "name": "pozdnyakoff",
@@ -1839,6 +1861,12 @@
         "file": "phat_boy_copper.jpg",
         "price": "175",
         "added": "2017-04-16"
+      },
+      {
+        "name": "Damasteel PHAT BOY Nano",
+        "file": "damasteel_phat_boy_nano.jpg",
+        "price": "175",
+        "added": "2017-04-26"
       }
     ]
   },
