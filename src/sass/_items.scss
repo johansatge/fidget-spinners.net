@@ -57,6 +57,7 @@
 
     .pic-wrapper
     {
+      position: relative;
       display: block;
       background: #efefef;
       border-radius: 3px;
@@ -72,6 +73,28 @@
       .pic.js-lazy-hidden
       {
         opacity: 0;
+      }
+    }
+
+    &.item-new .pic-wrapper:after
+    {
+      position: absolute;
+      top: 100%;
+      margin: -38px 0 0 -70px;
+      left: 100%;
+      transform: rotate(-45deg);
+      font-size: 13px;
+      letter-spacing: 2px;
+      padding: 8px 50px 40px 50px;
+      background: #000;
+      display: block;
+      color: #fff;
+      content: 'NEW';
+      transition: margin 250ms;
+
+      &:hover
+      {
+        margin: -45px 0 0 -77px;
       }
     }
 
