@@ -8,9 +8,12 @@ m.init = () => {
   const search = document.querySelector('.js-search')
   search.addEventListener('input', onSearch)
   document.querySelector('.js-sort-select').addEventListener('change', onSort)
+  document.querySelector('.js-backtotop').addEventListener('click', backToTop)
   window.addEventListener('scroll', onLazyLoad)
+  window.addEventListener('scroll', onUpdateBackToTop)
   window.addEventListener('resize', onLazyLoad)
   window.addEventListener('load', onLazyLoad)
+  window.addEventListener('load', onUpdateBackToTop)
 
   search.focus()
 
@@ -23,6 +26,15 @@ const initLightbox = () => {
     captions : true,
     buttons  : false,
   })
+}
+
+const onUpdateBackToTop = () => {
+  const button = document.querySelector('.js-backtotop')
+  button.style.display = window.scrollY === 0 ? 'none' : 'block'
+}
+
+const backToTop = () => {
+  window.scroll(0, 0)
 }
 
 const setNewLabel = () => {
