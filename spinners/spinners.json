@@ -878,6 +878,22 @@
       }
     ]
   },
+  "jspins": {
+    "url": "https://www.etsy.com/shop/JSPINS",
+    "name": "JSPINS",
+    "models": [{
+      "name": "Stainless Steel Blade",
+      "file": "stainless_steel_blade.jpg",
+      "price": "67",
+      "added": "2017-05-05"
+    },
+    {
+      "name": "4 Leaf Brass",
+      "file": "4_leaf_brass.jpg",
+      "price": "60",
+      "added": "2017-05-05"
+    }]
+  },
   "kepler_technology": {
     "url": "https://spinetic-spinners.com/product-category/metal-spinners/kepler-technology/",
     "name": "Kepler Technology",
@@ -1033,10 +1049,22 @@
         "added": "2017-03-20"
       },
       {
-        "name": "Hurricane Stonewhashed Gray",
-        "file": "hurricane_stonewhashed_gray.jpg",
+        "name": "Hurricane Stonewashed Gray",
+        "file": "hurricane_stonewashed_gray.jpg",
         "price": "120",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Deltacore Stonewashed Gray",
+        "file": "deltacore_stonewashed_gray.jpg",
+        "price": "-1",
+        "added": "2017-05-05"
+      },
+      {
+        "name": "Deltacore Graphite Black",
+        "file": "deltacore_graphite_black.jpg",
+        "price": "-1",
+        "added": "2017-05-05"
       }
     ]
   },
@@ -2066,6 +2094,22 @@
       "file": "hammerhead_spinner.jpg",
       "price": "30",
       "added": "2017-03-20"
+    }]
+  },
+  "ultraspinners": {
+    "url": "https://squareup.com/store/ultraspinners/",
+    "name": "UltraSpinners",
+    "models": [{
+      "name": "Ergo",
+      "file": "ergo.jpg",
+      "price": "-1",
+      "added": "2017-05-05"
+    },
+    {
+      "name": "Modulator Aluminum Kit",
+      "file": "modulator.jpg",
+      "price": "130",
+      "added": "2017-05-05"
     }]
   },
   "united_machinig_llc": {
