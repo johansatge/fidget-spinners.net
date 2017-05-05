@@ -81,7 +81,7 @@
           data-added="<%= item.added %>"
           data-search="<%= item.brand.name.toLowerCase() + ' ' + item.name.toLowerCase() %>"
         >
-          <a class="pic-wrapper" href="<%= item.images.full %>" target="_blank">
+          <a class="pic-wrapper" href="<%= item.images.full %>" data-caption="<%= item.brand.name %> - <%= item.name %>" target="_blank">
             <img
               class="pic js-lazy js-lazy-hidden"
               data-src-lazy="<%= item.images.thumb %>"

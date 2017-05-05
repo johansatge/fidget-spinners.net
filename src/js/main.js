@@ -1,4 +1,5 @@
 import { sortBy } from './sort.js'
+import baguetteBox from 'baguettebox.js'
 
 const m = {}
 let isLazyLoadDone = false
@@ -14,13 +15,20 @@ m.init = () => {
   search.focus()
 
   setNewLabel()
+  initLightbox()
+}
+
+const initLightbox = () => {
+  baguetteBox.run('.js-items', {
+    captions : true,
+    buttons  : false,
+  })
 }
 
 const setNewLabel = () => {
   const currentDate = new Date().getTime() / 1000
   forEach(document.querySelectorAll('.js-item'), (item) => {
     const addedDate = new Date(item.getAttribute('data-added')).getTime() / 1000
-    console.log((currentDate - addedDate) / (60 * 60 * 24))
     if (((currentDate - addedDate) / (60 * 60 * 24)) < 8) {
       item.classList.add('item-new')
     }
