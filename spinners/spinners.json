@@ -878,6 +878,22 @@
       }
     ]
   },
+  "joels_garage": {
+    "url": "https://www.instagram.com/joels_garage/",
+    "name": "Joel's Garage",
+    "models": [{
+      "name": "Unnamed",
+      "file": "unnamed_01.jpg",
+      "price": "-1",
+      "added": "2017-05-09"
+    },
+    {
+      "name": "Unnamed",
+      "file": "unnamed_02.jpg",
+      "price": "-1",
+      "added": "2017-05-09"
+    }]
+  },
   "jspins": {
     "url": "https://www.etsy.com/shop/JSPINS",
     "name": "JSPINS",
@@ -1373,6 +1389,16 @@
         "added": "2017-04-16"
       }
     ]
+  },
+  "rama": {
+    "url": "https://rama.works",
+    "name": "RAMA",
+    "models": [{
+      "name": "S01 Remedy",
+      "file": "s01_remedy.jpg",
+      "price": "50",
+      "added": "2017-05-09"
+    }]
   },
   "random_fabrications": {
     "url": "http://randomfabrications.bigcartel.com",
