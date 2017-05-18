@@ -1271,6 +1271,16 @@
       }
     ]
   },
+  "octobrachia": {
+    "url": "http://octobrachia.com/",
+    "name": "Octobrachia",
+    "models": [{
+      "name": "Spinget",
+      "file": "spinget.jpg",
+      "price": "75",
+      "added": "2017-05-18"
+    }]
+  },
   "od_spinner": {
     "url": "https://www.facebook.com/groups/965322010278723",
     "name": "OD Spinner",
