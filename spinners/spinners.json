@@ -37,6 +37,30 @@
         "file": "titanium_boomerang_mini_pro.jpg",
         "price": "-1",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Triax",
+        "file": "triax.jpg",
+        "price": "130",
+        "added": "2017-05-20"
+      },
+      {
+        "name": "Circulator Brass",
+        "file": "circulator_brass.jpg",
+        "price": "35",
+        "added": "2017-05-20"
+      },
+      {
+        "name": "Circulator Stainless Steel",
+        "file": "circulator_stainless_steel.jpg",
+        "price": "37",
+        "added": "2017-05-20"
+      },
+      {
+        "name": "Circulator Black Tumbled",
+        "file": "circulator_black_tumbled.jpg",
+        "price": "52",
+        "added": "2017-05-20"
       }
     ]
   },
@@ -554,6 +578,12 @@
         "file": "triage_chrome_plated.jpg",
         "price": "110",
         "added": "2017-03-20"
+      },
+      {
+        "name": "The One",
+        "file": "the_one.jpg",
+        "price": "45",
+        "added": "2017-05-20"
       }
     ]
   },
