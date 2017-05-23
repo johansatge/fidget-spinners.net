@@ -1609,6 +1609,23 @@
       }
     ]
   },
+  "robjacks_knife_and_tool": {
+    "url": "https://www.etsy.com/shop/RobJacksKnifeandTool",
+    "name": "RobJacksKnifeandTool",
+    "models": [{
+        "name": "Brass EDC",
+        "file": "brass_edc_1.jpg",
+        "price": "-1",
+        "added": "2017-05-23"
+      },
+      {
+        "name": "Brass EDC",
+        "file": "brass_edc_2.jpg",
+        "price": "-1",
+        "added": "2017-05-23"
+      }
+    ]
+  },
   "rotablade": {
     "url": "https://www.rotablade.com/",
     "name": "Rotablade",
@@ -2177,6 +2194,17 @@
       "price": "130",
       "added": "2017-05-05"
     }]
+  },
+  "unquiet_hands": {
+    "url": "https://www.unquiethands.com",
+    "name": "Unquiet Hands",
+    "models": [{
+        "name": "Heavy Blade Gunmetal Color",
+        "file": "heavy_blade_gunmetal_color.jpg",
+        "price": "35",
+        "added": "2017-05-23"
+      }
+    ]
   },
   "united_machinig_llc": {
     "url": "https://www.unitedmachiningllc.com/products/united-bow-tie-fidget-spinner",
