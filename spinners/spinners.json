@@ -667,6 +667,17 @@
       }
     ]
   },
+  "fiftythree_eleven": {
+    "url": "https://www.kickstarter.com/projects/1444324091/fiftythree-eleven-fidget-spinner",
+    "name": "Fiftythree Eleven",
+    "models": [{
+        "name": "53/11 Spinner",
+        "file": "fiftythree_eleven.jpg",
+        "price": "75",
+        "added": "2017-05-28"
+      }
+    ]
+  },
   "fingersspinner": {
     "url": "https://www.etsy.com/shop/Fingersspinner",
     "name": "Fingers Spinner",
@@ -908,6 +919,29 @@
       }
     ]
   },
+  "jllawsonco": {
+    "url": "https://www.jllawsonco.com",
+    "name": "J. L. Lawson & Co.",
+    "models": [{
+        "name": "Centre Spin Stainless Steel",
+        "file": "centre_spin_stainless_steel.jpg",
+        "price": "145",
+        "added": "2017-05-28"
+      },
+      {
+        "name": "Centre Spin Copper",
+        "file": "centre_spin_copper.jpg",
+        "price": "130",
+        "added": "2017-05-28"
+      },
+      {
+        "name": "Centre Spin Brass",
+        "file": "centre_spin_brass.jpg",
+        "price": "120",
+        "added": "2017-05-28"
+      }
+    ]
+  },
   "joels_garage": {
     "url": "https://www.instagram.com/joels_garage/",
     "name": "Joel's Garage",
@@ -988,7 +1022,7 @@
   },
   "lckt": {
     "url": "http://lckt.bigcartel.com/",
-    "name": "Lake County Knife &amp; Tool",
+    "name": "Lake County Knife & Tool",
     "models": [{
         "name": "The Flippin' Spinner",
         "file": "flippin_spinner.jpg",
