@@ -9,6 +9,7 @@ m.init = () => {
   search.addEventListener('input', onSearch)
   document.querySelector('.js-sort-select').addEventListener('change', onSort)
   document.querySelector('.js-backtotop').addEventListener('click', backToTop)
+  document.addEventListener('click', onTrackLink)
   window.addEventListener('scroll', onLazyLoad)
   window.addEventListener('scroll', onUpdateBackToTop)
   window.addEventListener('resize', onLazyLoad)
@@ -19,6 +20,21 @@ m.init = () => {
 
   setNewLabel()
   initLightbox()
+}
+
+const onTrackLink = (evt) => {
+  if (!evt.target || !evt.target.matches('a') || typeof evt.target.getAttribute('data-tracking-cat') === 'undefined') {
+    return
+  }
+  const tracking = {
+    hitType       : 'event',
+    eventCategory : evt.target.getAttribute('data-tracking-cat'),
+    eventAction   : evt.target.getAttribute('data-tracking-action'),
+    eventLabel    : evt.target.getAttribute('data-tracking-label'),
+  }
+  if (ga) {
+    ga('send', tracking)
+  }
 }
 
 const initLightbox = () => {

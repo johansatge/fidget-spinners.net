@@ -27,13 +27,13 @@
       </h1>
       <ul>
         <li class="current">
-          <a href="#">Spinners</a>
+          <a href="#" data-tracking-cat="navigationLink" data-tracking-action="click" data-tracking-label="spinners">Spinners</a>
         </li>
         <li>
-          <a href="#faq">FAQ</a>
+          <a href="#faq" data-tracking-cat="navigationLink" data-tracking-action="click" data-tracking-label="faq">FAQ</a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a href="#contact" data-tracking-cat="navigationLink" data-tracking-action="click" data-tracking-label="contact">Contact</a>
         </li>
       </ul>
     </div>
@@ -84,7 +84,12 @@
           data-added="<%= item.added %>"
           data-search="<%= item.brand.name.toLowerCase() + ' ' + item.name.toLowerCase() %>"
         >
-          <a class="pic-wrapper" href="<%= item.images.full %>" data-caption="<%= item.brand.name %> - <%= item.name %>" target="_blank">
+          <a
+            class="pic-wrapper"
+            href="<%= item.images.full %>"
+            data-caption="<%= item.brand.name %> - <%= item.name %>"
+            target="_blank"
+          >
             <img
               class="pic js-lazy js-lazy-hidden"
               data-src-lazy="<%= item.images.thumb %>"
@@ -94,7 +99,14 @@
             >
           </a>
           <div class="info">
-            <a class="brand" href="<%= item.brand.url %>" target="_blank">
+            <a
+              class="brand"
+              href="<%= item.brand.url %>"
+              data-tracking-cat="spinnerBrandLink"
+              data-tracking-action="click"
+              data-tracking-label="<%= item.brand.name %>"
+              target="_blank"
+            >
               <%= item.brand.name %>
             </a>
             <span class="name">
@@ -125,9 +137,21 @@
         It (should) feature original spinners only, that is why plastic spinners or Amazon clones are missing.<br>
         That being said, if you find a mistake, or if you know good quality plastic spinners that should appear in this list, feel free to contact me!<br>
       </p>
+      <h3>Do you sell spinners?</h3>
+      <p>
+        No, currently <a href="#">fidget-spinners.net</a> acts as an independant showcase. I don't sell spinners, or collaborate with brands.<br>
+        If you are looking for a particular item, you will have to contact the brand directly.
+      </p>
+      <h3>I'm a brand and I would like to appear on the website</h3>
+      <p>
+        If you are a spinner maker, and want to see your product appear on the website, feel free to send me an email.<br>
+        Please don't forget to join pictures and a link to your website, Facebook group, or whatever platform you think is relevant.<br>
+        Also please note, <strong><a href="#">fidget-spinners.net</a> lists original products only</strong>. Spinners that look
+        like clones of existing brands will not be accepted, unless you can tell how are they different.
+      </p>
       <h3 id="contact">I would like to contact you.</h3>
       <p>
-        You can do so <a href="mailto:info@fidget-spinners.net" target="_blank">by email</a>.
+        You can do so <a href="mailto:info@fidget-spinners.net" target="_blank" data-tracking-cat="contactLink" data-tracking-action="click">by email</a>.
       </p>
     </div>
     <div class="footer">
