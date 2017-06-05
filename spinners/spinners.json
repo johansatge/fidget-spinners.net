@@ -475,6 +475,40 @@
       }
     ]
   },
+  "deuces_of_clubs": {
+    "url": "https://www.etsy.com/shop/DeucesofClubs",
+    "name": "DeucesofClubs",
+    "models": [{
+      "name": "Brass Spinner",
+      "file": "brass_spinner.jpg",
+      "price": "-1",
+      "added": "2017-06-05"
+    },
+    {
+      "name": "Brass Spinner",
+      "file": "brass_spinner_2.jpg",
+      "price": "-1",
+      "added": "2017-06-05"
+    },
+    {
+      "name": "Copper Spinner",
+      "file": "copper_spinner.jpg",
+      "price": "-1",
+      "added": "2017-06-05"
+    },
+    {
+      "name": "Stainless Steel Spinner",
+      "file": "stainless_steel_spinner.jpg",
+      "price": "-1",
+      "added": "2017-06-05"
+    },
+    {
+      "name": "Brass Star Spinner",
+      "file": "brass_star_spinner.jpg",
+      "price": "130",
+      "added": "2017-06-05"
+    }]
+  },
   "diddysdaddio": {
     "url": "http://diddysdaddio.bigcartel.com/",
     "name": "diddysDaddio",
@@ -1154,26 +1188,38 @@
     "models": [{
         "name": "Brass FS-8",
         "file": "brass_fs8.jpg",
-        "price": "95",
+        "price": "39",
         "added": "2017-03-20"
       },
       {
         "name": "Copper FS-8",
         "file": "copper_fs8.jpg",
-        "price": "95",
+        "price": "39",
         "added": "2017-03-20"
       },
       {
         "name": "FS-9",
         "file": "fs9.jpg",
-        "price": "165",
+        "price": "-1",
         "added": "2017-03-20"
       },
       {
         "name": "Nuke",
         "file": "nuke.jpg",
-        "price": "185",
+        "price": "-1",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Matte Black FS-8",
+        "file": "matte_black_fs8.jpg",
+        "price": "39",
+        "added": "2017-06-05"
+      },
+      {
+        "name": "Stainless Steel FS-8",
+        "file": "stainless_steel_fs8.jpg",
+        "price": "39",
+        "added": "2017-06-05"
       }
     ]
   },
@@ -1898,6 +1944,28 @@
         "added": "2017-03-20"
       }
     ]
+  },
+  "spin_pro_designs": {
+    "url": "https://www.etsy.com/shop/SpinProDesigns",
+    "name": "SpinProDesigns",
+    "models": [{
+      "name": "Two-Tone Odobo",
+      "file": "two_tone_odobo.jpg",
+      "price": "45",
+      "added": "2017-06-05"
+    },
+    {
+      "name": "Nanobo",
+      "file": "nanobo.jpg",
+      "price": "64",
+      "added": "2017-06-05"
+    },
+    {
+      "name": "Odobo Limited Edition",
+      "file": "mt_odobo.jpg",
+      "price": "55",
+      "added": "2017-06-05"
+    }]
   },
   "spintoyco": {
     "url": "https://www.etsy.com/ca/shop/SpinToyCo",
