@@ -705,10 +705,16 @@
     "url": "https://www.kickstarter.com/projects/1444324091/fiftythree-eleven-fidget-spinner",
     "name": "Fiftythree Eleven",
     "models": [{
-        "name": "53/11 Spinner",
-        "file": "fiftythree_eleven.jpg",
-        "price": "75",
+        "name": "53/11 Stainless Steel",
+        "file": "53_11_stainless_steel.jpg",
+        "price": "68",
         "added": "2017-05-28"
+      },
+      {
+        "name": "53/11 Brass",
+        "file": "53_11_brass.jpg",
+        "price": "68",
+        "added": "2017-06-06"
       }
     ]
   },
