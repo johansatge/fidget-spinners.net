@@ -1233,6 +1233,17 @@
       "added": "2017-03-20"
     }]
   },
+  "neodesign3d": {
+    "url": "https://www.etsy.com/shop/NeoDesign3D",
+    "name": "NeoDesign3D by robot9000",
+    "models": [{
+        "name": "Bloodborne Whirligig Saw Spinner Toy",
+        "file": "bloodborne.jpg",
+        "price": "20",
+        "added": "2017-06-06"
+      }
+    ]
+  },
   "noblespin": {
     "url": "https://noblespin.com/",
     "name": "NobleSpin",
@@ -2271,14 +2282,14 @@
       }
     ]
   },
-  "tyler_crozier": {
-    "url": "https://www.kickstarter.com/projects/323659125/hammerhead-stainless-steel-spinner",
-    "name": "Tyler Crozier",
+  "llamatop": {
+    "url": "http://www.llamatop.com/",
+    "name": "Llamatop",
     "models": [{
-      "name": "Hammerhead Spinner",
+      "name": "Hammerhead Trio",
       "file": "hammerhead_spinner.jpg",
-      "price": "30",
-      "added": "2017-03-20"
+      "price": "85",
+      "added": "2017-06-06"
     }]
   },
   "ultraspinners": {
@@ -2410,6 +2421,29 @@
         "file": "apex.jpg",
         "price": "139",
         "added": "2017-04-09"
+      }
+    ]
+  },
+  "vinonlabs": {
+    "url": "https://vinonlabs.com/",
+    "name": "Vinon Labs",
+    "models": [{
+        "name": "Aluminium Sonder Tri",
+        "file": "aluminium_sonder_tri.jpg",
+        "price": "37",
+        "added": "2017-06-06"
+      },
+      {
+        "name": "Brass Sonder Tri",
+        "file": "brass_sonder_tri.jpg",
+        "price": "67",
+        "added": "2017-06-06"
+      },
+      {
+        "name": "Stainless Steel Sonder Tri",
+        "file": "stainless_steel_sonder_tri.jpg",
+        "price": "82",
+        "added": "2017-06-06"
       }
     ]
   },
