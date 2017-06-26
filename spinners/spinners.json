@@ -319,14 +319,26 @@
       }
     ]
   },
-  "bottlebib": {
+  "brass_monkey": {
     "url": "https://www.etsy.com/shop/Bottlebib",
-    "name": "Bottlebib",
+    "name": "Brass Monkey Spinners",
     "models": [{
       "name": "Brass Monkey",
       "file": "brass_monkey.jpg",
       "price": "31",
       "added": "2017-03-29"
+    },
+    {
+      "name": "Brass Monkey",
+      "file": "brass_monkey_2.jpg",
+      "price": "-1",
+      "added": "2017-06-26"
+    },
+    {
+      "name": "Brass Monkey",
+      "file": "brass_monkey_3.jpg",
+      "price": "38",
+      "added": "2017-06-26"
     }]
   },
   "busyminds": {
@@ -641,6 +653,24 @@
         "file": "kong.jpg",
         "price": "20",
         "added": "2017-04-05"
+      },
+      {
+        "name": "Zentri Nano",
+        "file": "zentri_nano.jpg",
+        "price": "27",
+        "added": "2017-06-26"
+      },
+      {
+        "name": "Kepler Mini Tri",
+        "file": "kepler_mini_tri.jpg",
+        "price": "16",
+        "added": "2017-06-26"
+      },
+      {
+        "name": "Votri",
+        "file": "votri.jpg",
+        "price": "22",
+        "added": "2017-06-26"
       }
     ]
   },
@@ -838,6 +868,12 @@
         "file": "pepyakka_2.jpg",
         "price": "-1",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Pepyakka S",
+        "file": "pepyakka_s.jpg",
+        "price": "425",
+        "added": "2017-06-26"
       }
     ]
   },
@@ -2097,6 +2133,29 @@
         "file": "damasteel_phat_boy_nano.jpg",
         "price": "175",
         "added": "2017-04-26"
+      }
+    ]
+  },
+  "stoneworks": {
+    "url": "https://stoneworksspinners.com",
+    "name": "StoneWorks Spinners",
+    "models": [{
+        "name": "Labradorite",
+        "file": "labradorite.jpg",
+        "price": "175",
+        "added": "2017-06-26"
+      },
+      {
+        "name": "Crazy Lace Agate",
+        "file": "crazy_lace_agate.jpg",
+        "price": "85",
+        "added": "2017-06-26"
+      },
+      {
+        "name": "Petrified Wood",
+        "file": "petrified_wood.jpg",
+        "price": "125",
+        "added": "2017-06-26"
       }
     ]
   },
