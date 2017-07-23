@@ -671,6 +671,12 @@
         "file": "votri.jpg",
         "price": "22",
         "added": "2017-06-26"
+      },
+      {
+        "name": "Quasar 514",
+        "file": "quasar_514.jpg",
+        "price": "35",
+        "added": "2017-07-23"
       }
     ]
   },
