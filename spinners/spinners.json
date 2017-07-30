@@ -464,6 +464,22 @@
       }
     ]
   },
+  "damned_designs": {
+    "url": "https://www.damneddesigns.com/",
+    "name": "Damned Designs",
+    "models": [{
+      "name": "Triad Brass",
+      "file": "triad_brass.jpg",
+      "price": "50",
+      "added": "2017-07-30"
+    },
+    {
+      "name": "Triad Stainless Steel",
+      "file": "triad_stainless_steel.jpg",
+      "price": "55",
+      "added": "2017-07-30"
+    }]
+  },
   "dark_apogee_designs": {
     "url": "http://www.darkapogeedesigns.com/",
     "name": "Dark Apogee Designs",
