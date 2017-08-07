@@ -1297,6 +1297,22 @@
       "added": "2017-03-20"
     }]
   },
+  "nautilushklimited": {
+    "url": "https://nautilushklimited.com/",
+    "name": "Nautilus",
+    "models": [{
+      "name": "Nautilus Classic S",
+      "file": "nautilus_classic_s.jpg",
+      "price": "80",
+      "added": "2017-08-07"
+    },
+    {
+      "name": "Nautilus Classic M",
+      "file": "nautilus_classic_m.jpg",
+      "price": "80",
+      "added": "2017-08-07"
+    }]
+  },
   "neodesign3d": {
     "url": "https://www.etsy.com/shop/NeoDesign3D",
     "name": "NeoDesign3D by robot9000",
