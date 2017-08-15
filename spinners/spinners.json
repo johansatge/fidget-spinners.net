@@ -1561,6 +1561,22 @@
       "added": "2017-04-26"
     }]
   },
+  "pose_blades": {
+    "url": "http://poseblades.bigcartel.com/",
+    "name": "Pose Blades",
+    "models": [{
+      "name": "Tri Cocoon Stainless Steel",
+      "file": "tri_cocoon_stainless_steel.jpg",
+      "price": "150",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Tri Cocoon Bronze",
+      "file": "tri_cocoon_bronze.jpg",
+      "price": "165",
+      "added": "2017-08-15"
+    }]
+  },
   "pozdnyakoff": {
     "url": "https://www.instagram.com/pozdnyakoff/",
     "name": "pozdnyakoff",
