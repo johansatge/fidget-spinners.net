@@ -899,6 +899,28 @@
       }
     ]
   },
+  "fullthrottleoriginals": {
+    "url": "https://fullthrottleoriginals.com/",
+    "name": "Full Throttle Originals",
+    "models": [{
+      "name": "Asylum",
+      "file": "asylum.jpg",
+      "price": "35",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Asylum Mini Smoothie",
+      "file": "asylum_mini_smoothie.jpg",
+      "price": "40",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Sanitarium",
+      "file": "sanitarium.jpg",
+      "price": "65",
+      "added": "2017-08-15"
+    }]
+  },
   "hog_doggins": {
     "url": "http://hogdoggins.bigcartel.com/",
     "name": "Hog Doggins",
@@ -1606,6 +1628,34 @@
       }
     ]
   },
+  "premium_spinners": {
+    "url": "https://premiumspinners.com/",
+    "name": "Premium Spinners",
+    "models": [{
+      "name": "LoopHole Spinner - Stainless T-8 Knurl Free",
+      "file": "loophole_spinner_stainless_t8_knurl_free.jpg",
+      "price": "54",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "LoopHole Spinner - Copper T-4x8 Female Knurl",
+      "file": "loophole_spinner_copper_t48.jpg",
+      "price": "56",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Stainless Steel LoopHole Spinner",
+      "file": "stainless_steel_loophole.jpg",
+      "price": "54",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Brass LoopHole Spinner",
+      "file": "brass_loophole.jpg",
+      "price": "54",
+      "added": "2017-08-15"
+    }]
+  },
   "radiusmethod": {
     "url": "https://radiusmethod.com/",
     "name": "Radius Method",
@@ -1795,6 +1845,34 @@
         "added": "2017-03-20"
       }
     ]
+  },
+  "revpunx": {
+    "url": "https://www.revpunx.com/",
+    "name": "RevPunx",
+    "models": [{
+      "name": "Royal Punk Stainless Steel",
+      "file": "royal_punk_stainless_steel.jpg",
+      "price": "37",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Royal Punk Brass",
+      "file": "royal_punk_brass.jpg",
+      "price": "35",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Royal Punk Titanium",
+      "file": "royal_punk_titanium.jpg",
+      "price": "60",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Royal Punk Electroplated",
+      "file": "royal_punk_electroplated.jpg",
+      "price": "40",
+      "added": "2017-08-15"
+    }]
   },
   "robjacks_knife_and_tool": {
     "url": "https://www.etsy.com/shop/RobJacksKnifeandTool",
