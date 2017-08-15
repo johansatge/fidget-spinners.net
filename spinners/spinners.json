@@ -2411,14 +2411,26 @@
       "added": "2017-05-05"
     }]
   },
-  "unquiet_hands": {
-    "url": "https://www.unquiethands.com",
-    "name": "Unquiet Hands",
+  "oddiev": {
+    "url": "https://www.instagram.com/oddiev/",
+    "name": "Oddiev",
     "models": [{
-        "name": "Heavy Blade Gunmetal Color",
-        "file": "heavy_blade_gunmetal_color.jpg",
-        "price": "35",
-        "added": "2017-05-23"
+        "name": "Unnamed spinner",
+        "file": "1.jpg",
+        "price": "-1",
+        "added": "2017-08-15"
+      },
+      {
+        "name": "Unnamed spinner",
+        "file": "2.jpg",
+        "price": "-1",
+        "added": "2017-08-15"
+      },
+      {
+        "name": "Unnamed spinner",
+        "file": "3.jpg",
+        "price": "-1",
+        "added": "2017-08-15"
       }
     ]
   },
