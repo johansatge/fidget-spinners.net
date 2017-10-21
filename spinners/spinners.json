@@ -2528,8 +2528,8 @@
       }
     ]
   },
-  "united_machinig_llc": {
-    "url": "https://www.unitedmachiningllc.com/products/united-bow-tie-fidget-spinner",
+  "united_machining_llc": {
+    "url": "https://www.unitedmachiningllc.com",
     "name": "United Machinig LLC",
     "models": [{
         "name": "United Bow Tie",
@@ -2560,6 +2560,12 @@
         "file": "united_northstar_titanium.jpg",
         "price": "175",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Copper United Mini",
+        "file": "copper_united_mini.jpg",
+        "price": "35",
+        "added": "2017-10-21"
       }
     ]
   },
@@ -2693,6 +2699,17 @@
         "file": "vosano_vks.jpg",
         "price": "320",
         "added": "2017-04-15"
+      }
+    ]
+  },
+  "wysteworks": {
+    "url": "http://www.wysteworks.com/",
+    "name": "Wysteworks",
+    "models": [{
+        "name": "The Crownd",
+        "file": "the_crownd.jpg",
+        "price": "95",
+        "added": "2017-10-21"
       }
     ]
   },
@@ -2877,5 +2894,31 @@
         "added": "2017-04-02"
       }
     ]
+  },
+  "smart_manufacturing": {
+    "url": "https://www.etsy.com/fr/shop/SmartManufacturing",
+    "name": "SmartManufacturing",
+    "models": [{
+      "name": "Mini Pocket",
+      "file": "mini_pocket.jpg",
+      "price": "23",
+      "added": "2017-10-21"
+    },
+    {
+      "name": "OE Star",
+      "file": "oe_star.jpg",
+      "price": "30",
+      "added": "2017-10-21"
+    }]
+  },
+  "unquiet_hands": {
+    "url": "https://unquiethands.com",
+    "name": "Unquiet Hands",
+    "models": [{
+      "name": "Atrium",
+      "file": "atrium.jpg",
+      "price": "40",
+      "added": "2017-10-21"
+    }]
   }
 }
