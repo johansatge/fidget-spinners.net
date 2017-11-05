@@ -2,12 +2,7 @@
   "2r_designs": {
     "url": "http://2rdesigns.net/",
     "name": "2R Designs",
-    "models": [{
-        "name": "Axiom",
-        "file": "axiom.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
+    "models": [
       {
         "name": "Boomerang 2",
         "file": "boomerang_2.jpg",
@@ -37,12 +32,6 @@
         "file": "titanium_boomerang_mini_pro.jpg",
         "price": "-1",
         "added": "2017-03-20"
-      },
-      {
-        "name": "Triax",
-        "file": "triax.jpg",
-        "price": "130",
-        "added": "2017-05-20"
       },
       {
         "name": "Circulator Brass",
@@ -229,6 +218,29 @@
         "file": "hecate.jpg",
         "price": "70",
         "added": "2017-04-21"
+      }
+    ]
+  },
+  "axiom": {
+    "url": "https://axiom-spinners.com/",
+    "name": "Axiom",
+    "models": [{
+        "name": "Axiom",
+        "file": "axiom.jpg",
+        "price": "120",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Triax",
+        "file": "triax.jpg",
+        "price": "120",
+        "added": "2017-05-20"
+      },
+      {
+        "name": "Tetra",
+        "file": "tetra.jpg",
+        "price": "38",
+        "added": "2017-11-05"
       }
     ]
   },
