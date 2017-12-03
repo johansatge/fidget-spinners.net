@@ -2142,6 +2142,16 @@
       }
     ]
   },
+  "spinnerd": {
+    "url": "https://spinnerd.com/",
+    "name": "Spin Nerd",
+    "models": [{
+      "name": "Arachnophobia",
+      "file": "arachnophobia.jpg",
+      "price": "65",
+      "added": "2017-12-03"
+    }]
+  },
   "spin_pro_designs": {
     "url": "https://www.etsy.com/shop/SpinProDesigns",
     "name": "SpinProDesigns",
