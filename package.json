@@ -18,8 +18,7 @@
   },
   "scripts": {
     "watch": "chokidar src/**/* --command='npm run build'",
-    "build": "node build.js && php build_versioned_assets.php",
-    "deploy": "npm run build && rsync --archive --checksum --verbose --chmod=u=rwX,g=rX --exclude=.DS_Store dist/ $(head -n 1 .cdn)"
+    "build": "node build.js && php build_versioned_assets.php"
   },
   "engines": {
     "node": ">=6"
