@@ -18,7 +18,14 @@ $ git clone git@github.com:johansatge/fidget-spinners.net.git
 $ cd fidget-spinners.net.git
 ```
 
-Install the dependencies:
+Make sure you have Node 8:
+
+```
+$ node -v
+v8.9.0
+```
+
+Install the NPM dependencies:
 
 ```shell
 $ npm install
@@ -26,29 +33,10 @@ $ npm install
 
 ## Building the website
 
-The website is hosted on [Github Page](https://pages.github.com).
-
-When pushing an update on the `master` branch, the following assets are deployed:
-
-* `images/*`
-* `index.html`
-
-The [`index.html`](index.html) file is compiled by a build script, and should not be edited manually. It regroups:
-
-* The CSS styles (inlined)
-* The spinners list
-* The JS scripts (inlined)
-
-To generate the `index.html` file, run:
+To build the website (in the `./dist` directory), run:
 
 ```
 $ npm run build
-```
-
-When working on files in `src/`, a _watch_ task is available; it will generate the HTML on every file change:
-
-```
-$ npm run watch
 ```
 
 It will:
@@ -57,6 +45,12 @@ It will:
 * Compile and inline the CSS styles from `src/sass`
 * Compile and inline the JS scripts from `src/js`
 * Minify the final HTML and write the file
+
+Also, when working on files in `src/`, a _watch_ task is available; it will generate the HTML on every file change:
+
+```
+$ npm run watch
+```
 
 ## Adding or updating a spinner
 
@@ -91,7 +85,7 @@ Each spinner has associated images, stored in `spinners/images/company_name`:
 
 * `spinners/images/company_name/spinner1.jpg` → Full-size image (`500x500` or `800x800` square)
 * `spinners/images/company_name/spinner1_thumb@2x.jpg` → Retina thumbnail (`400x400` square)
-* `spinners/images/company_name/spinner1_thumb.jpg` → Full-size image (`200x200` square)
+* `spinners/images/company_name/spinner1_thumb.jpg` → Standard thumbnail (`200x200` square)
 
 Update the `json` file and rebuild the HTML to see the result.
 
