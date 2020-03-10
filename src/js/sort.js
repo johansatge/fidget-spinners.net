@@ -6,7 +6,16 @@ export const sortBy = (type, items) => {
 }
 
 const sortHelpers = {
-  brand : (a, b) => {
+  type_asc : (a, b) => {
+    const aType = a.getAttribute('data-Type')
+    const bType = b.getAttribute('data-Type')
+    if (aType === bType) {
+//      return sortHelpers.name_az(a, b)
+      return sortHelpers.added_newest(a, b)
+    }
+    return aType > bType ? 1 : (aType < bType ? -1 : 0)
+  },
+  brand_asc : (a, b) => {
     const aBrand = a.getAttribute('data-Brand')
     const bBrand = b.getAttribute('data-Brand')
     if (aBrand === bBrand) {
@@ -14,22 +23,30 @@ const sortHelpers = {
     }
     return aBrand > bBrand ? 1 : (aBrand < bBrand ? -1 : 0)
   },
-  price_asc : (a, b) => {
-    const aPrice = parseInt(a.getAttribute('data-price'))
-    const bPrice = parseInt(b.getAttribute('data-price'))
-    if (aPrice === bPrice) {
+  brand_desc : (a, b) => {
+    const aBrand = a.getAttribute('data-Brand')
+    const bBrand = b.getAttribute('data-Brand')
+    if (aBrand === bBrand) {
       return sortHelpers.name_az(a, b)
     }
-    return aPrice > bPrice || aPrice === -1 ? 1 : (aPrice < bPrice || bPrice === -1 ? -1 : 0)
+    return aBrand > bBrand ? -1 : (aBrand < bBrand ? 1 : 0)
   },
-  price_desc : (a, b) => {
-    const aPrice = parseInt(a.getAttribute('data-price'))
-    const bPrice = parseInt(b.getAttribute('data-price'))
-    if (aPrice === bPrice) {
-      return sortHelpers.name_az(a, b)
-    }
-    return aPrice < bPrice || aPrice === -1 ? 1 : (aPrice > bPrice || bPrice === -1 ? -1 : 0)
-  },
+//  price_asc : (a, b) => {
+//    const aPrice = parseInt(a.getAttribute('data-price'))
+//    const bPrice = parseInt(b.getAttribute('data-price'))
+//    if (aPrice === bPrice) {
+//      return sortHelpers.name_az(a, b)
+//    }
+//    return aPrice > bPrice || aPrice === -1 ? 1 : (aPrice < bPrice || bPrice === -1 ? -1 : 0)
+//  },
+//  price_desc : (a, b) => {
+//    const aPrice = parseInt(a.getAttribute('data-price'))
+//    const bPrice = parseInt(b.getAttribute('data-price'))
+//    if (aPrice === bPrice) {
+//      return sortHelpers.name_az(a, b)
+//    }
+//    return aPrice < bPrice || aPrice === -1 ? 1 : (aPrice > bPrice || bPrice === -1 ? -1 : 0)
+//  },
   name_az : (a, b) => {
     const aName = a.getAttribute('data-name')
     const bName = b.getAttribute('data-name')

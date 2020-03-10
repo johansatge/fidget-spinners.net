@@ -51,7 +51,7 @@
         </svg>
       </div>
       <span class="sort">
-        <span class="js-sort-label label">By date: most recent</span>
+        <span class="js-sort-label label">By date: newest</span>
         <svg class="sort-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.819 444.819" xml:space="preserve">
           <path d="M434.252,114.203l-21.409-21.416c-7.419-7.04-16.084-10.561-25.975-10.561c-10.095,0-18.657,3.521-25.7,10.561
           L222.41,231.549L83.653,92.791c-7.042-7.04-15.606-10.561-25.697-10.561c-9.896,0-18.559,3.521-25.979,10.561l-21.128,21.416
@@ -61,13 +61,13 @@
         </svg>
         <select class="js-sort-select">
           <option disabled>Sort...</option>
-          <option value="brand">By brand</option>
-          <option value="added_newest" selected>By date: most recent</option>
+          <option value="added_newest" selected>By date: newest</option>
           <option value="added_oldest">By date: oldest</option>
-          <option value="price_asc">By price: ascending</option>
-          <option value="price_desc">By price: descending</option>
+          <option value="brand_asc">By brand: ascending</option>
+          <option value="brand_desc">By brand: descending</option>
           <option value="name_az">By name: ascending</option>
           <option value="name_za">By name: descending</option>
+          <option value="type_asc">By type: bar,cog,...</option>
         </select>
       </span>
       <span class="count js-count" data-template="$1 models">
@@ -85,6 +85,7 @@
           data-name="<%= item.name %>"
           data-price="<%= item.price %>"
           data-added="<%= item.added %>"
+          data-type="<%= item.type %>"
           data-search="<%= item.brand.name.toLowerCase() + ' ' + item.name.toLowerCase() %>"
         >
           <a
@@ -115,11 +116,9 @@
             <span class="name">
               <%= item.name %>
             </span>
-            <% if (item.price != '-1') { %>
-              <span class="price">
-                <%= item.price %>$
+              <span class="type">
+                (<%= item.type %>)
               </span>
-            <% } %>
           </div>
         </div>
       <% }) %>
@@ -144,12 +143,12 @@
         You can definitely help if you have spotted an error, or want to add new spinners to the database.<br>
         <a href="#">fidget-spinners.net</a> is an open-source project, its code is available <a href="https://github.com/johansatge/fidget-spinners.net">on GitHub</a>.
         If you have a GitHub account, please feel free to open pull requests or issues.<br>
-        Otherwise, you can also send me an email, by using the address below.
+        Otherwise, you can also send us an email, by using the address below.
       </p>
       <h3>I'm a brand, can I add my products on the website?</h3>
       <p>
-        If you are a spinner maker, and want to see your product appear on the website, feel free to contact me.<br>
-        Please don't forget to join pictures and a link to your website, Facebook group, or whatever platform you think is relevant.<br>
+        If you are a spinner maker, and want to see your product appear on the website, feel free to contact us.<br>
+        Please don't forget to include pictures and a link to your website, Facebook group, or whatever platform you think is relevant.<br>
         Also please note, <strong><a href="#">fidget-spinners.net</a> lists original products only</strong>. Spinners that look
         like clones of existing brands will not be accepted, unless you can tell how are they different.
       </p>
@@ -163,34 +162,37 @@
         Links
         <em>Want this list to grow? Feel free to help!</em>
       </h2>
-      <h3>Friends</h3>
-      <ul>
-        <li>
-          <a href="https://stealthspinners.com/">Stealth Fidget Spinners</a> - The Best EDC Fidget Finger Spinner
-        </li>
-        <li>
-          <a href="https://spinnerbox.com">Spinner Box</a> - Monthly Fidget Spinner Club
-        </li>
-      </ul>
       <h3>Resources</h3>
       <ul>
         <li>
-          <a href="https://spinnermint.com/">Spinnermint</a> - Fidget Spinner News and Reviews
+          <a href="https://www.facebook.com/groups/TheDailyFidget/">The Daily Fidget</a> - Facebook Group for Fidget Spinners
         </li>
         <li>
           <a href="https://www.reddit.com/r/FidgetSpinners/">/r/FidgetSpinners</a> - The place to discuss everything about fidget spinners
+        </li>
+        <li>
+          <a href="https://www.reddit.com/r/FidgetSpinners/wiki/index">Fidget Spinner Wiki</a> - Fidget Spinner Resources on Reddit
+        </li>
+        <li>
+          <a href="https://spinnertalk.net">SpinnerTalk</a> - Reviews, Photos and other Spinner-Related Info
+        </li>
+        <li>
+          <a href="https://spinnermint.com/">Spinnermint</a> - Fidget Spinner News and Reviews
         </li>
       </ul>
       <h3>YouTube channels</h3>
       <ul>
         <li>
-          <a href="https://www.youtube.com/channel/UC2Iqu_5gh9QkMe3p3hzmVfQ">Rhine Reviews</a>
+          <a href="https://www.youtube.com/channel/UCCZSHpqRG3vDh6lLpXjLLUg">The Weekly Spin</a>
         </li>
         <li>
-          <a href="https://www.youtube.com/channel/UCId9KaY_dkHBX0_ONfbpYWw">SPINNERCRAFT</a>
+          <a href="https://www.youtube.com/channel/UCi7iPCLKo64eG-krWVj7-WA">Average Singaporean</a>
         </li>
         <li>
-          <a href="https://www.youtube.com/channel/UCnY6upLCEavgyck1pT-v7og">Spin Space</a>
+          <a href="https://www.youtube.com/channel/UCBj-yP-tO2j6QhDrIliyTJA">Hobby Timmy</a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/user/TheGearScore">SpeedyTech</a>
         </li>
       </ul>
     </div>
