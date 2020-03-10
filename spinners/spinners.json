@@ -7,48 +7,49 @@
         "name": "Boomerang 2",
         "file": "boomerang_2.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Brass Boomerang Mini Pro",
-        "file": "brass_boomerang_mini_pro.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Brass Boomerang Mini Std",
+        "name": "Boomerang Mini",
         "file": "brass_boomerang_mini_std.jpg",
         "price": "-1",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
-        "name": "Stainless Steel Boomerang Mini Pro",
-        "file": "stainless_steel_boomerang_mini_pro.jpg",
+        "name": "Boomerang Mini V2",
+        "file": "boomerang_mini_v2.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "type": "Tri",
+        "added": "2017-05-20"
       },
       {
-        "name": "Titanium Boomerang Mini Pro",
-        "file": "titanium_boomerang_mini_pro.jpg",
+        "name": "Syth",
+        "file": "syth.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-05-20"
       },
       {
-        "name": "Circulator Brass",
-        "file": "circulator_brass.jpg",
-        "price": "35",
+        "name": "Hatchet",
+        "file": "hatchet.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-05-20"
+      },
+      {
+        "name": "Trinster",
+        "file": "trinster.jpg",
+        "price": "-1",
+        "type": "Tri",
         "added": "2017-05-20"
       },
       {
         "name": "Circulator Stainless Steel",
         "file": "circulator_stainless_steel.jpg",
         "price": "37",
-        "added": "2017-05-20"
-      },
-      {
-        "name": "Circulator Black Tumbled",
-        "file": "circulator_black_tumbled.jpg",
-        "price": "52",
+        "type": "Cog",
         "added": "2017-05-20"
       }
     ]
@@ -60,85 +61,9 @@
       "name": "Ratabat",
       "file": "ratabat.jpg",
       "price": "45",
+        "type": "Bar",
       "added": "2017-03-20"
     }]
-  },
-  "ables_planetary_spinners": {
-    "url": "http://ablesplanetaryspinners.bigcartel.com/",
-    "name": "Ables Planetary Spinners",
-    "models": [{
-        "name": "FrankenworkX Antiqued brass diamond",
-        "file": "20170311_133510.jpg",
-        "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX lip grips turbine",
-        "file": "20170309_123017.jpg",
-        "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Antiqued FrankenworX knurled grips",
-        "file": "20170301_144702.jpg",
-        "price": "60",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm large diamond pattern",
-        "file": "20170227_120815.jpg",
-        "price": "120",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm wide slant turbine pattern",
-        "file": "20170227_123229.jpg",
-        "price": "120",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Antiqued FrankenworX stepped and knurled grips",
-        "file": "17092901_1610779625618019_1684200709_o.jpg",
-        "price": "63",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm slant turbine pattern",
-        "file": "20170227_120533.jpg",
-        "price": "100",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 19mm Narrow Lip Knurled Grips",
-        "file": "20170227_120353.jpg",
-        "price": "60",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm large turbine pattern",
-        "file": "20170222_124815.jpg",
-        "price": "100",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm large diamond pattern",
-        "file": "20170217_165027.jpg",
-        "price": "100",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm swirled large diamond pattern",
-        "file": "20170221_115253.jpg",
-        "price": "100",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "FrankenworX 18.8mm double swirled large diamond pattern",
-        "file": "20170221_115313.jpg",
-        "price": "110",
-        "added": "2017-03-20"
-      }
-    ]
   },
   "alpha_bot_industries": {
     "url": "https://alphabotindustries.com",
@@ -147,6 +72,7 @@
       "name": "Valkyrie",
       "file": "valkyrie.jpg",
       "price": "49",
+        "type": "Bar",
       "added": "2017-04-21"
     }]
   },
@@ -157,66 +83,77 @@
         "name": "Dual Leaf V2",
         "file": "dual_leaf_v2.jpg",
         "price": "40",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Dual Rota",
         "file": "dual_rota.jpg",
         "price": "60",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Dual Garz",
         "file": "dual_garz.jpg",
         "price": "40",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Tri Leaf V2",
         "file": "tri_leaf_v2.jpg",
         "price": "50",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Tri Moon",
         "file": "tri_moon.jpg",
         "price": "50",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Elliptic",
         "file": "elliptic.jpg",
         "price": "60",
+        "type": "Tri",
         "added": "2017-04-21"
       },
       {
         "name": "Propeller V2",
         "file": "propeller_v2.jpg",
         "price": "60",
+        "type": "Tri",
         "added": "2017-04-21"
       },
       {
         "name": "Tri Vent",
         "file": "tri_vent.jpg",
         "price": "40",
+        "type": "Tri",
         "added": "2017-04-21"
       },
       {
         "name": "Triquetra Silver Plated",
         "file": "triquetra_silver_plated.jpg",
         "price": "50",
+        "type": "Tri",
         "added": "2017-04-21"
       },
       {
         "name": "Triquetra Brass V2",
         "file": "triquetra_brass_v2.jpg",
         "price": "60",
+        "type": "Tri",
         "added": "2017-04-21"
       },
       {
         "name": "Hecate",
         "file": "hecate.jpg",
         "price": "70",
+        "type": "Tri",
         "added": "2017-04-21"
       }
     ]
@@ -228,18 +165,35 @@
         "name": "Axiom",
         "file": "axiom.jpg",
         "price": "120",
+        "type": "Bar",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Apache",
+        "file": "apache.jpg",
+        "price": "120",
+        "type": "Bar",
+        "added": "2019-04-30"
+      },
+      {
+        "name": "Abyss",
+        "file": "abyss.jpg",
+        "price": "120",
+        "type": "Tri",
+        "added": "2018-04-30"
       },
       {
         "name": "Triax",
         "file": "triax.jpg",
         "price": "120",
+        "type": "Tri",
         "added": "2017-05-20"
       },
       {
         "name": "Tetra",
         "file": "tetra.jpg",
         "price": "38",
+        "type": "Quad",
         "added": "2017-11-05"
       }
     ]
@@ -248,27 +202,17 @@
     "url": "https://www.bastiongear.com/collections/spinners",
     "name": "Bastion Gear",
     "models": [{
-        "name": "Gold Large",
-        "file": "gold_large.jpg",
-        "price": "50",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Gold Small",
-        "file": "gold_small.jpg",
-        "price": "50",
-        "added": "2017-03-20"
-      },
-      {
         "name": "Silver Large",
         "file": "silver_large.jpg",
         "price": "50",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Silver Small",
         "file": "silver_small.jpg",
         "price": "50",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
@@ -277,33 +221,10 @@
     "url": "https://www.etsy.com/shop/BlackHillsPrecision",
     "name": "BlackHillsPrecision",
     "models": [{
-        "name": "Radioactive Isotope Brass",
-        "file": "radioactive_isotope_brass.jpg",
-        "price": "130",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Radioactive Isotope Brass And Brass",
-        "file": "radioactive_isotope_brass_and_brass.jpg",
-        "price": "135",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Radioactive Isotope Coppervein Powercoated Aluminum",
+        "name": "Radioactive Isotope",
         "file": "radioactive_isotope_coppervein_powercoated_aluminum.jpg",
         "price": "70",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Radioactive Isotope Powdercoated Aluminum",
-        "file": "radioactive_isotope_powdercoated_aluminum.jpg",
-        "price": "50",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Radioactive Isotope Brass Hybrid Ceramic",
-        "file": "radioactive_isotope_brass_hybrid_ceramic.jpg",
-        "price": "70",
+        "type": "Tri",
         "added": "2017-03-20"
       }
     ]
@@ -315,19 +236,43 @@
         "name": "Jaunt",
         "file": "jaunt.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-04-17"
       },
       {
         "name": "Jaunt Light",
         "file": "jaunt_light.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-04-17"
       },
       {
         "name": "Jog",
         "file": "jog.jpg",
         "price": "-1",
+        "type": "Cog",
         "added": "2017-04-17"
+      },
+      {
+        "name": "Knuckle Hugger",
+        "file": "knuckle_hugger.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2019-01-10"
+      },
+      {
+        "name": "Sub Mini Jaunt",
+        "file": "sub_mini_jaunt.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-03-24"
+      },
+      {
+        "name": "Tri Mini Jaunt",
+        "file": "tri_mini_jaunt.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-09-27"
       }
     ]
   },
@@ -338,18 +283,21 @@
       "name": "Brass Monkey",
       "file": "brass_monkey.jpg",
       "price": "31",
+        "type": "Bar",
       "added": "2017-03-29"
     },
     {
       "name": "Brass Monkey",
       "file": "brass_monkey_2.jpg",
       "price": "-1",
+        "type": "Quad",
       "added": "2017-06-26"
     },
     {
       "name": "Brass Monkey",
       "file": "brass_monkey_3.jpg",
       "price": "38",
+        "type": "Quad",
       "added": "2017-06-26"
     }]
   },
@@ -360,18 +308,21 @@
       "name": "Cortex Mini",
       "file": "cortex_mini.jpg",
       "price": "55",
+        "type": "Tri",
       "added": "2017-04-15"
     },
     {
-      "name": "Cortex Stainless Steel",
-      "file": "cortex_stainless_steel.jpg",
-      "price": "55",
-      "added": "2017-04-15"
-    },
-    {
-      "name": "Cortex Brass",
+      "name": "Cortex",
       "file": "cortex_brass.jpg",
       "price": "50",
+        "type": "Tri",
+      "added": "2017-04-15"
+    },
+    {
+      "name": "Cortex Nano",
+      "file": "cortex_nano.jpg",
+      "price": "-1",
+        "type": "Tri",
       "added": "2017-04-15"
     }]
   },
@@ -380,26 +331,31 @@
     "name": "Christopher Errecart",
     "models": [{
       "name": "Unnamed",
-      "file": "unnamed_1.jpg",
-      "price": "-1",
-      "added": "2017-04-21"
-    },
-    {
-      "name": "Unnamed",
       "file": "unnamed_2.jpg",
       "price": "75",
+        "type": "Bar",
       "added": "2017-04-21"
     }]
   },
   "cogent_industries": {
-    "url": "http://www.cogentindustries.com/spinner/",
+    "url": "http://www.magnusx.com/",
     "name": "Cogent Industries",
-    "models": [{
-      "name": "Titanium",
-      "file": "titanium.jpg",
+    "models": [
+    {
+      "name": "Air",
+      "file": "air.jpg",
       "price": "-1",
-      "added": "2017-03-20"
-    }]
+        "type": "Bar",
+      "added": "2017-07-29"
+    },
+    {
+      "name": "Ego",
+      "file": "ego.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-01-29"
+    }
+   ]
   },
   "columbia_river_precision": {
     "url": "https://columbiariverprecision.com/collections/crp-spinners",
@@ -408,36 +364,42 @@
         "name": "Consigliere",
         "file": "consigliere.jpg",
         "price": "60",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Cyclone",
         "file": "cyclone.jpg",
         "price": "150",
+        "type": "Cog",
         "added": "2017-03-20"
       },
       {
         "name": "Moxie",
         "file": "moxie.jpg",
         "price": "120",
+        "type": "Cog",
         "added": "2017-03-20"
       },
       {
         "name": "Og",
         "file": "og.jpg",
         "price": "60",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Revolver",
         "file": "revolver.jpg",
         "price": "60",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Ripsaw",
         "file": "ripsaw.jpg",
         "price": "140",
+        "type": "Cog",
         "added": "2017-03-20"
       }
     ]
@@ -448,30 +410,104 @@
     "models": [{
         "name": "Relic",
         "file": "relic.jpg",
-        "price": "112",
+        "price": "-1",
+        "type": "Bar",
         "added": "2017-04-02"
       },
       {
         "name": "Hydra",
         "file": "hydra.jpg",
-        "price": "122",
+        "price": "-1",
+        "type": "Tri",
         "added": "2017-04-02"
+      },
+      {
+        "name": "Cyclops",
+        "file": "cyclops.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-14"
+      },
+      {
+        "name": "Gaika",
+        "file": "gaika_ring.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-11-23"
+      },
+      {
+        "name": "Gaika Skull",
+        "file": "gaika_skull.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-11-23"
+      },
+      {
+        "name": "Gravitsapa",
+        "file": "gravitsapa.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-13"
+      },
+      {
+        "name": "The Void",
+        "file": "the_void.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-09-13"
+      },
+      {
+        "name": "Unnamed Bar",
+        "file": "unnamed_bar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-09-14"
+      },
+      {
+        "name": "Unnamed Tri",
+        "file": "unnamed_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-08-04"
+      },
+      {
+        "name": "Vertigo",
+        "file": "wheel.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-02-18"
+      },
+      {
+        "name": "Voila",
+        "file": "voila.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-02-09"
+      },
+      {
+        "name": "Mini Hydra Wood",
+        "file": "mini_hydra_wood.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-01-22"
       }
     ]
   },
   "concepts2creations": {
-    "url": "https://concepts2creations.com/products/spinner-fidget-toy",
+    "url": "https://www.google.com",
     "name": "Concepts2Creations",
     "models": [{
         "name": "Sonic Wave",
         "file": "sonic_wave.jpg",
         "price": "50",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Spinner Fidget Toy",
         "file": "spinner_fidget_toy.jpg",
         "price": "50",
+        "type": "Quad",
         "added": "2017-03-20"
       }
     ]
@@ -479,39 +515,297 @@
   "damned_designs": {
     "url": "https://www.damneddesigns.com/",
     "name": "Damned Designs",
-    "models": [{
-      "name": "Triad Brass",
-      "file": "triad_brass.jpg",
-      "price": "50",
-      "added": "2017-07-30"
+    "models": [
+    {
+      "name": "Triad",
+      "file": "triad_ss.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2017-06-30"
     },
     {
-      "name": "Triad Stainless Steel",
-      "file": "triad_stainless_steel.jpg",
-      "price": "55",
-      "added": "2017-07-30"
+      "name": "Invictus",
+      "file": "invictus.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-07-10"
+    },
+    {
+      "name": "Hex Ring",
+      "file": "hex_ring.jpg",
+      "price": "-1",
+        "type": "Ring",
+      "added": "2017-08-13"
+    },
+    {
+      "name": "Turbulence",
+      "file": "turbulence.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2017-09-26"
+    },
+    {
+      "name": "Brute",
+      "file": "brute.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-12-21"
+    },
+    {
+      "name": "Tribe",
+      "file": "tribe.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2017-12-22"
+    },
+    {
+      "name": "Turbulence XS",
+      "file": "turbulence_xs.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2017-12-23"
+    },
+    {
+      "name": "Voodoo",
+      "file": "voodoo.jpg",
+      "price": "-1",
+        "type": "Ring",
+      "added": "2017-10-06"
+    },
+    {
+      "name": "Frag",
+      "file": "frag.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2017-10-07"
+    },
+    {
+      "name": "Psionic",
+      "file": "psionic.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2017-10-29"
+    },
+    {
+      "name": "Schism",
+      "file": "schism.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-10-29"
+    },
+    {
+      "name": "Orthrus",
+      "file": "orthrus.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-01-29"
+    },
+    {
+      "name": "Cerberus",
+      "file": "cerberus.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-03-11"
+    },
+    {
+      "name": "Hades",
+      "file": "hades.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-03-11"
+    },
+    {
+      "name": "Hex",
+      "file": "hex.jpg",
+      "price": "-1",
+        "type": "Cog",
+      "added": "2018-03-11"
+    },
+    {
+      "name": "Sanctity",
+      "file": "sanctity.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-02-22"
+    },
+    {
+      "name": "Infinity",
+      "file": "infinity.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-02-23"
+    },
+    {
+      "name": "Thunderbolt",
+      "file": "thunderbolt.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-02-25"
+    },
+    {
+      "name": "Firebolt",
+      "file": "firebolt.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-02-25"
+    },
+    {
+      "name": "Warpig",
+      "file": "warpig.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-02-25"
+    },
+    {
+      "name": "Deicide",
+      "file": "deicide.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-03-17"
+    },
+    {
+      "name": "Fidget Spot",
+      "file": "fidget_spot.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-04-04"
+    },
+    {
+      "name": "Echidna",
+      "file": "echidna.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-04-23"
+    },
+    {
+      "name": "Scylla",
+      "file": "scylla.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-04-24"
+    },
+    {
+      "name": "Typhon",
+      "file": "typhon.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-04-25"
+    },
+    {
+      "name": "Astra",
+      "file": "astra.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-07-06"
+    },
+    {
+      "name": "Labrys",
+      "file": "labrys.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-07-07"
+    },
+    {
+      "name": "Nazar",
+      "file": "nazar.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-07-08"
+    },
+    {
+      "name": "Ichor",
+      "file": "ichor.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-10-12"
+    },
+    {
+      "name": "Ethereal",
+      "file": "ethereal.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-10-13"
+    },
+    {
+      "name": "Metatron",
+      "file": "metatron.jpg",
+      "price": "-1",
+        "type": "Cog",
+      "added": "2018-10-29"
+    },
+    {
+      "name": "Cambion",
+      "file": "cambion.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2019-05-09"
+    },
+    {
+      "name": "Nephilim",
+      "file": "nephilim.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2019-05-10"
+    },
+    {
+      "name": "Incubus",
+      "file": "incubus.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2019-06-06"
+    },
+    {
+      "name": "Succubus",
+      "file": "succubus.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2019-06-07"
+    },
+    {
+      "name": "Schrapnel",
+      "file": "schrapnel.jpg",
+      "price": "-1",
+        "type": "Cog",
+      "added": "2018-07-30"
+    },
+    {
+      "name": "Sinner",
+      "file": "sinner.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-07-29"
+    },
+    {
+      "name": "Sinister",
+      "file": "sinister.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-07-30"
+    },
+    {
+      "name": "Warmachine",
+      "file": "warmachine.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-03-29"
     }]
   },
   "dark_apogee_designs": {
-    "url": "http://www.darkapogeedesigns.com/",
+    "url": "https://www.instagram.com/darkapogeedesigns/",
     "name": "Dark Apogee Designs",
     "models": [{
-        "name": "Genesis Brass",
+        "name": "Genesis",
         "file": "genesis_brass.jpg",
         "price": "155",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Genesis Stainless",
-        "file": "genesis_stainless.jpg",
-        "price": "155",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Genesis Titanium",
-        "file": "genesis_titanium.jpg",
-        "price": "200",
-        "added": "2017-03-20"
+        "name": "Luna",
+        "file": "luna.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-03"
       }
     ]
   },
@@ -522,46 +816,39 @@
       "name": "Brass Spinner",
       "file": "brass_spinner.jpg",
       "price": "-1",
-      "added": "2017-06-05"
-    },
-    {
-      "name": "Brass Spinner",
-      "file": "brass_spinner_2.jpg",
-      "price": "-1",
+        "type": "Bar",
       "added": "2017-06-05"
     },
     {
       "name": "Copper Spinner",
       "file": "copper_spinner.jpg",
       "price": "-1",
+        "type": "Bar",
       "added": "2017-06-05"
     },
     {
       "name": "Stainless Steel Spinner",
       "file": "stainless_steel_spinner.jpg",
       "price": "-1",
-      "added": "2017-06-05"
-    },
-    {
-      "name": "Brass Star Spinner",
-      "file": "brass_star_spinner.jpg",
-      "price": "130",
+        "type": "Bar",
       "added": "2017-06-05"
     }]
   },
   "diddysdaddio": {
     "url": "http://diddysdaddio.bigcartel.com/",
-    "name": "diddysDaddio",
+    "name": "DiddysDaddio",
     "models": [{
         "name": "JaggerSpinner V1",
         "file": "jaggerspinnerv1.jpg",
         "price": "85",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "DiddySpinner V2",
         "file": "diddyspinnerv2.jpg",
         "price": "85",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
@@ -573,90 +860,49 @@
         "name": "Benjamin Antique Brass Steel",
         "file": "benjamin_antique_brass_steel.jpg",
         "price": "130",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Benjamin Polished Brass Steel",
-        "file": "benjamin_polished_brass_steel.jpg",
-        "price": "130",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Fidknu Antique",
-        "file": "fidknu_antique.jpg",
-        "price": "110",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-12-10"
       },
       {
         "name": "Fidknu Brass",
         "file": "fidknu_brass.jpg",
         "price": "110",
-        "added": "2017-03-20"
+        "type": "Quad",
+        "added": "2016-12-14"
       },
       {
-        "name": "Fidknu Chrome Plated",
-        "file": "fidknu_chrome_plated.jpg",
-        "price": "110",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Hypno Antique Brass",
-        "file": "hypno_antique_brass.jpg",
-        "price": "90",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Hypno Us Silver Plated",
+        "name": "Hypno US Silver Plated",
         "file": "hypno_us_silver_plated.jpg",
         "price": "85",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Mini Porcupine Antique Brass",
-        "file": "mini_porcupine_antique_brass.jpg",
-        "price": "95",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Porcupine Chrome Plated",
         "file": "mini_porcupine_chrome_plated.jpg",
         "price": "95",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Mini Porcupine Gold Plated",
-        "file": "mini_porcupine_gold_plated.jpg",
-        "price": "95",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-11-15"
       },
       {
         "name": "Porcupine 24k Gold Plated",
         "file": "porcupine_24k_gold_plated.jpg",
         "price": "95",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Porcupine Antique Brass",
-        "file": "porcupine_antique_brass.jpg",
-        "price": "95",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Porcupine Chrome Plated",
-        "file": "porcupine_chrome_plated.jpg",
-        "price": "95",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-10-29"
       },
       {
         "name": "Triage Chrome Plated",
         "file": "triage_chrome_plated.jpg",
         "price": "110",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "The One",
         "file": "the_one.jpg",
         "price": "45",
+        "type": "Bar",
         "added": "2017-05-20"
       }
     ]
@@ -664,63 +910,116 @@
   "fidgethq": {
     "url": "https://fidgethq.com",
     "name": "Fidget HQ",
-    "models": [{
-        "name": "Zenduo",
-        "file": "zenduo.jpg",
-        "price": "35",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Zentri",
-        "file": "zentri.jpg",
-        "price": "45",
-        "added": "2017-03-20"
-      },
+    "models": [
       {
         "name": "Kong 3-in-1",
         "file": "kong.jpg",
         "price": "20",
+        "type": "Cog",
         "added": "2017-04-05"
       },
       {
         "name": "Zentri Nano",
         "file": "zentri_nano.jpg",
         "price": "27",
+        "type": "Tri",
         "added": "2017-06-26"
       },
       {
-        "name": "Kepler Mini Tri",
-        "file": "kepler_mini_tri.jpg",
-        "price": "16",
-        "added": "2017-06-26"
-      },
-      {
-        "name": "Votri",
-        "file": "votri.jpg",
+        "name": "Quasar Tri",
+        "file": "quasar_tri.jpg",
         "price": "22",
-        "added": "2017-06-26"
+        "type": "Tri",
+        "added": "2017-08-05"
       },
       {
-        "name": "Quasar 514",
-        "file": "quasar_514.jpg",
+        "name": "Quasar Solid",
+        "file": "quasar_solid.jpg",
+        "price": "22",
+        "type": "Bar",
+        "added": "2017-08-15"
+      },
+      {
+        "name": "Quasar Tri Solid",
+        "file": "quasar_tri_solid.jpg",
+        "price": "22",
+        "type": "Tri",
+        "added": "2017-09-04"
+      },
+      {
+        "name": "Quasar Halo",
+        "file": "quasar_halo.jpg",
+        "price": "22",
+        "type": "Ring",
+        "added": "2017-08-24"
+      },
+      {
+        "name": "Quasar XL",
+        "file": "quasar_xl.jpg",
+        "price": "22",
+        "type": "Bar",
+        "added": "2017-12-14"
+      },
+      {
+        "name": "Zenduo Evo",
+        "file": "zenduo_evo.jpg",
+        "price": "22",
+        "type": "Bar",
+        "added": "2017-09-11"
+      },
+      {
+        "name": "Proxima",
+        "file": "proxima.jpg",
+        "price": "22",
+        "type": "Tri",
+        "added": "2017-11-14"
+      },
+      {
+        "name": "Zentri Evo",
+        "file": "zentri_evo.jpg",
+        "price": "22",
+        "type": "Tri",
+        "added": "2017-12-08"
+      },
+      {
+        "name": "Proxima Bar",
+        "file": "proxima_bar.jpg",
+        "price": "22",
+        "type": "Bar",
+        "added": "2018-05-30"
+      },
+      {
+        "name": "Proxima Nano",
+        "file": "proxima_nano.jpg",
+        "price": "22",
+        "type": "Tri",
+        "added": "2018-04-16"
+      },
+      {
+        "name": "Puffy Proxima",
+        "file": "puffy_proxima.jpg",
+        "price": "22",
+        "type": "Tri",
+        "added": "2019-02-15"
+      },
+      {
+        "name": "Quasar",
+        "file": "quasar.jpg",
         "price": "35",
+        "type": "Bar",
         "added": "2017-07-23"
       }
     ]
   },
   "fiddy": {
-    "url": "https://www.etsy.com/shop/FidgetSpinner",
+    "url": "https://www.google.com",
     "name": "Fiddy",
-    "models": [{
-        "name": "Metal F",
-        "file": "metal_f.jpg",
-        "price": "30",
-        "added": "2017-03-20"
-      },
+    "models": [
       {
         "name": "Metal H",
         "file": "metal_h.jpg",
         "price": "30",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
@@ -732,18 +1031,14 @@
         "name": "Rotobow",
         "file": "rotobow.jpg",
         "price": "59",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Rotobow Copper",
-        "file": "rotobow_copper.jpg",
-        "price": "69",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-11-12"
       },
       {
         "name": "Rotobow Nano",
         "file": "rotobow_nano.jpg",
         "price": "49",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
@@ -752,15 +1047,10 @@
     "url": "https://www.fidgetry.co.uk",
     "name": "Fidgetry",
     "models": [{
-        "name": "Spinet",
+        "name": "Spinet Pro",
         "file": "spinet.jpg",
         "price": "50",
-        "added": "2017-04-08"
-      },
-      {
-        "name": "Spinet Gold",
-        "file": "spinet_gold.jpg",
-        "price": "80",
+        "type": "Tri",
         "added": "2017-04-08"
       }
     ]
@@ -769,97 +1059,104 @@
     "url": "https://www.kickstarter.com/projects/1444324091/fiftythree-eleven-fidget-spinner",
     "name": "Fiftythree Eleven",
     "models": [{
-        "name": "53/11 Stainless Steel",
-        "file": "53_11_stainless_steel.jpg",
-        "price": "68",
-        "added": "2017-05-28"
-      },
-      {
         "name": "53/11 Brass",
         "file": "53_11_brass.jpg",
         "price": "68",
+        "type": "Cog",
         "added": "2017-06-06"
       }
     ]
   },
   "fingersspinner": {
-    "url": "https://www.etsy.com/shop/Fingersspinner",
+    "url": "https://www.google.com",
     "name": "Fingers Spinner",
     "models": [{
         "name": "The Song Spinner (Rhea)",
         "file": "song_spinner_rhea.jpg",
         "price": "48",
+        "type": "Bar",
         "added": "2017-04-15"
       },
       {
         "name": "The Song Spinner (Kronos)",
         "file": "song_spinner_kronos.jpg",
         "price": "48",
+        "type": "Bar",
         "added": "2017-04-15"
       },
       {
         "name": "The Song Spinner (Hyperion)",
         "file": "song_spinner_hyperion.jpg",
         "price": "48",
+        "type": "Bar",
         "added": "2017-04-15"
       },
       {
         "name": "The Song Spinner (Ocean)",
         "file": "song_spinner_ocean.jpg",
         "price": "48",
+        "type": "Bar",
         "added": "2017-04-15"
       },
       {
         "name": "The Song Spinner (Kay)",
         "file": "song_spinner_kay.jpg",
         "price": "48",
+        "type": "Bar",
         "added": "2017-04-15"
       }
     ]
   },
   "flyawaytoys": {
-    "url": "https://flyawaytoys.com",
+    "url": "https://flyaway-toys.myshopify.com",
     "name": "FlyawayToys",
     "models": [{
         "name": "Builder",
         "file": "builder.jpg",
         "price": "49",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Falcon",
         "file": "falcon.jpg",
         "price": "35",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Maelstrom",
         "file": "maelstrom.jpg",
         "price": "119",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Falcon",
         "file": "mini_falcon.jpg",
         "price": "59",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Maelstrom",
         "file": "mini_maelstrom.jpg",
         "price": "119",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Interceptor 2",
         "file": "interceptor_2.jpg",
         "price": "89",
+        "type": "Bar",
         "added": "2017-04-21"
       },
       {
         "name": "Tsunami",
         "file": "tsunami.jpg",
         "price": "59",
+        "type": "Bar",
         "added": "2017-04-21"
       }
     ]
@@ -871,182 +1168,213 @@
         "name": "Ckf Pepyakka 3",
         "file": "ckf_pepyakka_3.jpg",
         "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ckf Pepyakka Nvk Bl",
-        "file": "ckf_pepyakka_nvk_bl.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ckf Pepyakka Nvk Gld",
-        "file": "ckf_pepyakka_nvk_gld.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ckf Pepyakka Nvk Rzp",
-        "file": "ckf_pepyakka_nvk_rzp.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-03-13"
       },
       {
         "name": "Ckf Pepyakka Nvk Vlt",
         "file": "ckf_pepyakka_nvk_vlt.jpg",
         "price": "-1",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Pepyakka 2",
         "file": "pepyakka_2.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "type": "Tri",
+        "added": "2016-12-03"
+      },
+      {
+        "name": "Pepyakka 1",
+        "file": "pepyakka_1.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2016-10-09"
       },
       {
         "name": "Pepyakka S",
         "file": "pepyakka_s.jpg",
         "price": "425",
-        "added": "2017-06-26"
+        "type": "Tri",
+        "added": "2017-06-06"
+      },
+      {
+        "name": "Pepyakka Z",
+        "file": "pepyakka_z.jpg",
+        "price": "425",
+        "type": "Tri",
+        "added": "2017-08-02"
+      },
+      {
+        "name": "Pepyakka SL",
+        "file": "pepyakka_sl.jpg",
+        "price": "425",
+        "type": "Tri",
+        "added": "2017-11-08"
+      },
+      {
+        "name": "Pepyakka 3K",
+        "file": "pepyakka_3k.jpg",
+        "price": "425",
+        "type": "Tri",
+        "added": "2018-01-11"
       }
     ]
   },
   "fullthrottleoriginals": {
     "url": "https://fullthrottleoriginals.com/",
     "name": "Full Throttle Originals",
-    "models": [{
+    "models": [
+    {
+      "name": "Playstation",
+      "file": "playstation.jpg",
+      "price": "35",
+        "type": "Quad",
+      "added": "2017-04-12"
+    },
+    {
+      "name": "D-Pad",
+      "file": "d-pad.jpg",
+      "price": "35",
+        "type": "Quad",
+      "added": "2017-06-03"
+    },
+    {
       "name": "Asylum",
       "file": "asylum.jpg",
       "price": "35",
+        "type": "Bar",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Asylum Mini",
+      "file": "asylum_mini.jpg",
+      "price": "35",
+        "type": "Bar",
+      "added": "2017-08-15"
+    },
+    {
+      "name": "Asylum Smoothie",
+      "file": "asylum_smoothie.jpg",
+      "price": "35",
+        "type": "Bar",
       "added": "2017-08-15"
     },
     {
       "name": "Asylum Mini Smoothie",
       "file": "asylum_mini_smoothie.jpg",
       "price": "40",
+        "type": "Bar",
       "added": "2017-08-15"
     },
     {
       "name": "Sanitarium",
       "file": "sanitarium.jpg",
       "price": "65",
-      "added": "2017-08-15"
-    }]
+        "type": "Tri",
+      "added": "2017-08-30"
+    },
+    {
+      "name": "Sanitarium Mini",
+      "file": "sanitarium_mini.jpg",
+      "price": "65",
+        "type": "Tri",
+      "added": "2017-08-30"
+    },
+    {
+      "name": "Sanitarium Smoothie",
+      "file": "sanitarium_smoothie.jpg",
+      "price": "65",
+        "type": "Tri",
+      "added": "2017-08-30"
+    },
+    {
+      "name": "Sanitarium Mini Smoothie",
+      "file": "sanitarium_mini_smoothie.jpg",
+      "price": "65",
+        "type": "Tri",
+      "added": "2017-08-30"
+    },
+    {
+      "name": "Sanitarium Mini Skelly",
+      "file": "sanitarium_mini_skelly.jpg",
+      "price": "65",
+        "type": "Tri",
+      "added": "2017-10-15"
+    },
+    {
+      "name": "Asylum Mini Skelly",
+      "file": "asylum_mini_skelly.jpg",
+      "price": "65",
+        "type": "Bar",
+      "added": "2017-10-15"
+    },
+    {
+      "name": "Asylum Skelly",
+      "file": "asylum_skelly.jpg",
+      "price": "65",
+        "type": "Bar",
+      "added": "2017-10-15"
+    },
+    {
+      "name": "Xanax",
+      "file": "xanax.jpg",
+      "price": "65",
+        "type": "Bar",
+      "added": "2019-04-08"
+    }
+  ]
   },
   "hog_doggins": {
     "url": "http://hogdoggins.bigcartel.com/",
     "name": "Hog Doggins",
-    "models": [{
-        "name": "Bastard Ballbuster",
-        "file": "bastard_ballbuster.jpg",
-        "price": "200",
-        "added": "2017-03-20"
+    "models": [
+      {
+        "name": "Bastard",
+        "file": "bastard.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2016-10-12"
       },
       {
-        "name": "Cupro Bastard Ballbuster",
-        "file": "cupro_bastard_ballbuster.jpg",
-        "price": "290",
-        "added": "2017-03-20"
+        "name": "Double Ballbuster",
+        "file": "double.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2016-11-12"
       },
       {
-        "name": "Naval Brass Ballbuster",
-        "file": "naval_brass_ballbuster.jpg",
-        "price": "149",
-        "added": "2017-03-20"
+        "name": "Triple Ballbuster",
+        "file": "triple.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-03-10"
       },
       {
-        "name": "Naval Brass Ballbuster 4",
-        "file": "naval_brass_ballbuster_4.jpg",
-        "price": "169",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Naval Brass Ballbuster 6",
-        "file": "naval_brass_ballbuster_6.jpg",
-        "price": "189",
-        "added": "2017-03-20"
+        "name": "Double Straight Ballbuster",
+        "file": "double_straight.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-22"
       }
     ]
   },
   "intrinsic_spintech": {
-    "url": "http://intrinsicst.bigcartel.com/",
+    "url": "https://www.google.com/",
     "name": "Intrinsic Spintech",
     "models": [{
-        "name": "Big Baby 001",
-        "file": "big_baby_001.jpg",
+        "name": "Big Baby",
+        "file": "big_baby.jpg",
         "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 002",
-        "file": "big_baby_002.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 003",
-        "file": "big_baby_003.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 004",
-        "file": "big_baby_004.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 005",
-        "file": "big_baby_005.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 006",
-        "file": "big_baby_006.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 007",
-        "file": "big_baby_007.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 008",
-        "file": "big_baby_008.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 009",
-        "file": "big_baby_009.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 010",
-        "file": "big_baby_010.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 011",
-        "file": "big_baby_011.jpg",
-        "price": "65",
-        "added": "2017-03-25"
-      },
-      {
-        "name": "Big Baby 012",
-        "file": "big_baby_012.jpg",
-        "price": "65",
+        "type": "Cog",
         "added": "2017-03-25"
       },
       {
         "name": "Ataraxic Gen 1 Aluminum",
         "file": "ataraxic_gen_1.jpg",
         "price": "95",
+        "type": "Bar",
         "added": "2017-03-25"
       }
     ]
@@ -1055,21 +1383,10 @@
     "url": "https://www.jllawsonco.com",
     "name": "J. L. Lawson & Co.",
     "models": [{
-        "name": "Centre Spin Stainless Steel",
-        "file": "centre_spin_stainless_steel.jpg",
-        "price": "145",
-        "added": "2017-05-28"
-      },
-      {
         "name": "Centre Spin Copper",
         "file": "centre_spin_copper.jpg",
         "price": "130",
-        "added": "2017-05-28"
-      },
-      {
-        "name": "Centre Spin Brass",
-        "file": "centre_spin_brass.jpg",
-        "price": "120",
+        "type": "Bar",
         "added": "2017-05-28"
       }
     ]
@@ -1081,51 +1398,73 @@
       "name": "Unnamed",
       "file": "unnamed_01.jpg",
       "price": "-1",
+        "type": "Tri",
       "added": "2017-05-09"
     },
     {
       "name": "Unnamed",
       "file": "unnamed_02.jpg",
       "price": "-1",
+        "type": "Bar",
       "added": "2017-05-09"
     }]
   },
   "jspins": {
-    "url": "https://www.etsy.com/shop/JSPINS",
+    "url": "https://www.google.com",
     "name": "JSPINS",
     "models": [{
       "name": "Stainless Steel Blade",
       "file": "stainless_steel_blade.jpg",
       "price": "67",
+        "type": "Bar",
       "added": "2017-05-05"
     },
     {
       "name": "4 Leaf Brass",
       "file": "4_leaf_brass.jpg",
       "price": "60",
+      "type": "Quad",
       "added": "2017-05-05"
     }]
   },
   "kepler_technology": {
-    "url": "https://spinetic-spinners.com/product-category/metal-spinners/kepler-technology/",
+    "url": "https://www.google.com",
     "name": "Kepler Technology",
-    "models": [{
-        "name": "Dapper Brass",
-        "file": "dapper_brass.jpg",
-        "price": "25",
-        "added": "2017-03-20"
-      },
+    "models": [
       {
-        "name": "Dapper Copper",
+        "name": "Dapper",
         "file": "dapper_copper.jpg",
         "price": "28",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Dapper Stainless Steel",
-        "file": "dapper_stainless_steel.jpg",
+        "name": "Very Dapper",
+        "file": "very_dapper.jpg",
         "price": "30",
+        "type": "Tri",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Kepler XL",
+        "file": "kepler_xl.jpg",
+        "price": "30",
+        "type": "Tri",
+        "added": "2017-06-27"
+      },
+      {
+        "name": "Kepler Mini Tri",
+        "file": "kepler_mini_tri.jpg",
+        "price": "16",
+        "type": "Tri",
+        "added": "2017-06-26"
+      },
+      {
+        "name": "ET",
+        "file": "et.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-06-27"
       }
     ]
   },
@@ -1136,18 +1475,14 @@
         "name": "Celtic Spinner S",
         "file": "celtic_spinner_s.jpg",
         "price": "90",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Scarab Black",
         "file": "scarab_black.jpg",
         "price": "65",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Scarab Rustic Gloss Copper",
-        "file": "scarab_rustic_gloss_copper.jpg",
-        "price": "65",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
@@ -1159,6 +1494,7 @@
         "name": "The Flippin' Spinner",
         "file": "flippin_spinner.jpg",
         "price": "45",
+        "type": "Bar",
         "added": "2017-04-17"
       }
     ]
@@ -1168,70 +1504,46 @@
     "name": "Lingua Machining Solutions, LLC",
     "models": [
       {
-        "name": "Aluminum Cognito",
-        "file": "aluminum.jpg",
-        "price": "55",
-        "added": "2017-03-20"
+        "name": "Copper Cognito Jr",
+        "file": "copper_jr.jpg",
+        "price": "69",
+        "type": "Cog",
+        "added": "2017-04-02"
       },
       {
         "name": "Tellurium Copper Cognito",
         "file": "tellurium_copper.jpg",
         "price": "80",
+        "type": "Cog",
         "added": "2017-03-20"
       },
       {
         "name": "Brass Cognito",
         "file": "brass.jpg",
         "price": "80",
+        "type": "Cog",
         "added": "2017-03-20"
       },
       {
         "name": "Engraved Copper Cognito",
         "file": "engraved_copper.jpg",
         "price": "98",
+        "type": "Cog",
         "added": "2017-03-20"
       },
       {
-        "name": "Titanium Cognito",
-        "file": "titanium.jpg",
-        "price": "130",
-        "added": "2017-03-20"
+        "name": "Xenosu",
+        "file": "xenosu.jpg",
+        "price": "98",
+        "type": "Bar",
+        "added": "2017-07-30"
       },
       {
-        "name": "Stainless Cognito",
-        "file": "stainless.jpg",
-        "price": "130",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Aluminum Cognito Jr",
-        "file": "aluminum_jr.jpg",
-        "price": "29",
-        "added": "2017-04-02"
-      },
-      {
-        "name": "Copper Cognito Jr",
-        "file": "copper_jr.jpg",
-        "price": "69",
-        "added": "2017-04-02"
-      },
-      {
-        "name": "Brass Cognito Jr",
-        "file": "brass_jr.jpg",
-        "price": "59",
-        "added": "2017-04-02"
-      },
-      {
-        "name": "Titanium Cognito Jr",
-        "file": "titanium_jr.jpg",
-        "price": "79",
-        "added": "2017-04-02"
-      },
-      {
-        "name": "Stainless Cognito Jr",
-        "file": "stainless_jr.jpg",
-        "price": "79",
-        "added": "2017-04-02"
+        "name": "Tri Xenosu",
+        "file": "tri_xenosu.jpg",
+        "price": "98",
+        "type": "Tri",
+        "added": "2017-07-30"
       }
     ]
   },
@@ -1242,41 +1554,40 @@
       "name": "Rotr",
       "file": "rotr.jpg",
       "price": "-1",
+        "type": "Tri",
       "added": "2017-03-20"
     }]
   },
   "mechforce": {
-    "url": "https://www.mechforce-usa.com/collections/edc",
+    "url": "https://www.mechforce-usa.com",
     "name": "Mechforce",
     "models": [{
-        "name": "Hurricane Gold",
-        "file": "hurricane_gold.jpg",
-        "price": "130",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Hurricane Graphite Black",
-        "file": "hurricane_graphite_black.jpg",
-        "price": "130",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Hurricane Stonewashed Gray",
+        "name": "Hurricane",
         "file": "hurricane_stonewashed_gray.jpg",
         "price": "120",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-01-06"
       },
       {
-        "name": "Deltacore Stonewashed Gray",
+        "name": "Deltacore",
         "file": "deltacore_stonewashed_gray.jpg",
         "price": "-1",
-        "added": "2017-05-05"
+        "type": "Tri",
+        "added": "2017-05-01"
       },
       {
-        "name": "Deltacore Graphite Black",
-        "file": "deltacore_graphite_black.jpg",
+        "name": "Deltacore Mini Ring",
+        "file": "ring.jpg",
         "price": "-1",
-        "added": "2017-05-05"
+        "type": "Ring",
+        "added": "2017-12-08"
+      },
+      {
+        "name": "Tri-Hurricane",
+        "file": "tri_hurricane.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-01-05"
       }
     ]
   },
@@ -1284,39 +1595,38 @@
     "url": "https://www.medievalspinners.com/",
     "name": "Medieval Spinners",
     "models": [{
-        "name": "Brass FS-8",
-        "file": "brass_fs8.jpg",
-        "price": "39",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Copper FS-8",
-        "file": "copper_fs8.jpg",
-        "price": "39",
-        "added": "2017-03-20"
-      },
-      {
         "name": "FS-9",
         "file": "fs9.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Nuke",
         "file": "nuke.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Matte Black FS-8",
-        "file": "matte_black_fs8.jpg",
-        "price": "39",
-        "added": "2017-06-05"
+        "name": "Tri-Nuke",
+        "file": "tri_nuke.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-26"
+      },
+      {
+        "name": "Fat Boy Nuke",
+        "file": "fat_boy_nuke.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-10"
       },
       {
         "name": "Stainless Steel FS-8",
         "file": "stainless_steel_fs8.jpg",
         "price": "39",
+        "type": "Bar",
         "added": "2017-06-05"
       }
     ]
@@ -1328,23 +1638,26 @@
       "name": "Spinner",
       "file": "spinner.jpg",
       "price": "-1",
+        "type": "Cog",
       "added": "2017-03-20"
     }]
   },
   "nautilushklimited": {
-    "url": "https://nautilushklimited.com/",
+    "url": "https://www.google.com",
     "name": "Nautilus",
     "models": [{
-      "name": "Nautilus Classic S",
+      "name": "Nautilus Classic",
       "file": "nautilus_classic_s.jpg",
       "price": "80",
+        "type": "Bar",
       "added": "2017-08-07"
     },
     {
-      "name": "Nautilus Classic M",
-      "file": "nautilus_classic_m.jpg",
-      "price": "80",
-      "added": "2017-08-07"
+      "name": "Nautilus Nano",
+      "file": "nautilus_nano.jpg",
+      "price": "50",
+        "type": "Bar",
+      "added": "2018-05-18"
     }]
   },
   "neodesign3d": {
@@ -1354,155 +1667,95 @@
         "name": "Bloodborne Whirligig Saw Spinner Toy",
         "file": "bloodborne.jpg",
         "price": "20",
+        "type": "Cog",
         "added": "2017-06-06"
       }
     ]
   },
   "noblespin": {
-    "url": "https://noblespin.com/",
+    "url": "https://www.google.com/",
     "name": "NobleSpin",
     "models": [{
         "name": "Ash Nebulous",
         "file": "ash_nebulous.jpg",
         "price": "69",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Black Pearl Vantage",
-        "file": "black_pearl_vantage.jpg",
-        "price": "99",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Black Pearl Virtu",
-        "file": "black_pearl_virtu.jpg",
-        "price": "79",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Bronze Vantage",
-        "file": "bronze_vantage.jpg",
-        "price": "69",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Ember Nebulous",
         "file": "ember_nebulous.jpg",
         "price": "69",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Golden Stainless Vantage",
         "file": "golden_stainless_vantage.jpg",
         "price": "99",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Golden Vantage",
-        "file": "golden_vantage.jpg",
-        "price": "99",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Golden Virtu",
-        "file": "golden_virtu.jpg",
-        "price": "79",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Rainbow Vantage",
-        "file": "rainbow_vantage.jpg",
-        "price": "99",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Rainbow Virtu",
-        "file": "rainbow_virtu.jpg",
-        "price": "79",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Stainless Golden Virtu",
-        "file": "stainless_golden_virtu.jpg",
-        "price": "79",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Stainless Virtu",
         "file": "stainless_virtu.jpg",
         "price": "79",
+        "type": "Bar",
         "added": "2017-03-20"
-      },
-      {
-        "name": "Stonewash Black Virtu",
-        "file": "stonewash_black_virtu.jpg",
-        "price": "79",
-        "added": "2017-04-08"
       },
       {
         "name": "Stratus",
         "file": "stratus.jpg",
         "price": "29",
+        "type": "Bar",
         "added": "2017-04-08"
       }
     ]
   },
   "nto_designs": {
-    "url": "http://www.ntodesignsinc.com/product/ternion-revspin-edc/",
+    "url": "https://www.google.com/",
     "name": "NTO Designs",
     "models": [{
-        "name": "Brass Ternion",
-        "file": "brass_ternion.jpg",
-        "price": "130",
-        "added": "2017-03-20"
+        "name": "Tactical RevSpin",
+        "file": "tactical_revspin.jpg",
+        "price": "180",
+        "type": "Bar",
+        "added": "2016-10-17"
       },
       {
-        "name": "Copper Ternion",
-        "file": "copper_ternion.jpg",
-        "price": "140",
-        "added": "2017-03-20"
+        "name": "Ternion",
+        "file": "brass_ternion.jpg",
+        "price": "130",
+        "type": "Tri",
+        "added": "2016-11-03"
       },
       {
         "name": "Lil Brass Dog",
         "file": "lil_brass_dog.jpg",
         "price": "60",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-11-09"
       },
       {
-        "name": "Rebar [Cuzn] RevSpin",
+        "name": "Ternion with Inserts",
+        "file": "ternion_inserts.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2016-12-28"
+      },
+      {
+        "name": "Rebar",
         "file": "rebar_cuzn_revspin.jpg",
         "price": "100",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-01-19"
       },
       {
-        "name": "Rebar [Cuzn] RevSpin [SS] Edition",
-        "file": "rebar_cuzn_revspin_ss_edition.jpg",
-        "price": "110",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tactical RevSpin",
-        "file": "tactical_revspin.jpg",
-        "price": "180",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ternion RevSpin",
-        "file": "ternion_revspin.jpg",
-        "price": "60",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ternion Soft Touch Colors",
-        "file": "ternion_soft_touch_colors.jpg",
-        "price": "55",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ternion Soft Touch Faceoff",
-        "file": "ternion_soft_touch_faceoff.jpg",
-        "price": "79",
-        "added": "2017-03-20"
+        "name": "Syde Winder",
+        "file": "syde_winder.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-08-23"
       }
     ]
   },
@@ -1513,6 +1766,7 @@
       "name": "Spinget",
       "file": "spinget.jpg",
       "price": "75",
+        "type": "Bar",
       "added": "2017-05-18"
     }]
   },
@@ -1520,44 +1774,29 @@
     "url": "https://www.facebook.com/groups/965322010278723",
     "name": "OD Spinner",
     "models": [{
-        "name": "Black OD",
-        "file": "black_od.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
         "name": "Navy OD",
         "file": "navy_od.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
   },
   "orecrafts": {
-    "url": "https://orecrafts.com/",
+    "url": "https://www.google.com/",
     "name": "Ore Crafts",
     "models": [{
-        "name": "Hexagon Standart Black",
-        "file": "hexagon_standart_black.jpg",
-        "price": "32",
-        "added": "2017-04-17"
-      },
-      {
         "name": "Hexagon Elegance",
         "file": "hexagon_elegance.jpg",
         "price": "32",
-        "added": "2017-04-17"
-      },
-      {
-        "name": "Apex Standart Black",
-        "file": "apex_standart_black.jpg",
-        "price": "32",
+        "type": "Tri",
         "added": "2017-04-17"
       },
       {
         "name": "Apex Elegance",
         "file": "apex_elegance.jpg",
         "price": "32",
+        "type": "Tri",
         "added": "2017-04-17"
       }
     ]
@@ -1569,6 +1808,7 @@
         "name": "Trillium",
         "file": "trillium.jpg",
         "price": "-1",
+        "type": "Tri",
         "added": "2017-04-16"
       }
     ]
@@ -1580,101 +1820,252 @@
       "name": "Brass Deputy",
       "file": "brass_deputy.jpg",
       "price": "-1",
+        "type": "Cog",
       "added": "2017-04-26"
     },
     {
       "name": "Brass Spur",
       "file": "brass_spur.jpg",
       "price": "-1",
+        "type": "Cog",
       "added": "2017-04-26"
     },
     {
       "name": "Stainless Steel Sheriff",
       "file": "stainless_steel_sheriff.jpg",
       "price": "-1",
+        "type": "Cog",
       "added": "2017-04-26"
     }]
   },
   "pose_blades": {
     "url": "http://poseblades.bigcartel.com/",
     "name": "Pose Blades",
-    "models": [{
-      "name": "Tri Cocoon Stainless Steel",
+    "models": [
+    {
+      "name": "Cocoon",
       "file": "tri_cocoon_stainless_steel.jpg",
-      "price": "150",
+      "price": "-1",
+        "type": "Tri",
       "added": "2017-08-15"
     },
     {
-      "name": "Tri Cocoon Bronze",
-      "file": "tri_cocoon_bronze.jpg",
-      "price": "165",
-      "added": "2017-08-15"
-    }]
+      "name": "Bi Cocoon",
+      "file": "bi_cocoon.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-11-22"
+    },
+    {
+      "name": "Cocoon Ring",
+      "file": "cocoon_rs.jpg",
+      "price": "-1",
+        "type": "Ring",
+      "added": "2018-11-13"
+    },
+    {
+      "name": "Monarch (with AlumaFX)",
+      "file": "monarch.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2019-05-14"
+    }
+   ]
   },
   "pozdnyakoff": {
     "url": "https://www.instagram.com/pozdnyakoff/",
-    "name": "pozdnyakoff",
+    "name": "Pozdnyakoff",
     "models": [{
-        "name": "Corsair",
-        "file": "corsair.jpg",
+        "name": "Spinner V2",
+        "file": "spinner_v2.jpg",
         "price": "-1",
-        "added": "2017-04-15"
+        "type": "Bar",
+        "added": "2016-10-11"
       },
       {
-        "name": "Unnamed 1",
-        "file": "unnamed_1.jpg",
+        "name": "Ridge",
+        "file": "ridge.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-11-21"
       },
       {
-        "name": "Unnamed 2",
-        "file": "unnamed_2.jpg",
+        "name": "Wave",
+        "file": "wave.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-12-20"
       },
       {
         "name": "Maze",
         "file": "maze.jpg",
         "price": "-1",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-01-20"
+      },
+      {
+        "name": "Corsair",
+        "file": "corsair.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-22"
+      },
+      {
+        "name": "Bee",
+        "file": "bee.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-01"
+      },
+      {
+        "name": "Tri Wave",
+        "file": "tri_wave.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-26"
+      },
+      {
+        "name": "MazeX",
+        "file": "mazex.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-11-01"
+      },
+      {
+        "name": "Wild",
+        "file": "wild.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-01-13"
+      },
+      {
+        "name": "Drop",
+        "file": "drop.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-03-25"
+      },
+      {
+        "name": "Solar",
+        "file": "solar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-07-04"
+      },
+      {
+        "name": "Atom",
+        "file": "atom.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-10-13"
+      },
+      {
+        "name": "VRTX",
+        "file": "vrtx.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-03-14"
+      },
+      {
+        "name": "Maze Spincoin",
+        "file": "maze_spincoin.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2019-06-26"
+      },
+      {
+        "name": "Origin",
+        "file": "origin.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-10-10"
       }
     ]
   },
   "premium_spinners": {
-    "url": "https://premiumspinners.com/",
+    "url": "https://www.google.com/",
     "name": "Premium Spinners",
-    "models": [{
-      "name": "LoopHole Spinner - Stainless T-8 Knurl Free",
-      "file": "loophole_spinner_stainless_t8_knurl_free.jpg",
+    "models": [
+    {
+      "name": "LoopHole T-0",
+      "file": "t-0.jpg",
       "price": "54",
-      "added": "2017-08-15"
+        "type": "Ring",
+      "added": "2017-08-10"
     },
     {
-      "name": "LoopHole Spinner - Copper T-4x8 Female Knurl",
+      "name": "LoopHole T-4",
       "file": "loophole_spinner_copper_t48.jpg",
       "price": "56",
-      "added": "2017-08-15"
+        "type": "Ring",
+      "added": "2017-08-14"
     },
     {
-      "name": "Stainless Steel LoopHole Spinner",
-      "file": "stainless_steel_loophole.jpg",
-      "price": "54",
-      "added": "2017-08-15"
-    },
-    {
-      "name": "Brass LoopHole Spinner",
+      "name": "LoopHole T-4",
       "file": "brass_loophole.jpg",
       "price": "54",
+        "type": "Ring",
+      "added": "2017-08-14"
+    },
+    {
+      "name": "LoopHole T-5",
+      "file": "t-5.jpg",
+      "price": "54",
+        "type": "Ring",
       "added": "2017-08-15"
-    }]
+    },
+    {
+      "name": "LoopHole T-6",
+      "file": "t-6.jpg",
+      "price": "54",
+        "type": "Ring",
+      "added": "2017-08-16"
+    },
+    {
+      "name": "LoopHole T-8",
+      "file": "loophole_spinner_stainless_t8_knurl_free.jpg",
+      "price": "54",
+        "type": "Ring",
+      "added": "2017-08-18"
+    },
+    {
+      "name": "LoopHole T-20",
+      "file": "t-20a.jpg",
+      "price": "54",
+        "type": "Ring",
+      "added": "2017-08-30"
+    },
+    {
+      "name": "LoopHole T-20",
+      "file": "t-20b.jpg",
+      "price": "54",
+        "type": "Ring",
+      "added": "2017-08-30"
+    },
+    {
+      "name": "Dot 2",
+      "file": "dot2.jpg",
+      "price": "54",
+        "type": "Bar",
+      "added": "2018-02-15"
+    },
+    {
+      "name": "Dot 3",
+      "file": "dot3.jpg",
+      "price": "54",
+        "type": "Tri",
+      "added": "2018-04-25"
+    }
+   ]
   },
   "radiusmethod": {
-    "url": "https://radiusmethod.com/",
+    "url": "https://www.google.com/",
     "name": "Radius Method",
     "models": [{
         "name": "Split-Brain Double",
         "file": "split_brain_double.jpg",
         "price": "200",
+        "type": "Bar",
         "added": "2017-04-16"
       }
     ]
@@ -1686,6 +2077,7 @@
       "name": "S01 Remedy",
       "file": "s01_remedy.jpg",
       "price": "50",
+        "type": "Tri",
       "added": "2017-05-09"
     }]
   },
@@ -1693,22 +2085,25 @@
     "url": "http://randomfabrications.bigcartel.com",
     "name": "Random Fabrications",
     "models": [{
-        "name": "Portal Brass",
+        "name": "Portal",
         "file": "portal_brass.jpg",
         "price": "115",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Portal SS",
-        "file": "portal_ss.jpg",
+        "name": "Tri Portal",
+        "file": "tri_portal.jpg",
         "price": "115",
-        "added": "2017-03-20"
+        "type": "Tri",
+        "added": "2017-10-16"
       },
       {
-        "name": "Portal Ti",
-        "file": "portal_ti.jpg",
-        "price": "140",
-        "added": "2017-03-20"
+        "name": "Mini Thicc",
+        "file": "mini_thicc.jpg",
+        "price": "115",
+        "type": "Bar",
+        "added": "2018-12-17"
       }
     ]
   },
@@ -1716,138 +2111,138 @@
     "url": "http://rpmcorp.bigcartel.com/",
     "name": "Rapid Prototyping Machining Swag Shop",
     "models": [{
-        "name": "Aluminum 'Bronze Camo' Double F",
-        "file": "aluminum_bronze_camo_double_f.jpg",
-        "price": "75",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Aluminum 'Blood Bath' Double F",
-        "file": "aluminum_blood_bath_double_f.jpg",
-        "price": "75",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Aluminum 'Galaxy Bath' Double F",
-        "file": "aluminum_galaxy_double_f.jpg",
-        "price": "80",
-        "added": "2017-03-20"
-      },
-      {
         "name": "Aluminum 'Matte Black' Double F",
         "file": "aluminum_matte_black_double_f.jpg",
         "price": "70",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Aluminum Double F",
-        "file": "aluminum_double_f.jpg",
-        "price": "55",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Aluminum 'Quad Color' Double F",
-        "file": "aluminum_quad_color_double_f.jpg",
-        "price": "80",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Aluminum 'Galaxy Color' Triple F",
-        "file": "aluminum_galaxy_triple_f.jpg",
-        "price": "95",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Aluminum Triple F",
         "file": "aluminum_triple_f.jpg",
         "price": "75",
-        "added": "2017-03-20"
+        "type": "Tri",
+        "added": "2016-11-30"
       }
     ]
   },
   "real_gear_spinners": {
-    "url": "http://www.realgearspinners.com/",
+    "url": "http://www.google.com/",
     "name": "Real Gear Spinners",
     "models": [{
         "name": "3 Gear",
         "file": "3_gear.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "9 Gear",
         "file": "9_gear.jpg",
         "price": "-1",
+        "type": "Quad",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Gear",
         "file": "mini_gear.jpg",
         "price": "-1",
+        "type": "Cog",
         "added": "2017-03-20"
       }
     ]
   },
   "real_orbit": {
-    "url": "https://realorbit.com.au/",
+    "url": "https://www.google.com/",
     "name": "RealOrbit",
-    "models": [{
+    "models": [
+    {
       "name": "Inertia",
       "file": "inertia.jpg",
       "price": "100",
+        "type": "Tri",
       "added": "2018-03-26"
+    },
+    {
+      "name": "Gemstone",
+      "file": "gemstone.jpg",
+      "price": "100",
+        "type": "Bar",
+      "added": "2018-06-06"
+    },
+    {
+      "name": "PressureBar",
+      "file": "pressure_bar.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2018-06-16"
+    },
+    {
+      "name": "PressureTri",
+      "file": "pressure_tri.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2019-04-19"
     }]
   },
   "reaper_machining": {
     "url": "http://reapermachining.bigcartel.com/",
     "name": "Reaper Machining",
     "models": [{
-        "name": "Bipolar Mini Brass",
-        "file": "bipolar_mini_brass.jpg",
-        "price": "65",
-        "added": "2017-03-20"
-      },
-      {
         "name": "Brass 3way",
         "file": "brass_3way.jpg",
         "price": "105",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Brass Bipolar",
-        "file": "brass_bipolar.jpg",
-        "price": "95",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Copper 3way",
-        "file": "copper_3way.jpg",
-        "price": "115",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Copper Bipolar",
-        "file": "copper_bipolar.jpg",
-        "price": "100",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Brass 3way",
         "file": "mini_brass_3way.jpg",
         "price": "70",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
-        "name": "Mini Copper 3way",
-        "file": "mini_copper_3way.jpg",
-        "price": "75",
+        "name": "Copper Bipolar",
+        "file": "copper_bipolar.jpg",
+        "price": "100",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Copper Bipolar",
         "file": "mini_copper_bipolar.jpg",
         "price": "70",
+        "type": "Bar",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Doomsday",
+        "file": "doomsday.jpg",
+        "price": "70",
+        "type": "Bar",
+        "added": "2017-07-15"
+      },
+      {
+        "name": "Tri Doomsday",
+        "file": "tri_doomsday.jpg",
+        "price": "70",
+        "type": "Tri",
+        "added": "2018-03-15"
+      },
+      {
+        "name": "Doomsday Mini",
+        "file": "doomsday_mini.jpg",
+        "price": "70",
+        "type": "Bar",
+        "added": "2019-01-26"
+      },
+      {
+        "name": "XL Doomsday",
+        "file": "xl_doomsday.jpg",
+        "price": "70",
+        "type": "Bar",
+        "added": "2019-01-26"
       }
     ]
   },
@@ -1858,42 +2253,48 @@
         "name": "Alpha",
         "file": "alpha.jpg",
         "price": "200",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-10-08"
       },
       {
         "name": "Bathgate Artifact",
         "file": "bathgate_artifact.jpg",
         "price": "700",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
   },
   "revpunx": {
-    "url": "https://www.revpunx.com/",
+    "url": "https://www.google.com/",
     "name": "RevPunx",
     "models": [{
-      "name": "Royal Punk Stainless Steel",
-      "file": "royal_punk_stainless_steel.jpg",
-      "price": "37",
-      "added": "2017-08-15"
-    },
-    {
       "name": "Royal Punk Brass",
       "file": "royal_punk_brass.jpg",
-      "price": "35",
-      "added": "2017-08-15"
+      "price": "-1",
+        "type": "Tri",
+      "added": "2017-05-29"
     },
     {
-      "name": "Royal Punk Titanium",
-      "file": "royal_punk_titanium.jpg",
-      "price": "60",
-      "added": "2017-08-15"
+      "name": "Lucky Punk",
+      "file": "lucky_punk.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-10-11"
     },
     {
-      "name": "Royal Punk Electroplated",
-      "file": "royal_punk_electroplated.jpg",
-      "price": "40",
-      "added": "2017-08-15"
+      "name": "Mini Royal",
+      "file": "mini_royal.jpg",
+      "price": "-1",
+        "type": "Tri",
+      "added": "2018-04-26"
+    },
+    {
+      "name": "Renegade",
+      "file": "renegade.jpg",
+      "price": "-1",
+        "type": "Quad",
+      "added": "2018-11-22"
     }]
   },
   "robjacks_knife_and_tool": {
@@ -1901,14 +2302,9 @@
     "name": "RobJacksKnifeandTool",
     "models": [{
         "name": "Brass EDC",
-        "file": "brass_edc_1.jpg",
-        "price": "-1",
-        "added": "2017-05-23"
-      },
-      {
-        "name": "Brass EDC",
         "file": "brass_edc_2.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-05-23"
       }
     ]
@@ -1916,104 +2312,66 @@
   "rotablade": {
     "url": "https://www.rotablade.com/",
     "name": "Rotablade",
-    "models": [{
-        "name": "Stubby Titanium",
-        "file": "stubby_titanium.jpg",
-        "price": "142",
-        "added": "2017-03-20"
-      },
+    "models": [
       {
-        "name": "Stubby Stainless Steel",
+        "name": "Stubby",
         "file": "stubby_stainless_steel.jpg",
         "price": "117",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-09-12"
       },
       {
-        "name": "Stubby Brass",
-        "file": "stubby_brass.jpg",
-        "price": "117",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Stubby Copper",
-        "file": "stubby_copper.jpg",
-        "price": "117",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Pendulum MK2",
-        "file": "pendulum_mk2.jpg",
-        "price": "166",
-        "added": "2017-03-20"
+        "name": "Meteorite Stubby",
+        "file": "stubby_meteorite.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-11-02"
       },
       {
         "name": "Tritium Stubby",
         "file": "tritium_stubby.jpg",
         "price": "241",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Tri-Stubby Stainless Steel",
+        "name": "Stubby Nano",
+        "file": "stubby_nano.jpg",
+        "price": "241",
+        "type": "Bar",
+        "added": "2018-03-08"
+      },
+      {
+        "name": "Tri Nano",
+        "file": "tri_nano.jpg",
+        "price": "241",
+        "type": "Tri",
+        "added": "2019-08-04"
+      },
+      {
+        "name": "Nano Disk",
+        "file": "nano_disk.jpg",
+        "price": "241",
+        "type": "Cog",
+        "added": "2019-11-20"
+      },
+      {
+        "name": "Tri-Stubby",
         "file": "tri_stubby_stainless_steel.jpg",
         "price": "136",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri-Stubby Titanium",
-        "file": "tri_stubby_titanium.jpg",
-        "price": "148",
-        "added": "2017-03-20"
-      }
-    ]
-  },
-  "scullspinner": {
-    "url": "https://www.instagram.com/arkadiylukashenko/",
-    "name": "ScullSpinner",
-    "models": [{
-        "name": "Scull Spinner",
-        "file": "celtic_button.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Scull Spinner",
-        "file": "scull_spinner.jpg",
-        "price": "-1",
+        "type": "Tri",
         "added": "2017-03-20"
       }
     ]
   },
   "spaded_designs": {
-    "url": "https://spaded.org/",
+    "url": "https://www.google.com/",
     "name": "Spaded Designs",
     "models": [{
         "name": "Brass Blackjack",
         "file": "brass_blackjack.jpg",
         "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Bronze Blackjack",
-        "file": "bronze_blackjack.jpg",
-        "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Copper Blackjack",
-        "file": "copper_blackjack.jpg",
-        "price": "120",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Stainless Blackjack",
-        "file": "stainless_blackjack.jpg",
-        "price": "150",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Titanium Blackjack",
-        "file": "titanium_blackjack.jpg",
-        "price": "190",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
@@ -2025,54 +2383,153 @@
         "name": "Stator",
         "file": "stator.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Tri Stator",
         "file": "tri_stator.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       }
     ]
   },
   "spinetic_spinners": {
-    "url": "https://spinetic-spinners.com/product-category/metal-spinners/spinetic-spinners-designs/",
+    "url": "https://spinetic-spinners.com/",
     "name": "Spinetic Spinners",
     "models": [{
         "name": "X Brass",
         "file": "x_brass.jpg",
         "price": "35",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "X Copper",
-        "file": "x_copper.jpg",
-        "price": "37",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "X Stainless Steel",
-        "file": "x_stainless_steel.jpg",
-        "price": "40",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Y Brass",
-        "file": "y_brass.jpg",
-        "price": "35",
+        "type": "Quad",
         "added": "2017-03-20"
       },
       {
         "name": "Y Copper",
         "file": "y_copper.jpg",
         "price": "37",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
-        "name": "Y Stainless Steel",
-        "file": "y_stainless_steel.jpg",
+        "name": "I Stainless Steel",
+        "file": "i_stainless_steel.jpg",
         "price": "40",
+        "type": "Bar",
         "added": "2017-03-20"
+      },
+      {
+        "name": "Pi",
+        "file": "pi.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2017-03-30"
+      },
+      {
+        "name": "X Micro",
+        "file": "x_micro.jpg",
+        "price": "40",
+        "type": "Quad",
+        "added": "2017-07-14"
+      },
+      {
+        "name": "Y Micro",
+        "file": "y_micro.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2017-07-14"
+      },
+      {
+        "name": "DNA X",
+        "file": "dna_x.jpg",
+        "price": "40",
+        "type": "Quad",
+        "added": "2017-09-20"
+      },
+      {
+        "name": "DNA Y",
+        "file": "dna_y.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2017-09-20"
+      },
+      {
+        "name": "DNA I",
+        "file": "dna_i.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2017-09-20"
+      },
+      {
+        "name": "DNA Nucleus",
+        "file": "dna_nucleus.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2017-09-25"
+      },
+      {
+        "name": "Genome",
+        "file": "genome.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2018-01-10"
+      },
+      {
+        "name": "Proton (with FidgetHQ)",
+        "file": "proton.jpg",
+        "price": "40",
+        "type": "Quad",
+        "added": "2018-02-13"
+      },
+      {
+        "name": "Cutbar",
+        "file": "cutbar.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2018-02-20"
+      },
+      {
+        "name": "Cuttri",
+        "file": "cuttri.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2018-02-20"
+      },
+      {
+        "name": "DNA Splice",
+        "file": "dna_splice.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2018-03-05"
+      },
+      {
+        "name": "Biton S Mini",
+        "file": "biton_s_mini.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2018-05-01"
+      },
+      {
+        "name": "Slotbar",
+        "file": "slotbar.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2018-05-02"
+      },
+      {
+        "name": "AngleBar",
+        "file": "angle_bar.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2019-05-30"
+      },
+      {
+        "name": "AngleTri",
+        "file": "angle_tri.jpg",
+        "price": "40",
+        "type": "Tri",
+        "added": "2019-05-31"
       }
     ]
   },
@@ -2083,197 +2540,215 @@
         "name": "Berserk",
         "file": "berserk.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Phenom",
         "file": "phenom.jpg",
         "price": "-1",
+        "type": "Quad",
         "added": "2017-03-20"
       }
     ]
   },
   "spinner_vietnam": {
-    "url": "https://spinner.vn",
+    "url": "https://www.google.com/",
     "name": "Spinner Vietnam",
     "models": [{
-        "name": "Stainless Steel Hyperstone Lite MPF",
-        "file": "stainless_steel_hyperstone_lite_mpf.jpg",
-        "price": "96",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Brass Hyperstone Lite MPF",
-        "file": "brass_hyperstone_lite_mpf.jpg",
-        "price": "79",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Stainless Steel Hyperstone MF",
-        "file": "stainless_steel_hyperstone_mf.jpg",
-        "price": "96",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Brass Hyperstone Lite MF",
+        "name": "Hyperstone Lite MF",
         "file": "brass_hyperstone_lite_mf.jpg",
         "price": "79",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Stainless Steel Hyperstone Lite MF",
-        "file": "stainless_steel_hyperstone_lite_mf.jpg",
-        "price": "96",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Stainless Steel Hyperstone Lite MF Heating Treatment",
-        "file": "stainless_steel_hyperstone_lite_mf_heating_treatment.jpg",
-        "price": "96",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Copper Hyperstone Lite MF",
-        "file": "copper_hyperstone_lite_mf.jpg",
-        "price": "88",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Brass Hyperstone MPF Vintage Limited Edition",
+        "name": "Hyperstone MPF",
         "file": "brass_hyperstone_mpf_vintage_limited_edition.jpg",
         "price": "79",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Brass Hyperstone MPF",
-        "file": "brass_hyperstone_mpf.jpg",
-        "price": "79",
-        "added": "2017-03-20"
+        "name": "Crystalis",
+        "file": "crystalis.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-10-23"
       }
     ]
   },
   "spinnerd": {
-    "url": "https://spinnerd.com/",
+    "url": "https://www.google.com/",
     "name": "Spin Nerd",
     "models": [{
       "name": "Arachnophobia",
       "file": "arachnophobia.jpg",
       "price": "65",
+        "type": "Tri",
       "added": "2017-12-03"
     }]
   },
   "spin_pro_designs": {
-    "url": "https://www.etsy.com/shop/SpinProDesigns",
+    "url": "https://www.google.com/",
     "name": "SpinProDesigns",
-    "models": [{
-      "name": "Two-Tone Odobo",
+    "models": [
+    {
+      "name": "Odobo",
       "file": "two_tone_odobo.jpg",
       "price": "45",
+        "type": "Bar",
       "added": "2017-06-05"
     },
     {
       "name": "Nanobo",
       "file": "nanobo.jpg",
       "price": "64",
+        "type": "Bar",
       "added": "2017-06-05"
     },
     {
       "name": "Odobo Limited Edition",
       "file": "mt_odobo.jpg",
       "price": "55",
+        "type": "Bar",
       "added": "2017-06-05"
-    }]
+    }
+   ]
   },
   "spintoyco": {
     "url": "https://www.etsy.com/ca/shop/SpinToyCo",
     "name": "SpinToyCo",
-    "models": [{
+    "models": [
+      {
       "name": "Typhoon",
       "file": "typhoon.jpg",
       "price": "-1",
-      "added": "2017-03-20"
-    }]
+        "type": "Bar",
+      "added": "2017-03-19"
+      },
+      {
+        "name": "T2",
+        "file": "t2.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-20"
+      }
+    ]
   },
   "shenzhen_starss_technology": {
-    "url": "http://starsstech.com/",
+    "url": "http://www.google.com/",
     "name": "Shenzhen Starss Technology",
     "models": [{
         "name": "Dual Gunmetal",
         "file": "dual_gunmetal.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
-        "name": "Dual Silver",
-        "file": "dual_silver.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
+        "name": "Votri",
+        "file": "votri.jpg",
+        "price": "22",
+        "type": "Tri",
+        "added": "2017-06-26"
       },
       {
-        "name": "Tri Black Rainbow",
-        "file": "tri_black_rainbow.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Black SS v2",
-        "file": "tri_black_ss_v2.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Black SS",
-        "file": "tri_black_ss.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Blue SS",
-        "file": "tri_blue_ss.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Gold SS v2",
-        "file": "tri_gold_ss_v2.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Gold SS",
-        "file": "tri_gold_ss.jpg",
-        "price": "-1",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Red SS v2",
+        "name": "Tri SS v2",
         "file": "tri_red_ss_v2.jpg",
         "price": "-1",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
-        "name": "Tri Red SS",
-        "file": "tri_red_ss.jpg",
+        "name": "Tri SS",
+        "file": "tri_blue_ss.jpg",
         "price": "-1",
+        "type": "Tri",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Teardrop",
+        "file": "teardrop.jpg",
+        "price": "-1",
+        "type": "Tri",
         "added": "2017-03-20"
       }
     ]
   },
   "stealthspinners": {
-    "url": "https://stealthspinners.com/",
+    "url": "https://www.google.com/",
     "name": "Stealth Spinners",
     "models": [
       {
         "name": "Aventador",
         "file": "aventador.jpg",
         "price": "55",
+        "type": "Tri",
         "added": "2017-04-08"
       },
       {
-        "name": "B2 Bomber",
+        "name": "B2",
         "file": "b2.jpg",
         "price": "50",
+        "type": "Bar",
         "added": "2017-04-08"
+      },
+      {
+        "name": "Mini Aventador",
+        "file": "mini_aventador.jpg",
+        "price": "50",
+        "type": "Tri",
+        "added": "2017-04-09"
+      },
+      {
+        "name": "Sonar",
+        "file": "sonar.jpg",
+        "price": "50",
+        "type": "Bar",
+        "added": "2017-05-10"
+      },
+      {
+        "name": "Think Tank",
+        "file": "think_tank.jpg",
+        "price": "50",
+        "type": "Bar",
+        "added": "2017-06-15"
+      },
+      {
+        "name": "Sentinel",
+        "file": "sentinel.jpg",
+        "price": "50",
+        "type": "Bar",
+        "added": "2017-07-20"
+      },
+      {
+        "name": "The Chunk",
+        "file": "the_chunk.jpg",
+        "price": "50",
+        "type": "Bar",
+        "added": "2017-09-20"
+      },
+      {
+        "name": "Spyder",
+        "file": "spyder.jpg",
+        "price": "50",
+        "type": "Bar",
+        "added": "2017-10-15"
+      },
+      {
+        "name": "Triachnid",
+        "file": "triachnid.jpg",
+        "price": "50",
+        "type": "Tri",
+        "added": "2017-10-15"
+      },
+      {
+        "name": "Micro Max",
+        "file": "micro_max.jpg",
+        "price": "50",
+        "type": "Quad",
+        "added": "2017-11-20"
       }
     ]
   },
@@ -2281,129 +2756,207 @@
     "url": "http://steampunkspinners.com/",
     "name": "Steampunk Spinners",
     "models": [{
-        "name": "Cthulhu",
-        "file": "cthulhu.jpg",
-        "price": "79",
+        "name": "Rocchetto",
+        "file": "rocchetto.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-01-18"
+      },
+      {
+        "name": "Tempest",
+        "file": "tempest.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2017-01-19"
+      },
+      {
+        "name": "Devil's Spade",
+        "file": "devils_spade.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-01-23"
+      },
+      {
+        "name": "Phat Boy",
+        "file": "phat_boy.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-01-26"
+      },
+      {
+        "name": "Pudge",
+        "file": "pudge.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-02-28"
+      },
+      {
+        "name": "Sharkfin",
+        "file": "sharkfin.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2017-03-14"
+      },
+      {
+        "name": "Servo",
+        "file": "servo.jpg",
+        "price": "-1",
+        "type": "Bar",
         "added": "2017-04-16"
       },
       {
-        "name": "PHAT BOY Copper",
-        "file": "phat_boy_copper.jpg",
-        "price": "175",
-        "added": "2017-04-16"
+        "name": "Punisher",
+        "file": "punisher.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-03"
       },
       {
-        "name": "Damasteel PHAT BOY Nano",
-        "file": "damasteel_phat_boy_nano.jpg",
-        "price": "175",
-        "added": "2017-04-26"
+        "name": "Idler",
+        "file": "idler.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-10"
+      },
+      {
+        "name": "Minion",
+        "file": "minion.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-18"
+      },
+      {
+        "name": "Knob",
+        "file": "knob.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-09-13"
+      },
+      {
+        "name": "Stout",
+        "file": "stout.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-01-25"
       }
     ]
   },
   "stoneworks": {
-    "url": "https://stoneworksspinners.com",
+    "url": "https://www.google.com",
     "name": "StoneWorks Spinners",
     "models": [{
         "name": "Labradorite",
         "file": "labradorite.jpg",
         "price": "175",
+        "type": "Tri",
         "added": "2017-06-26"
       },
       {
         "name": "Crazy Lace Agate",
         "file": "crazy_lace_agate.jpg",
         "price": "85",
+        "type": "Bar",
         "added": "2017-06-26"
       },
       {
         "name": "Petrified Wood",
         "file": "petrified_wood.jpg",
         "price": "125",
+        "type": "Bar",
         "added": "2017-06-26"
       }
     ]
   },
   "syner_edc": {
-    "url": "https://syneredc.com/",
+    "url": "https://www.google.com/",
     "name": "Syner EDC",
     "models": [{
         "name": "Black Anodized Aluminum",
         "file": "black_anodized_aluminum.jpg",
         "price": "32",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Simple Tumbled Aluminum",
-        "file": "simple_tumbled_aluminum.jpg",
-        "price": "30",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Triple Mini Brass",
         "file": "triple_mini.jpg",
         "price": "40",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Triple Threat",
         "file": "triple_threat.jpg",
         "price": "45",
+        "type": "Tri",
         "added": "2017-03-20"
       }
     ]
   },
-  "tec_accessories": {
-    "url": "https://www.tecaccessories.com/products/orbiter",
-    "name": "TEC Accessories",
-    "models": [{
-      "name": "Orbiter",
-      "file": "orbiter.jpg",
-      "price": "65",
-      "added": "2017-03-20"
-    }]
-  },
   "the_awe_factor": {
     "url": "https://www.facebook.com/groups/590631454332330",
     "name": "THE AWE FACTOR",
-    "models": [{
-      "name": "Spinnicky",
-      "file": "spinnicky.jpg",
-      "price": "-1",
-      "added": "2017-03-20"
-    }]
-  },
-  "the_last_room_standing": {
-    "url": "http://www.lastroomstanding.com/",
-    "name": "The Last Room Standing",
-    "models": [{
-        "name": "Axis Micro Brass",
-        "file": "axis_micro_brass.jpg",
-        "price": "150",
+    "models": [
+      {
+        "name": "Spinnicky Tri",
+        "file": "spinnicky_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
-        "name": "Axis Micro Copper",
+        "name": "Spinnicky Quad",
+        "file": "spinnicky_quad.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Spinnicky Pent",
+        "file": "spinnicky_pent.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Spinnicky Hex",
+        "file": "spinnicky_hex.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-03-20"
+      }
+   ]
+  },
+  "focus_works": {
+    "url": "http://www.focusworksedc.com/",
+    "name": "FocusWorks",
+    "models": [{
+        "name": "Axis Micro",
         "file": "axis_micro_copper.jpg",
         "price": "180",
-        "added": "2017-03-20"
+        "type": "Tri",
+        "added": "2016-12-29"
       },
       {
-        "name": "Axis Micro SS",
-        "file": "axis_micro_ss.jpg",
-        "price": "150",
-        "added": "2017-03-20"
+        "name": "Scarab",
+        "file": "scarab.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-08-04"
       },
       {
-        "name": "Axis Micro Stainless Steel",
-        "file": "axis_micro_stainless_steel.jpg",
-        "price": "150",
-        "added": "2017-03-20"
+        "name": "Axis Divide",
+        "file": "axis_divide.jpg",
+        "price": "180",
+        "type": "Bar",
+        "added": "2017-06-01"
       },
       {
-        "name": "Proto Axis Micro SS",
-        "file": "proto_axis_micro_ss.jpg",
-        "price": "40",
-        "added": "2017-03-20"
+        "name": "Micro Twist",
+        "file": "micro_twist.jpg",
+        "price": "180",
+        "type": "Tri",
+        "added": "2019-08-07"
       }
     ]
   },
@@ -2411,28 +2964,32 @@
     "url": "https://thraxxedc.com",
     "name": "Thraxx",
     "models": [{
-        "name": "Brass Thraxx",
-        "file": "brass_thraxx_spinner.jpg",
-        "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Copper Thraxx",
-        "file": "copper_thraxx_spinner.jpg",
-        "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "SS Thraxx",
-        "file": "ss_thraxx_spinner.jpg",
-        "price": "125",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ti Thraxx",
+        "name": "Thraxx",
         "file": "ti_thraxx_spinner.jpg",
-        "price": "175",
-        "added": "2017-03-20"
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-01-30"
+      },
+      {
+        "name": "Tri Thraxx",
+        "file": "tri_thraxx.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-20"
+      },
+      {
+        "name": "Mini Thraxx",
+        "file": "mini_thraxx.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-02-16"
+      },
+      {
+        "name": "Mini Tri Thraxx",
+        "file": "mini_tri_thraxx.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-02-17"
       }
     ]
   },
@@ -2443,6 +3000,7 @@
         "name": "TiSpin Prop",
         "file": "tispin_prop.jpg",
         "price": "500",
+        "type": "Bar",
         "added": "2017-04-16"
       }
     ]
@@ -2451,91 +3009,202 @@
     "url": "http://www.torqbar.com/",
     "name": "Torqbar",
     "models": [{
-        "name": "Brass Torqbar",
-        "file": "brass.jpg",
+        "name": "Spinner Core",
+        "file": "spinner_core.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2015-09-02"
+      },
+      {
+        "name": "Custom Torqbar",
+        "file": "torqbar_custom.jpg",
         "price": "139",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2015-10-01"
       },
       {
-        "name": "Stainless Steel Torqbar",
-        "file": "stainless_steel.jpg",
-        "price": "179",
-        "added": "2017-03-20"
+        "name": "Torqbar Solid Body",
+        "file": "torqbar_sb_brass.jpg",
+        "price": "139",
+        "type": "Bar",
+        "added": "2016-01-16"
       },
       {
-        "name": "Tellurium Copper Torqbar",
-        "file": "tellurium_copper.jpg",
-        "price": "149",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Titanium Torqbar",
-        "file": "titanium.jpg",
+        "name": "Luna",
+        "file": "luna.jpg",
         "price": "200",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2018-03-05"
+      },
+      {
+        "name": "Torqbar Mini",
+        "file": "torqbar_mini.jpg",
+        "price": "200",
+        "type": "Bar",
+        "added": "2018-09-23"
+      },
+      {
+        "name": "Torqpod",
+        "file": "torqpod.jpg",
+        "price": "200",
+        "type": "Bar",
+        "added": "2019-04-30"
+      },
+      {
+        "name": "Torqnut",
+        "file": "torqnut.jpg",
+        "price": "200",
+        "type": "Cog",
+        "added": "2019-05-15"
+      },
+      {
+        "name": "Torqbar Magnum",
+        "file": "magnum.jpg",
+        "price": "200",
+        "type": "Bar",
+        "added": "2019-07-07"
+      },
+      {
+        "name": "T3 Mini",
+        "file": "t3_mini.jpg",
+        "price": "200",
+        "type": "Tri",
+        "added": "2019-08-20"
       }
     ]
   },
   "trublu_mfg": {
-    "url": "http://trublumfg.com",
+    "url": "https://www.google.com",
     "name": "TruBlu MFG",
     "models": [{
         "name": "Cross Spinner",
         "file": "cross_spinner.jpg",
         "price": "60",
+        "type": "Quad",
         "added": "2017-03-20"
       },
       {
         "name": "Crossbone Spinner",
         "file": "crossbone_spinner.jpg",
         "price": "50",
+        "type": "Quad",
         "added": "2017-03-20"
       },
       {
         "name": "Sprocket Spinner",
         "file": "sprocket_spinner.jpg",
         "price": "55",
+        "type": "Cog",
         "added": "2017-03-20"
       },
       {
         "name": "Triblade Spinner",
         "file": "triblade_spinner.jpg",
         "price": "50",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Mini Spinner",
         "file": "stainless_steel_mini_spinner.jpg",
         "price": "50",
+        "type": "Cog",
         "added": "2017-03-20"
+      },
+      {
+        "name": "The King",
+        "file": "the_king.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-08-27"
       }
     ]
   },
   "llamatop": {
-    "url": "http://www.llamatop.com/",
+    "url": "http://www.google.com/",
     "name": "Llamatop",
     "models": [{
       "name": "Hammerhead Trio",
       "file": "hammerhead_spinner.jpg",
       "price": "85",
+        "type": "Tri",
       "added": "2017-06-06"
     }]
   },
   "ultraspinners": {
-    "url": "https://squareup.com/store/ultraspinners/",
+    "url": "https://www.google.com/",
     "name": "UltraSpinners",
     "models": [{
+      "name": "Modulator Bar (Mk1)",
+      "file": "modulator_bar.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-02-02"
+    },
+    {
+      "name": "Modulator Cog (Mk1)",
+      "file": "modulator_cog.jpg",
+      "price": "-1",
+        "type": "Cog",
+      "added": "2017-02-03"
+    },
+    {
+      "name": "Modulator Dice (Mk1)",
+      "file": "modulator_dice.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-02-04"
+    },
+    {
+      "name": "Modulator Primeforge (Mk1)",
+      "file": "modulator_eye.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-03-21"
+    },
+    {
       "name": "Ergo",
       "file": "ergo.jpg",
       "price": "-1",
-      "added": "2017-05-05"
+        "type": "Tri",
+      "added": "2017-03-09"
     },
     {
-      "name": "Modulator Aluminum Kit",
-      "file": "modulator.jpg",
-      "price": "130",
-      "added": "2017-05-05"
-    }]
+      "name": "Modulator Quad (Mk2)",
+      "file": "modulator_quad.jpg",
+      "price": "-1",
+      "type": "Quad",
+      "added": "2017-04-06"
+    },
+    {
+      "name": "Tattle Tale (Mk2)",
+      "file": "tattle_tale.jpg",
+      "price": "-1",
+      "type": "Bar",
+      "added": "2017-04-28"
+    },
+    {
+      "name": "Modulator Space (Mk2)",
+      "file": "modulator_space.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-05-25"
+    },
+    {
+      "name": "Ergo Beta",
+      "file": "ergo_beta.jpg",
+      "price": "-1",
+        "type": "Bar",
+      "added": "2017-07-12"
+    },
+    {
+      "name": "Ellipse",
+      "file": "ellipse_ring.jpg",
+      "price": "-1",
+        "type": "Ring",
+      "added": "2017-10-16"
+    }
+   ]
   },
   "oddiev": {
     "url": "https://www.instagram.com/oddiev/",
@@ -2544,89 +3213,158 @@
         "name": "Unnamed spinner",
         "file": "1.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-08-15"
       },
       {
         "name": "Unnamed spinner",
         "file": "2.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-08-15"
       },
       {
         "name": "Unnamed spinner",
         "file": "3.jpg",
         "price": "-1",
+        "type": "Bar",
         "added": "2017-08-15"
       }
     ]
   },
   "united_machining_llc": {
     "url": "https://www.unitedmachiningllc.com",
-    "name": "United Machinig LLC",
+    "name": "United Machining LLC",
     "models": [{
-        "name": "United Bow Tie",
-        "file": "united_bow_tie.jpg",
+        "name": "Bow Tie",
+        "file": "bow_tie_ss.jpg",
         "price": "75",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "United Northstar Brass",
-        "file": "united_northstar_brass.jpg",
-        "price": "135",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-03-19"
       },
       {
         "name": "United Northstar Copper",
         "file": "united_northstar_copper.jpg",
         "price": "140",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "United Northstar Stainless Steel",
-        "file": "united_northstar_stainless_steel.jpg",
-        "price": "165",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "United Northstar Titanium",
-        "file": "united_northstar_titanium.jpg",
-        "price": "175",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2017-03-19"
       },
       {
         "name": "Copper United Mini",
         "file": "copper_united_mini.jpg",
         "price": "35",
+        "type": "Cog",
         "added": "2017-10-21"
+      },
+      {
+        "name": "Tie Tri",
+        "file": "tie_tri.jpg",
+        "price": "35",
+        "type": "Tri",
+        "added": "2019-01-04"
       }
     ]
   },
   "vc_edc": {
-    "url": "https://www.vc-edc.com/",
+    "url": "https://www.google.com/",
     "name": "VC EDC",
     "models": [{
         "name": "Cog V1.2",
         "file": "cog_v12.jpg",
         "price": "47",
-        "added": "2017-04-08"
-      },
-      {
-        "name": "Mini Triton",
-        "file": "mini_triton.jpg",
-        "price": "50",
+        "type": "Cog",
         "added": "2017-04-08"
       },
       {
         "name": "VC Spinner",
         "file": "vc_spinner.jpg",
         "price": "40",
+        "type": "Bar",
         "added": "2017-04-08"
       },
       {
-        "name": "Clover Spinner",
-        "file": "clover_spinner.jpg",
+        "name": "Clover",
+        "file": "clover.jpg",
         "price": "45",
+        "type": "Quad",
         "added": "2017-04-08"
+      },
+      {
+        "name": "Triton",
+        "file": "triton_v1.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-01-11"
+      },
+      {
+        "name": "Triton V1.2",
+        "file": "triton_v1.2.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-02-28"
+      },
+      {
+        "name": "Mini Triton",
+        "file": "mini_triton_v1.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-04-26"
+      },
+      {
+        "name": "Triton V2",
+        "file": "triton_v2.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-05-15"
+      },
+      {
+        "name": "Mini Triton V2",
+        "file": "mini_triton_v2.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-10"
+      },
+      {
+        "name": "Biton",
+        "file": "biton.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-11"
+      },
+      {
+        "name": "Micro Triton",
+        "file": "micro_triton.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-10-15"
+      },
+      {
+        "name": "Hammer of God",
+        "file": "hammer_of_god.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-12"
+      },
+      {
+        "name": "Quadton",
+        "file": "quadton.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-02-20"
+      },
+      {
+        "name": "Pentatron",
+        "file": "pentatron.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-02-24"
+      },
+      {
+        "name": "Spinner",
+        "file": "aluminum_spinner.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-12-14"
       }
     ]
   },
@@ -2634,62 +3372,43 @@
     "url": "https://www.venomdd.com",
     "name": "Venom Defense & Design",
     "models": [{
-        "name": "Aluminum IFDGT",
-        "file": "ifdgt_aluminum.jpg",
-        "price": "30",
-        "added": "2017-04-09"
-      },
-      {
-        "name": "Brass IFDGT",
-        "file": "ifdgt_brass.jpg",
-        "price": "40",
-        "added": "2017-04-09"
-      },
-      {
-        "name": "Copper IFDGT",
-        "file": "ifdgt_copper.jpg",
-        "price": "50",
-        "added": "2017-04-09"
-      },
-      {
-        "name": "Stainless Steel IFDGT",
+        "name": "IFDGT",
         "file": "ifdgt_stainless.jpg",
         "price": "60",
-        "added": "2017-04-09"
+        "type": "Bar",
+        "added": "2017-04-10"
       },
       {
-        "name": "Titanium IFDGT",
-        "file": "ifdgt_titanium.jpg",
-        "price": "70",
-        "added": "2017-04-09"
+        "name": "TRIFDGT",
+        "file": "trifdgt.jpg",
+        "price": "60",
+        "type": "Tri",
+        "added": "2017-04-10"
       },
       {
         "name": "Apex",
         "file": "apex.jpg",
         "price": "139",
-        "added": "2017-04-09"
+        "type": "Tri",
+        "added": "2017-04-10"
+      },
+      {
+        "name": "Warhammer",
+        "file": "warhammer.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-04-17"
       }
     ]
   },
   "vinonlabs": {
-    "url": "https://vinonlabs.com/",
+    "url": "https://www.google.com/",
     "name": "Vinon Labs",
     "models": [{
-        "name": "Aluminium Sonder Tri",
-        "file": "aluminium_sonder_tri.jpg",
-        "price": "37",
-        "added": "2017-06-06"
-      },
-      {
-        "name": "Brass Sonder Tri",
-        "file": "brass_sonder_tri.jpg",
-        "price": "67",
-        "added": "2017-06-06"
-      },
-      {
-        "name": "Stainless Steel Sonder Tri",
+        "name": "Sonder Tri",
         "file": "stainless_steel_sonder_tri.jpg",
         "price": "82",
+        "type": "Tri",
         "added": "2017-06-06"
       }
     ]
@@ -2701,24 +3420,14 @@
         "name": "Flat Top Brass",
         "file": "flat_top_brass.jpg",
         "price": "197",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Flat Top Copper",
-        "file": "flat_top_copper.jpg",
-        "price": "197",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Flat Top Grip",
         "file": "flat_top_grip.jpg",
         "price": "55",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Flat Top Stainless",
-        "file": "flat_top_stainless.jpg",
-        "price": "148",
+        "type": "Cog",
         "added": "2017-03-20"
       }
     ]
@@ -2730,94 +3439,143 @@
         "name": "Vosano VKS",
         "file": "vosano_vks.jpg",
         "price": "320",
-        "added": "2017-04-15"
+        "type": "Bar",
+        "added": "2016-12-31"
+      },
+      {
+        "name": "Centrifuge",
+        "file": "centrifuge.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-06-22"
+      },
+      {
+        "name": "KNu VKS",
+        "file": "knu_vks.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-02-13"
       }
     ]
   },
   "wysteworks": {
-    "url": "http://www.wysteworks.com/",
+    "url": "https://www.google.com/",
     "name": "Wysteworks",
     "models": [{
         "name": "The Crownd",
         "file": "the_crownd.jpg",
         "price": "95",
+        "type": "Bar",
         "added": "2017-10-21"
       }
     ]
   },
   "yardwerx": {
-    "url": "http://yardwerx.bigcartel.com/",
+    "url": "https://www.google.com/",
     "name": "Yardwerx",
     "models": [{
         "name": "Brass Zik",
         "file": "brass_zik.jpg",
         "price": "45",
+        "type": "Tri",
         "added": "2017-03-20"
       },
       {
         "name": "Dab",
-        "file": "dab.jpg",
-        "price": "25",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Dab Brass Edition",
         "file": "dab_brass_edition.jpg",
         "price": "35",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Dab Gold Line Ceramic",
-        "file": "dab_gold_line_ceramic.jpg",
-        "price": "30",
+        "type": "Quad",
         "added": "2017-03-20"
       },
       {
         "name": "Fizill Bottle Opener",
         "file": "fizill_bottle_opener.jpg",
         "price": "40",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Zik Gold Line Ceramic",
-        "file": "zik_gold_line_ceramic.jpg",
-        "price": "36",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Ill",
         "file": "ill.jpg",
         "price": "28",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ill Custom Shop",
-        "file": "ill_custom_shop.jpg",
-        "price": "50",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Ill Gold Line Ceramic",
-        "file": "ill_gold_line_ceramic.jpg",
-        "price": "33",
+        "type": "Bar",
         "added": "2017-03-20"
       },
       {
         "name": "Zik",
         "file": "zik.jpg",
         "price": "31",
+        "type": "Tri",
         "added": "2017-03-20"
       }
     ]
   },
-  "yellow_day_energy": {
+  "yellowday_energy": {
     "url": "http://www.yellowdayenergy.com/",
-    "name": "Yellow Day Energy",
-    "models": [{
+    "name": "Yellowday Energy",
+    "models": [
+      {
         "name": "The Helix",
         "file": "the_helix.jpg",
         "price": "120",
+        "type": "Tri",
         "added": "2017-04-16"
+      },
+      {
+        "name": "Omni Bar",
+        "file": "omni_bar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-06-26"
+      },
+      {
+        "name": "Omni Tri",
+        "file": "omni_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-26"
+      },
+      {
+        "name": "Chub Bar",
+        "file": "chub_bar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-12-13"
+      },
+      {
+        "name": "Chub Tri",
+        "file": "chub_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-01-12"
+      },
+      {
+        "name": "Chubby Chub Bar",
+        "file": "chubby_chub_bar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-03-12"
+      },
+      {
+        "name": "Chubby Chub Tri",
+        "file": "chubby_chub_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-03-12"
+      },
+      {
+        "name": "Full Chub Bar",
+        "file": "full_chub_bar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-05-25"
+      },
+      {
+        "name": "Full Chub Tri",
+        "file": "full_chub_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-05-25"
       }
     ]
   },
@@ -2825,76 +3583,46 @@
     "url": "https://zerofeud.myshopify.com/",
     "name": "ZeroFeud LLC",
     "models": [{
-        "name": "Compass Aluminum Anodized",
-        "file": "compass_aluminum_anodized.jpg",
-        "price": "55",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Compass Brass 2x Tumble",
+        "name": "Compass",
         "file": "compass_brass_2x_tumble.jpg",
         "price": "150",
-        "added": "2017-03-20"
+        "type": "Bar",
+        "added": "2016-10-14"
       },
       {
-        "name": "Compass Copper 2x Tumble",
-        "file": "compass_copper_2x_tumble.jpg",
-        "price": "160",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Compass Mini Brass 2x Tumble",
-        "file": "compass_mini_brass_2x_tumble.jpg",
-        "price": "140",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Compass Mini Copper 2x Tumble",
-        "file": "compass_mini_copper_2x_tumble.jpg",
-        "price": "150",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Compass Mini Stainless Steel Brushed Flats",
-        "file": "compass_mini_stainless_steel_brushed_flats.jpg",
-        "price": "165",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Compass Mini Stainless Steel Machine Finish",
-        "file": "compass_mini_stainless_steel_machine_finish.jpg",
-        "price": "160",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Compass Titanium Blasted 2x Tumble",
-        "file": "compass_titanium_blasted_2x_tumble.jpg",
-        "price": "180",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "GAW GCR Spinner",
-        "file": "gaw_gcr_spinner.jpg",
-        "price": "200",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Mini Compass Titanium Blasted 2x Tumble",
-        "file": "mini_compass_titanium_blasted_2x_tumble.jpg",
-        "price": "180",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Compass Brass Blasted 2x Tumble 2nds",
-        "file": "tri_compass_brass_blasted_2x_tumble_2nds.jpg",
-        "price": "160",
-        "added": "2017-03-20"
-      },
-      {
-        "name": "Tri Compass Titanium Blasted 2x Tumble",
+        "name": "Tri Compass",
         "file": "tri_compass_titanium_blasted_2x_tumble.jpg",
         "price": "180",
-        "added": "2017-03-20"
+        "type": "Tri",
+        "added": "2016-11-17"
+      },
+      {
+        "name": "Compass Mini",
+        "file": "compass_mini.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-01-05"
+      },
+      {
+        "name": "Tri Compass Mini",
+        "file": "tri_compass_mini.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-09"
+      },
+      {
+        "name": "Compass Nano",
+        "file": "compass_nano.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-02-04"
+      },
+      {
+        "name": "Compass 360",
+        "file": "compass_360.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2019-07-21"
       }
     ]
   },
@@ -2902,28 +3630,25 @@
     "url": "https://www.etsy.com/shop/ZeroOneFive",
     "name": "ZeroOneFive",
     "models": [{
-        "name": "015 Boston Tri Spinner Brass",
+        "name": "Boston Tri",
         "file": "015_boston_tri_spinner_brass.jpg",
         "price": "85",
+        "type": "Tri",
         "added": "2017-04-02"
       },
       {
-        "name": "015 Boston Spinner Matte Black Steel",
+        "name": "Boston",
         "file": "015_boston_spinner_matte_black_steel.jpg",
         "price": "40",
+        "type": "Bar",
         "added": "2017-04-02"
       },
       {
-        "name": "015 Boston Tri Spinner Matte Black Steel",
-        "file": "015_boston_tri_spinner_matte_black_steel.jpg",
-        "price": "50",
-        "added": "2017-04-02"
-      },
-      {
-        "name": "015 Boston Spinner Brass",
-        "file": "015_boston_spinner_brass.jpg",
-        "price": "75",
-        "added": "2017-04-02"
+        "name": "Offset Bar",
+        "file": "offset_bar.jpg",
+        "price": "40",
+        "type": "Bar",
+        "added": "2017-10-10"
       }
     ]
   },
@@ -2934,12 +3659,14 @@
       "name": "Mini Pocket",
       "file": "mini_pocket.jpg",
       "price": "23",
+        "type": "Tri",
       "added": "2017-10-21"
     },
     {
       "name": "OE Star",
       "file": "oe_star.jpg",
       "price": "30",
+        "type": "Cog",
       "added": "2017-10-21"
     }]
   },
@@ -2950,7 +3677,1989 @@
       "name": "Atrium",
       "file": "atrium.jpg",
       "price": "40",
+        "type": "Tri",
       "added": "2017-10-21"
+    },
+    {
+      "name": "Arcade",
+      "file": "arcade.jpg",
+      "price": "40",
+        "type": "Bar",
+      "added": "2018-04-27"
+    },
+    {
+      "name": "Attic",
+      "file": "attic.jpg",
+      "price": "40",
+        "type": "Tri",
+      "added": "2018-12-04"
+    },
+    {
+      "name": "Sage",
+      "file": "sage.jpg",
+      "price": "40",
+        "type": "Bar",
+      "added": "2019-04-21"
+    },
+    {
+      "name": "Atrium Gen 2",
+      "file": "atrium_gen2.jpg",
+      "price": "40",
+        "type": "Tri",
+      "added": "2019-07-21"
+    },
+    {
+      "name": "Abacus",
+      "file": "abacus.jpg",
+      "price": "40",
+        "type": "Quad",
+      "added": "2019-10-16"
     }]
+  },
+  "cigreen": {
+    "url": "https://www.google.com/",
+    "name": "Cigreen",
+    "models": [{
+        "name": "Zenduo",
+        "file": "zenduo.jpg",
+        "price": "35",
+        "type": "Bar",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Metal F",
+        "file": "metal_f.jpg",
+        "price": "30",
+        "type": "Bar",
+        "added": "2017-03-20"
+      },
+      {
+        "name": "Mini Medic",
+        "file": "mini_medic.jpg",
+        "price": "30",
+        "type": "Quad",
+        "added": "2017-03-21"
+      },
+      {
+        "name": "Zentri",
+        "file": "zentri.jpg",
+        "price": "45",
+        "type": "Tri",
+        "added": "2017-03-20"
+      }
+    ]
+  },
+  "arkadiy_lukashenko": {
+    "url": "https://www.instagram.com/arkadiylukashenko/",
+    "name": "Arkadiy Lukashenko",
+    "models": [{
+        "name": "Scull Spinner",
+        "file": "celtic_button.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2016-11-23"
+      }
+    ]
+  },
+  "dark_edc": {
+    "url": "https://www.darkedc.com/",
+    "name": "Dark EDC",
+    "models": [{
+        "name": "Monolith",
+        "file": "monolith.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-04-04"
+      },
+      {
+        "name": "Minilith",
+        "file": "minilith.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-07-19"
+      },
+      {
+        "name": "Monolithic",
+        "file": "monolithic.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-10-31"
+      }
+    ]
+  },
+  "steel_flame": {
+    "url": "http://www.steelflame.com/",
+    "name": "Steel Flame",
+    "models": [
+      {
+        "name": "Ring Spinner",
+        "file": "ring.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2016-10-29"
+      },
+      {
+        "name": "Cog",
+        "file": "cog_ring.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2016-12-20"
+      },
+      {
+        "name": "Tri-Spin",
+        "file": "tri_spin.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-01-15"
+      }
+    ]
+  },
+  "devil_works": {
+    "url": "https://www.google.com/",
+    "name": "Devil Works",
+    "models": [{
+        "name": "Mini Spinner",
+        "file": "mini_spinner.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-09"
+      }
+    ]
+  },
+  "spin_designs_by_cami": {
+    "url": "https://www.spindesignsbycami.com/",
+    "name": "Spin Designs by Cami",
+    "models": [{
+        "name": "The Flux",
+        "file": "flux.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-06-29"
+      }
+    ]
+  },
+  "313inc": {
+    "url": "https://313inc.com/",
+    "name": "313 Inc",
+    "models": [{
+        "name": "Focus V2",
+        "file": "focus_v2.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-08"
+      },
+      {
+        "name": "Focus V2.1",
+        "file": "focus_v2.1.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-06-29"
+      },
+      {
+        "name": "Focus Gamma",
+        "file": "focus_gamma.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-05-22"
+      }
+    ]
+  },
+  "mpf_designs": {
+    "url": "https://www.google.com/",
+    "name": "MPF Designs",
+    "models": [{
+        "name": "Invader Drone",
+        "file": "invader_drone.jpg",
+        "price": "50",
+        "type": "Tri",
+        "added": "2017-01-18"
+      },
+      {
+        "name": "Invader Corvette",
+        "file": "invader_corvette.jpg",
+        "price": "65",
+        "type": "Bar",
+        "added": "2018-03-17"
+      },
+      {
+        "name": "Sector 5",
+        "file": "sector_5.jpg",
+        "price": "130",
+        "type": "Cog",
+        "added": "2018-05-17"
+      },
+      {
+        "name": "Pop Top",
+        "file": "pop_top.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-12"
+      }
+    ]
+  },
+  "mte_designs": {
+    "url": "https://www.etsy.com/shop/MTEdesignsUS",
+    "name": "MTE Designs",
+    "models": [{
+        "name": "Hummingbird",
+        "file": "hummingbird.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-23"
+      },
+      {
+        "name": "Tri-Bird",
+        "file": "tri_bird.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-10-06"
+      }
+    ]
+  },
+  "spin_now": {
+    "url": "https://spinnow.bigcartel.com/",
+    "name": "Spin Now",
+    "models": [{
+        "name": "Replay",
+        "file": "replay.jpg",
+        "price": "50",
+        "type": "Tri",
+        "added": "2019-06-01"
+      },
+      {
+        "name": "JoyRide",
+        "file": "joyride.jpg",
+        "price": "65",
+        "type": "Bar",
+        "added": "2019-06-29"
+      },
+      {
+        "name": "Replay 2",
+        "file": "replay_2.jpg",
+        "price": "130",
+        "type": "Tri",
+        "added": "2019-10-17"
+      },
+      {
+        "name": "Replay Bar",
+        "file": "replay_bar.jpg",
+        "price": "130",
+        "type": "Bar",
+        "added": "2019-10-17"
+      }
+    ]
+  },
+  "orbit_craftworks": {
+    "url": "https://www.etsy.com/shop/ORBiTcraftworks",
+    "name": "Orbit Craftworks",
+    "models": [
+      {
+        "name": "Duo with Carnelian Orbs",
+        "file": "bronze_duo_carnelian.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-03-14"
+      },
+      {
+        "name": "Tri with Tiger Eye Orbs",
+        "file": "bronze_tri_tiger_eyes.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-05-07"
+      }
+    ]
+  },
+  "conceptual_designs": {
+    "url": "https://conceptualdesigns.bigcartel.com/products",
+    "name": "Conceptual Designs",
+    "models": [
+      {
+        "name": "Rondelle",
+        "file": "rondelle.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-11-23"
+      },
+      {
+        "name": "Chaton (Prototype)",
+        "file": "chaton.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-08-06"
+      },
+      {
+        "name": "Amaryllis",
+        "file": "amaryllis.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-08-06"
+      }
+    ]
+  },
+  "alumafx": {
+    "url": "https://alumafx.com/",
+    "name": "AlumaFX",
+    "models": [
+      {
+        "name": "3 Shooter",
+        "file": "3_shooter.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-05-06"
+      },
+      {
+        "name": "4 Shooter",
+        "file": "4_shooter.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-06"
+      },
+      {
+        "name": "6 Shooter",
+        "file": "6_shooter.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-06"
+      },
+      {
+        "name": "Clamshell",
+        "file": "clamshell.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-09-30"
+      },
+      {
+        "name": "Turtle",
+        "file": "turtle.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2019-03-31"
+      },
+      {
+        "name": "Companion",
+        "file": "companion.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-10-11"
+      },
+      {
+        "name": "Comrade",
+        "file": "comrade.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2020-02-15"
+      }
+    ]
+  },
+  "true_spin": {
+    "url": "https://www.google.com/",
+    "name": "True Spin",
+    "models": [
+      {
+        "name": "Eternity",
+        "file": "eternity.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-09-25"
+      },
+      {
+        "name": "Velocity",
+        "file": "velocity.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-09-25"
+      },
+      {
+        "name": "Velocity Mini",
+        "file": "velocity_mini.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-09-25"
+      }
+    ]
+  },
+  "woosah": {
+    "url": "https://www.etsy.com/shop/WooSahUSA",
+    "name": "Woosah",
+    "models": [
+      {
+        "name": "Namaste",
+        "file": "namaste_og.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-05-10"
+      },
+      {
+        "name": "Cosmo",
+        "file": "cosmo_og.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-11"
+      },
+      {
+        "name": "Double Header",
+        "file": "double_header_og.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-12"
+      },
+      {
+        "name": "Cosmo Fun",
+        "file": "cosmo_fun.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-06-13"
+      },
+      {
+        "name": "Double Header Fun",
+        "file": "double_header_fun.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-06-14"
+      },
+      {
+        "name": "Namaste Fun",
+        "file": "namaste_fun.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-15"
+      },
+      {
+        "name": "Chakra",
+        "file": "chakra.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-23"
+      },
+      {
+        "name": "Boss",
+        "file": "boss.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-09-14"
+      },
+      {
+        "name": "Double Header Jr. Infinity",
+        "file": "double_header_jr_infinity.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-10-05"
+      },
+      {
+        "name": "Double Header Jr. Caliber",
+        "file": "double_header_jr_caliber.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-10-09"
+      },
+      {
+        "name": "AtaraXis",
+        "file": "ataraxis.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2017-10-26"
+      },
+      {
+        "name": "Double Header Jr. Ambassador",
+        "file": "dh_jr_ambassador.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-12-22"
+      },
+      {
+        "name": "Mini Chakra Zen",
+        "file": "mini_chakra_zen.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-12-22"
+      },
+      {
+        "name": "Mini Cosmo Web",
+        "file": "mini_cosmo_web.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-12-28"
+      },
+      {
+        "name": "Chakra Fortitude",
+        "file": "chakra_fortitude.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-01-27"
+      },
+      {
+        "name": "Chakra Imperial",
+        "file": "chakra_imperial.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-02-01"
+      },
+      {
+        "name": "Ataraxis Serpent",
+        "file": "ataraxis_serpent.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-02-02"
+      },
+      {
+        "name": "Ataraxis Air",
+        "file": "ataraxis_air.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-01-22"
+      },
+      {
+        "name": "Mini Namaste Zen",
+        "file": "mini_namaste_zen.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-02-05"
+      },
+      {
+        "name": "Namaste Ambassador",
+        "file": "namaste_ambassador.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-02-09"
+      },
+      {
+        "name": "Cosmo Zaftig",
+        "file": "cosmo_zaftig.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-03-16"
+      },
+      {
+        "name": "Double Header Jr. Zaftig",
+        "file": "dh_jr_zaftig.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-02-10"
+      },
+      {
+        "name": "Namaste Air",
+        "file": "namaste_air.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-03-16"
+      },
+      {
+        "name": "Namaste Zaftig",
+        "file": "namaste_zaftig.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-03-30"
+      },
+      {
+        "name": "Voda",
+        "file": "voda.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-04-17"
+      },
+      {
+        "name": "Ohana",
+        "file": "ohana.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-03-18"
+      },
+      {
+        "name": "Ohana Mini Vector",
+        "file": "ohana_mini_vector.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-05-31"
+      },
+      {
+        "name": "Double Header Jr. Air",
+        "file": "dh_jr_air.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-05-17"
+      },
+      {
+        "name": "Namaste Air Copper Inserts",
+        "file": "namaste_air_copper_inserts.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-04-26"
+      },
+      {
+        "name": "Double Header Jr. Chakra Zaftig",
+        "file": "dh_jr_chakra_zaftig.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-05-26"
+      },
+      {
+        "name": "Chakra Zaftig",
+        "file": "chakra_zaftig.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-05-10"
+      },
+      {
+        "name": "Ataraxis Mini Zaftig",
+        "file": "ataraxis_mini_zaftig.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-06-07"
+      },
+      {
+        "name": "Dh Chakra Fortitude",
+        "file": "dh_chakra_fortitude.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-08-01"
+      },
+      {
+        "name": "Namaste Acrylic Ice",
+        "file": "namaste_acrylic_ice.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-30"
+      },
+      {
+        "name": "Namaste Mantra",
+        "file": "namaste_mantra.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-08"
+      },
+      {
+        "name": "Ohana Ambassador",
+        "file": "ohana_ambassador.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-08-08"
+      },
+      {
+        "name": "Ohana Honeycomb",
+        "file": "ohana_honeycomb.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-07-29"
+      },
+      {
+        "name": "Guru",
+        "file": "guru.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-08-25"
+      },
+      {
+        "name": "Cosmo Channel",
+        "file": "cosmo_channel.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-11-25"
+      },
+      {
+        "name": "Double Header Chakra Voda",
+        "file": "dh_chakra_voda.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-11-19"
+      },
+      {
+        "name": "Mini Bouze Zaftig",
+        "file": "mini_bouze_zaftig.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-09-01"
+      },
+      {
+        "name": "Cosmo Voda",
+        "file": "cosmo_voda.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-10-15"
+      },
+      {
+        "name": "Double Header BeMuse",
+        "file": "dh_bemuse.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-12-31"
+      },
+      {
+        "name": "Guru Air",
+        "file": "guru_air.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-10-07"
+      },
+      {
+        "name": "Chakra Chamfer",
+        "file": "chakra_chamfer.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-10-22"
+      },
+      {
+        "name": "BeMuse Zaftig",
+        "file": "bemuse_zaftig.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-11-27"
+      },
+      {
+        "name": "Chakra Air Chamfer",
+        "file": "chakra_air_chamfer.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-02-03"
+      },
+      {
+        "name": "Cosmo Chamfer",
+        "file": "cosmo_chamfer.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2019-02-21"
+      },
+      {
+        "name": "Mini Chakra Chamfer",
+        "file": "mini_chakra_chamfer.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-03-17"
+      },
+      {
+        "name": "Mini Bouze Zaftig Worry Stone",
+        "file": "mini_bouze_zaftig_worry_stone.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-02-08"
+      }
+    ]
+  },
+  "modusworks": {
+    "url": "https://modusworks.myshopify.com",
+    "name": "ModusWorks",
+    "models": [
+      {
+        "name": "Spinamathing",
+        "file": "spinamathing.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-02-10"
+      },
+      {
+        "name": "Mini Spinamathing",
+        "file": "spinamathing_mini.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-07-24"
+      },
+      {
+        "name": "Spinamathing Tri",
+        "file": "tri_spinamathing.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-02-05"
+      },
+      {
+        "name": "Machinamathing",
+        "file": "machinamathing.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-03-07"
+      },
+      {
+        "name": "Megamathing",
+        "file": "megamathing.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-04-26"
+      },
+      {
+        "name": "Mini Machinamathing",
+        "file": "mini_machinamathing.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-08-02"
+      },
+      {
+        "name": "Machinamathing Tri",
+        "file": "machinamathing_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-08-08"
+      },
+      {
+        "name": "Mini Machinamathing Tri",
+        "file": "mini_machinamathing_tri.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-08-09"
+      },
+      {
+        "name": "Spinamathing Ergo",
+        "file": "ergo_st.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-12-14"
+      }
+    ]
+  },
+  "hand_spun_design": {
+    "url": "https://handspundesign.com/",
+    "name": "Hand Spun Design",
+    "models": [
+      {
+        "name": "Cloven",
+        "file": "cloven.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-02-13"
+      },
+      {
+        "name": "Ambler",
+        "file": "ambler.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-04-06"
+      },
+      {
+        "name": "Tri Ambler",
+        "file": "tri_ambler.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-26"
+      },
+      {
+        "name": "Bauble",
+        "file": "bauble.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-09-13"
+      },
+      {
+        "name": "Drift",
+        "file": "drift.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-07-26"
+      },
+      {
+        "name": "Dune",
+        "file": "dune.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-07-26"
+      }
+    ]
+  },
+  "vanpelt": {
+    "url": "https://www.google.com/",
+    "name": "VanPelt Innovations",
+    "models": [
+      {
+        "name": "Double",
+        "file": "double.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-06-19"
+      },
+      {
+        "name": "Triple",
+        "file": "triple.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-30"
+      },
+      {
+        "name": "Mini Triple",
+        "file": "mini_triple.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-09-29"
+      },
+      {
+        "name": "Mini Double",
+        "file": "mini_double.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-12-01"
+      },
+      {
+        "name": "Ring Spinner",
+        "file": "ring_spinner.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-12-01"
+      },
+      {
+        "name": "Quad",
+        "file": "quad.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2017-12-09"
+      },
+      {
+        "name": "Harbinger",
+        "file": "harbinger.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-12-30"
+      }
+    ]
+  },
+  "m3_metal_creations": {
+    "url": "https://m3metalcreations.com/",
+    "name": "M3 Metal Creations",
+    "models": [
+      {
+        "name": "FBX Trinity",
+        "file": "fbx_trinity.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-17"
+      },
+      {
+        "name": "Swag",
+        "file": "swag.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-12-01"
+      },
+      {
+        "name": "FBX Dyad",
+        "file": "fbx_dyad.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-03-16"
+      },
+      {
+        "name": "Tri Swag",
+        "file": "tri_swag.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-26"
+      },
+      {
+        "name": "Aurora",
+        "file": "aurora.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-08-17"
+      },
+      {
+        "name": "Aurora XL",
+        "file": "aurora_xl.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-12-04"
+      },
+      {
+        "name": "TriRora",
+        "file": "trirora.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-01-12"
+      },
+      {
+        "name": "Tranquilizer",
+        "file": "tranquilizer.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-08-18"
+      },
+      {
+        "name": "Tranquilizer ER",
+        "file": "tranquilizer_er.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-11-16"
+      }
+    ]
+  },
+  "kinetics_asia_pacific": {
+    "url": "https://www.kapedc.com/",
+    "name": "Kinetics Asia Pacific EDC",
+    "models": [
+      {
+        "name": "Pentagon",
+        "file": "pentagon.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-08-15"
+      },
+      {
+        "name": "Scarab",
+        "file": "scarab.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-11-29"
+      },
+      {
+        "name": "Poker",
+        "file": "poker.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-03-08"
+      },
+      {
+        "name": "Rose",
+        "file": "rose.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-15"
+      },
+      {
+        "name": "Petal",
+        "file": "petal.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-10-20"
+      },
+      {
+        "name": "Collision",
+        "file": "collision.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-11-23"
+      }
+    ]
+  },
+  "yecwork": {
+    "url": "https://www.yecwork.com/",
+    "name": "YEC Work",
+    "models": [
+      {
+        "name": "K2",
+        "file": "k2.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-05-02"
+      },
+      {
+        "name": "Mini Viper",
+        "file": "mini_viper.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-05-18"
+      },
+      {
+        "name": "Kitspin",
+        "file": "kitspin.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-06-25"
+      },
+      {
+        "name": "Mini Hunter",
+        "file": "mini_hunter.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-07-23"
+      },
+      {
+        "name": "Spaceship",
+        "file": "spaceship.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-07-24"
+      },
+      {
+        "name": "Donut",
+        "file": "donut.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2018-09-21"
+      },
+      {
+        "name": "Air Dart",
+        "file": "air_dart.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-07-26"
+      }
+    ]
+  },
+  "lautie": {
+    "url": "https://www.google.com/",
+    "name": "Lautie",
+    "models": [
+      {
+        "name": "Noiz",
+        "file": "noiz.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2018-06-06"
+      },
+      {
+        "name": "Roc",
+        "file": "roc.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-08-26"
+      },
+      {
+        "name": "Bit",
+        "file": "bit.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-05-27"
+      },
+      {
+        "name": "Bit3",
+        "file": "bit3.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-08-20"
+      },
+      {
+        "name": "Bit4",
+        "file": "bit4.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-12-03"
+      },
+      {
+        "name": "Noiz Atom",
+        "file": "noiz_atom.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2020-01-03"
+      }
+    ]
+  },
+  "mackie_lin": {
+    "url": "https://www.google.com/",
+    "name": "Mackie Lin",
+    "models": [
+      {
+        "name": "Pharoh",
+        "file": "pharoh_ring.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-10-21"
+      },
+      {
+        "name": "Shield",
+        "file": "shield.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-10-22"
+      },
+      {
+        "name": "Tri-Knight",
+        "file": "tri_knight.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-10-23"
+      },
+      {
+        "name": "Macaroon",
+        "file": "macaroon.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-10-29"
+      },
+      {
+        "name": "Sword",
+        "file": "sword.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-10-29"
+      },
+      {
+        "name": "Pulse",
+        "file": "pulse.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-10-24"
+      },
+      {
+        "name": "Tri Pulse",
+        "file": "tri_pulse.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-12-31"
+      },
+      {
+        "name": "Rui Beast",
+        "file": "rui_beast.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-03-25"
+      },
+      {
+        "name": "Core",
+        "file": "core.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-04-12"
+      }
+    ]
+  },
+  "orions_customs": {
+    "url": "https://www.google.com/",
+    "name": "Orion's Customs",
+    "models": [
+      {
+        "name": "Epiphany",
+        "file": "epiphany.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-06-19"
+      },
+      {
+        "name": "Shogun",
+        "file": "shogun.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-08-24"
+      }
+    ]
+  },
+  "celurion": {
+    "url": "https://www.google.com/",
+    "name": "Celurion",
+    "models": [
+      {
+        "name": "Bolt",
+        "file": "bolt.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-10-10"
+      },
+      {
+        "name": "Tri-Bolt",
+        "file": "tri_bolt.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-10-10"
+      },
+      {
+        "name": "Bolt Nano",
+        "file": "bolt_nano.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-10-12"
+      },
+      {
+        "name": "Tri-Bolt Nano",
+        "file": "tri_bolt_nano.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-10-12"
+      }
+    ]
+  },
+  "grimsmo": {
+    "url": "https://grimsmoknives.com/",
+    "name": "Grimsmo",
+    "models": [
+      {
+        "name": "Bar",
+        "file": "bar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-12"
+      },
+      {
+        "name": "Round Mini",
+        "file": "round_mini.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-06-06"
+      }
+    ]
+  },
+  "supercharger_innovations": {
+    "url": "https://www.google.com/",
+    "name": "Supercharger Innovations",
+    "models": [
+      {
+        "name": "Sphidget",
+        "file": "sphidget.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2016-12-16"
+      }
+    ]
+  },
+  "spingod": {
+    "url": "https://www.google.com/",
+    "name": "SpinGod",
+    "models": [
+      {
+        "name": "Talisman",
+        "file": "talisman.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-04"
+      }
+    ]
+  },
+  "glm_tec": {
+    "url": "https://www.google.com/",
+    "name": "GLM Tec",
+    "models": [
+      {
+        "name": "Geometrix",
+        "file": "geometrix.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-05"
+      },
+      {
+        "name": "Trimetrix",
+        "file": "trimetrix.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-25"
+      },
+      {
+        "name": "Xerometrix",
+        "file": "xerometrix.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-09-04"
+      },
+      {
+        "name": "Trhino",
+        "file": "trhino.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-14"
+      },
+      {
+        "name": "Lotus Wheel",
+        "file": "lotus_wheel.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-07-14"
+      },
+      {
+        "name": "Lotus Crystal",
+        "file": "lotus_crystal.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-07-14"
+      },
+      {
+        "name": "Lotus Petal",
+        "file": "lotus_petal.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-14"
+      }
+    ]
+  },
+  "we_knife": {
+    "url": "https://www.google.com/",
+    "name": "We Knife",
+    "models": [
+      {
+        "name": "S01",
+        "file": "s01.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-17"
+      },
+      {
+        "name": "S02",
+        "file": "s02.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-29"
+      }
+    ]
+  },
+  "smrt_gadget": {
+    "url": "https://www.smrtgadget.com/",
+    "name": "SMRT Gadget",
+    "models": [
+      {
+        "name": "Prometheus",
+        "file": "prometheus.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-15"
+      }
+    ]
+  },
+  "metalworn": {
+    "url": "https://www.metalworn.com/",
+    "name": "MetalWorn",
+    "models": [
+      {
+        "name": "Turbine V1",
+        "file": "turbine_v1.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2016-11-10"
+      },
+      {
+        "name": "Beacon",
+        "file": "beacon.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-01-24"
+      },
+      {
+        "name": "Turbine V2",
+        "file": "turbine_v2.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-02-09"
+      },
+      {
+        "name": "Reactor",
+        "file": "reactor.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-03-28"
+      },
+      {
+        "name": "Turbine V3",
+        "file": "turbine_v3.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-30"
+      },
+      {
+        "name": "Mini Turbine",
+        "file": "mini_turbine.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-04-21"
+      },
+      {
+        "name": "Crom's Eye",
+        "file": "croms_eye.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-06-21"
+      },
+      {
+        "name": "Mtype",
+        "file": "mtype.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-07-20"
+      }
+    ]
+  },
+  "all_things_spinning": {
+    "url": "https://www.allthingsspinning.com/",
+    "name": "All Things Spinning",
+    "models": [
+      {
+        "name": "ATS",
+        "file": "ats_ring.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-11-07"
+      },
+      {
+        "name": "ATS Mini",
+        "file": "ats_ring_mini.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2018-07-26"
+      }
+    ]
+  },
+  "maxace": {
+    "url": "https://www.google.com/",
+    "name": "Maxace",
+    "models": [
+      {
+        "name": "Andromeda",
+        "file": "andromeda.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-20"
+      }
+    ]
+  },
+  "mecarmy": {
+    "url": "http://www.mecarmy.com/",
+    "name": "MecArmy",
+    "models": [
+      {
+        "name": "GP1",
+        "file": "gp1.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-15"
+      },
+      {
+        "name": "GP2",
+        "file": "gp2.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-04-10"
+      },
+      {
+        "name": "GP3",
+        "file": "gp3.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-04-11"
+      },
+      {
+        "name": "GP5",
+        "file": "gp5.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-23"
+      },
+      {
+        "name": "GP6",
+        "file": "gp6.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-31"
+      }
+    ]
+  },
+  "stedemon": {
+    "url": "https://www.google.com/",
+    "name": "Stedemon Knives",
+    "models": [
+      {
+        "name": "Z01",
+        "file": "z01.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-01-08"
+      },
+      {
+        "name": "Z02",
+        "file": "z02.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-13"
+      },
+      {
+        "name": "Z04",
+        "file": "z04.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-04-11"
+      },
+      {
+        "name": "Z05",
+        "file": "z05.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-06-27"
+      },
+      {
+        "name": "Z07",
+        "file": "z07.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-09-19"
+      },
+      {
+        "name": "Z08",
+        "file": "z08.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-09-19"
+      }
+    ]
+  },
+  "kasfly": {
+    "url": "https://www.google.com/",
+    "name": "Kasfly",
+    "models": [
+      {
+        "name": "Crusader",
+        "file": "crusader.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-03-05"
+      },
+      {
+        "name": "Tri Crusader",
+        "file": "tri_crusader.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-03-29"
+      },
+      {
+        "name": "Armor",
+        "file": "armor.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-09-12"
+      },
+      {
+        "name": "Tri Armor",
+        "file": "tri_armor.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-09-29"
+      }
+    ]
+  },
+  "gold_und_messerschmiede": {
+    "url": "https://www.goldundmesserschmiede.de/",
+    "name": "Gold Und Messerschmiede",
+    "models": [
+      {
+        "name": "Sakura",
+        "file": "sakura.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-02-01"
+      }
+    ]
+  },
+  "fegve": {
+    "url": "https://www.google.com/",
+    "name": "FEGVE",
+    "models": [
+      {
+        "name": "Ring Spinner",
+        "file": "ring_spinner.jpg",
+        "price": "-1",
+        "type": "Ring",
+        "added": "2017-07-22"
+      }
+    ]
+  },
+  "aesthetics": {
+    "url": "https://www.google.com/",
+    "name": "Aesthetics",
+    "models": [
+      {
+        "name": "Arrow",
+        "file": "arrow.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-08-04"
+      }
+    ]
+  },
+  "gadgetaddix": {
+    "url": "https://www.etsy.com/shop/GadgetAddix",
+    "name": "GadgetAddix",
+    "models": [
+      {
+        "name": "Luxe 2-Blade 60",
+        "file": "luxe_2_blade_60.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-08-17"
+      },
+      {
+        "name": "Luxe 2-Blade 70",
+        "file": "luxe_2_blade_70.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-08-17"
+      },
+      {
+        "name": "Luxe 3-Blade",
+        "file": "luxe_3_blade.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-08-17"
+      }
+    ]
+  },
+  "tactical_keychains": {
+    "url": "https://tacticalkeychains.com/",
+    "name": "Tactical Keychains",
+    "models": [
+      {
+        "name": "Hex",
+        "file": "hex.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-01-31"
+      },
+      {
+        "name": "Splat",
+        "file": "splat.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-05-30"
+      }
+    ]
+  },
+  "relentless_hands": {
+    "url": "https://www.google.com/",
+    "name": "Relentless Hands",
+    "models": [
+      {
+        "name": "Original Tri Spinner",
+        "file": "first_tri_spinner.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2016-08-05"
+      }
+    ]
+  },
+  "bade_modern_designs": {
+    "url": "https://www.google.com/",
+    "name": "Bade Modern Designs",
+    "models": [
+      {
+        "name": "Persuader",
+        "file": "persuader.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-04-07"
+      }
+    ]
+  },
+  "polaris_at": {
+    "url": "http://polarisat.co.uk",
+    "name": "PolarisAT",
+    "models": [
+      {
+        "name": "Troika Minim",
+        "file": "troika_minim.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2016-11-06"
+      }
+    ]
+  },
+  "azewate": {
+    "url": "https://azewate.com",
+    "name": "Azewate",
+    "models": [
+      {
+        "name": "Python",
+        "file": "python_brass.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-09-18"
+      }
+    ]
+  },
+  "yurich_design": {
+    "url": "https://www.google.com",
+    "name": "Yurich Design",
+    "models": [
+      {
+        "name": "Black Lotus Tri",
+        "file": "black_lotus.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-08-11"
+      }
+    ]
+  },
+  "ispin": {
+    "url": "https://www.google.com",
+    "name": "ISpin",
+    "models": [
+      {
+        "name": "ISpin",
+        "file": "ispin.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-04-01"
+      }
+    ]
+  },
+  "revolvic": {
+    "url": "https://www.google.com",
+    "name": "Revolvic",
+    "models": [
+      {
+        "name": "Lotus",
+        "file": "lotus.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-07-05"
+      }
+    ]
+  },
+  "twosun_knives": {
+    "url": "https://www.google.com",
+    "name": "Twosun Knives",
+    "models": [
+      {
+        "name": "SP01",
+        "file": "sp01.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-05-14"
+      }
+    ]
+  },
+  "torqnado": {
+    "url": "https://www.google.com",
+    "name": "Torqnado",
+    "models": [
+      {
+        "name": "Chicago (Munsen Rings)",
+        "file": "chicago.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2016-11-05"
+      }
+    ]
+  },
+  "protovapor": {
+    "url": "https://www.google.com",
+    "name": "Protovapor",
+    "models": [
+      {
+        "name": "Glaive",
+        "file": "glaive.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-01-16"
+      }
+    ]
+  },
+  "fidgetrix": {
+    "url": "https://www.google.com",
+    "name": "Fidgetrix",
+    "models": [
+      {
+        "name": "Vortrix",
+        "file": "vortrix.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-06-11"
+      }
+    ]
+  },
+  "kennedy_vapor": {
+    "url": "https://www.google.com",
+    "name": "Kennedy Vapor",
+    "models": [
+      {
+        "name": "Balls Out",
+        "file": "balls_out.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2017-06-03"
+      }
+    ]
+  },
+  "muyi": {
+    "url": "https://www.google.com",
+    "name": "MUYI",
+    "models": [
+      {
+        "name": "Capsule",
+        "file": "capsule.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2019-06-16"
+      }
+    ]
+  },
+  "mr_dakun": {
+    "url": "https://www.google.com",
+    "name": "Mr Dakun",
+    "models": [
+      {
+        "name": "Worry Stone",
+        "file": "worry_stone.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-12-16"
+      }
+    ]
+  },
+  "jian_feng": {
+    "url": "https://www.google.com",
+    "name": "Jian Feng",
+    "models": [
+      {
+        "name": "Gamer",
+        "file": "gamer.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2019-10-29"
+      }
+    ]
+  },
+  "studio_bldrn": {
+    "url": "https://studiobldrn.bigcartel.com/",
+    "name": "Studio BLDRN",
+    "models": [
+      {
+        "name": "Interstellar",
+        "file": "interstellar.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2017-11-17"
+      }
+    ]
+  },
+  "evercarre": {
+    "url": "https://everecarre.com",
+    "name": "Evercarre",
+    "models": [
+      {
+        "name": "Gatsby",
+        "file": "gatsby.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2020-02-01"
+      }
+    ]
+  },
+  "valence_knives": {
+    "url": "https://valenceknives.com",
+    "name": "Valence Knives",
+    "models": [
+      {
+        "name": "Antimatter",
+        "file": "antimatter.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2017-07-20"
+      },
+      {
+        "name": "Binary Antimatter",
+        "file": "binary.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-04-01"
+      }
+    ]
+  },
+  "kts": {
+    "url": "https://www.google.com",
+    "name": "KTS",
+    "models": [
+      {
+        "name": "Spin X",
+        "file": "spin_x.jpg",
+        "price": "-1",
+        "type": "Quad",
+        "added": "2018-03-05"
+      },
+      {
+        "name": "Axe",
+        "file": "axe.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2018-07-25"
+      },
+      {
+        "name": "V16",
+        "file": "v16.jpg",
+        "price": "-1",
+        "type": "Bar",
+        "added": "2018-04-01"
+      },
+      {
+        "name": "Cheer Bell",
+        "file": "cheer_bell.jpg",
+        "price": "-1",
+        "type": "Cog",
+        "added": "2018-08-12"
+      }
+    ]
   }
 }
