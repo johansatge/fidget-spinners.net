@@ -5661,5 +5661,18 @@
         "added": "2018-08-12"
       }
     ]
+  },
+  "wwlz": {
+    "url": "https://www.google.com/",
+    "name": "WWLZ",
+    "models": [
+      {
+        "name": "Zeus Mini",
+        "file": "zeus_mini.jpg",
+        "price": "-1",
+        "type": "Tri",
+        "added": "2021-04-25"
+      }
+    ]
   }
 }
