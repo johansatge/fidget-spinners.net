@@ -11,13 +11,12 @@
     "filesize": "^3.6.1",
     "fs-extra": "^5.0.0",
     "html-minifier": "^3.5.12",
-    "node-sass": "^4.8.3",
     "osx-notifier": "^0.2.2",
     "webpack": "^4.2.0"
   },
   "scripts": {
     "watch": "chokidar src/**/* --command='npm run build'",
-    "build": "node build.js && php build_versioned_assets.php"
+    "build": "NODE_OPTIONS=--openssl-legacy-provider node build.js"
   },
   "engines": {
     "node": ">=6"

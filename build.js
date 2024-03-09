@@ -4,12 +4,13 @@ const fs       = require('fs-extra')
 const minify   = require('html-minifier').minify
 const notify   = require('osx-notifier')
 const filesize = require('filesize')
-const sass     = require('node-sass')
 const webpack  = require('webpack')
+const path = require('path')
 
 const webpackConfig = require('./src/webpack.config.js')
 
 prepareDist().then(() => {
+  fs.copySync('_headers', 'dist/headers')
   Promise.all([buildDatabase(), buildCSS(), buildJS(), copyImages(), copySpinners()])
     .then(([items, css, js]) => {
       buildHTML(items, css, js).then(sendNotification).then(() => process.exit(0))
@@ -46,22 +47,10 @@ function copySpinners() {
 function buildCSS() {
   console.log('Building CSS')
   return new Promise((resolve, reject) => {
-    const css = sass.render({
-      file: 'src/sass/main.scss',
-    }, (error, result) => {
-      if (error) {
-        console.error(error.message)
-        process.exit(1)
-      }
-      const css = result.css.toString()
-      const filename = 'styles.' + crypto.createHash('md5').update(css).digest('hex') + '.css'
-      fs.writeFile('dist/' + filename, css, (error) => {
-        if (error) {
-          console.error(error.message)
-          process.exit(1)
-        }
-        resolve(filename)
-      })
+    const css = fs.readFileSync('src/main.css')
+    const filename = 'styles.' + crypto.createHash('sha1').update(css).digest('hex') + '.css'
+    fs.copy('src/main.css', path.join('dist', filename), (error) => {
+      error ? reject(error) : resolve(filename)
     })
   })
 }
