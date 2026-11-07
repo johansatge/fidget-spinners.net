@@ -11,7 +11,7 @@ const webpackConfig = require('./src/webpack.config.js')
 
 prepareDist().then(() => {
   fs.copySync('_headers', 'dist/headers')
-  Promise.all([buildDatabase(), buildCSS(), buildJS(), copyImages(), copySpinners()])
+  Promise.all([buildDatabase(), buildCSS(), buildJS(), copyImages(), copySpinners(), copy404()])
     .then(([items, css, js]) => {
       buildHTML(items, css, js).then(sendNotification).then(() => process.exit(0))
     })
@@ -21,6 +21,15 @@ function prepareDist() {
   console.log('Cleaning dist')
   return new Promise((resolve, reject) => {
     fs.emptyDir('dist', (error) => {
+      error ? reject(error) : resolve()
+    })
+  })
+}
+
+function copy404() {
+  console.log('Copying 404 page')
+  return new Promise((resolve, reject) => {
+    fs.copy('src/404.html', 'dist/404.html', (error) => {
       error ? reject(error) : resolve()
     })
   })
